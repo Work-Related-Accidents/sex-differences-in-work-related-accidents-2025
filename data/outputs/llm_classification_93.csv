@@ -1,0 +1,708 @@
+0,operario,932
+1,mantencion,931
+2,operario de produccion,932
+3,ayudante soldado r,931
+4,operarios,932
+5,pioneta,933
+6,operario de bodega,933
+7,oepraria,932
+8,operaria,932
+9,ayud trefilado,932
+10,asistente de obra,931
+11,ayudante albañil,931
+12,pintor,931
+13,ayudante avanzado producc,932
+14,ayudante de taller,932
+15,descarga,933
+16,operaria de produccion,932
+17,operario produccion,932
+18,ayudante de carga,933
+19,ayudante soldador,932
+20,ayudante de produccion,932
+21,ayudante en obras,931
+22,filetera,932
+23,peoneta,933
+24,ayudante de electrico,931
+25,logistica pesaje camiones,933
+26,ayudante de planta,932
+27,capataz,931
+28,cargador,933
+29,operario huincha,933
+30,operario logistico,933
+31,ayudante electromecanico,932
+32,packing,932
+33,asistente de reparto,933
+34,operador terreno,933
+35,ayudante de operador,933
+36,tractorista,933
+37,descargador de camion,933
+38,ayudante de maquina,933
+39,ayud soldador,932
+40,maestro terminaciones,931
+41,recibidor de huincha,933
+42,trabajador,931
+43,colocador de royos,931
+44,rigger,933
+45,maestro minero,931
+46,operario junior,932
+47,operaria paking,932
+48,pulidor,932
+49,supervisor de terreno,931
+50,obrero,931
+51,operaria de bodega,933
+52,operadro mina,931
+53,movilizador estibador,933
+54,estivador,933
+55,operario de producion,932
+56,minero 2,931
+57,estibador de carga,933
+58,estibadora,933
+59,operario de poduccion,932
+60,ayudante de pasteleria,933
+61,ayudante de perforacion,931
+62,minero primera,931
+63,operario producion,932
+64,estibador,933
+65,operaria picking,933
+66,manipuladora arcas,933
+67,excabacion y otros,931
+68,operario cargador,933
+69,mantenedor mina,931
+70,minero operador,931
+71,excavador,931
+72,pilero,933
+73,operaria produccion,932
+74,repaletizadora,933
+75,descargador y cargador,933
+76,cot losa,931
+77,frigorifico,932
+78,ayudante de gasfiter,931
+79,labores de mantencion,933
+80,obrero produccion,932
+81,operario minero,931
+82,operario de carga,933
+83,mantencion vial,931
+84,operaria de cuadrilla,933
+85,m2,933
+86,suminstro de piso,933
+87,ayudante de enfierrador,931
+88,minero mantendor,931
+89,ayudante de panaderia,932
+90,operario en mina,931
+91,ayudante de oficial,931
+92,operaria de packing,932
+93,minero,931
+94,embaladora y pesadora,932
+95,opearario,931
+96,obrera,931
+97,minero de primera,931
+98,ayudante sondaje,931
+99,operador minero 2,931
+100,cargador despachador,933
+101,piqueador,931
+102,operario bodeguero,933
+103,operador minero,931
+104,manipulador de carne,932
+105,auxiliar de alimetacion,933
+106,ayudante de caldelero,932
+107,pique,931
+108,capataz de grupo,931
+109,contratista,931
+110,operario de bodegas,933
+111,operaria de picking,933
+112,descolgado de mortadela,932
+113,ayudante gasfiter,931
+114,poperario de bodega,933
+115,operarria,931
+116,oiperario de produccion,932
+117,operarios produccion,932
+118,bollera,932
+119,ayudante yalero,931
+120,operaria de base,932
+121,obrero ayudante,931
+122,operario descarga,933
+123,operaria planta,932
+124,jugador de futbol profesi,933
+125,peon de construccion,931
+126,trabajador operario,932
+127,ayudante minero,931
+128,operario industrial,932
+129,desmantelador,931
+130,jornalera,931
+131,operaria de pikking,933
+132,servel,933
+133,flotador,933
+134,limpiador de fieroo,932
+135,m1 minero,931
+136,operario deproduccion,932
+137,operaria fabrica,932
+138,fraccionador,932
+139,ladillera,931
+140,despostador carniceria,932
+141,perforo,931
+142,trabajadora produccion,932
+143,operario faena,931
+144,operario matadero,932
+145,minitor de taller,932
+146,tunelero,931
+147,pilero en mina,931
+148,reproceso,932
+149,encargado temperatura,933
+150,embarcador de carga,933
+151,operario senior,932
+152,marinero de cubierta,933
+153,tens en rayo,932
+154,operario de bdega,933
+155,tripulante descargador,933
+156,operio,932
+157,oeprario,931
+158,operaio de bodega,933
+159,cargador de camiones,933
+160,prefabricado,931
+161,mantenedora mina,931
+162,aydante perforacion,931
+163,ayudante enfierrador,931
+164,asistente de capataz,931
+165,operario producccion,932
+166,obrero de produccion,932
+167,operario de lavanderia,933
+168,operadora mina,931
+169,lavador pintor,933
+170,sellado de cajas,932
+171,prospector,931
+172,opeario de pozo,931
+173,operraio,931
+174,oeprario produccion,932
+175,meatro,932
+176,ayudante de carnicero,932
+177,operadora de mina,931
+178,operario y bodega,933
+179,cargador de tiro,933
+180,lavado y carga,933
+181,cunetero,931
+182,operador mina,931
+183,rmfierrador,931
+184,molera,931
+185,operador equipo mina,931
+186,ooperario de produccion,932
+187,operario de carga rampa,933
+188,minero de segunda,931
+189,opearrio de seleccion,932
+190,carrier,933
+191,ayudante tabiquero,931
+192,operaria varios,932
+193,escabador,931
+194,op produccion y bodega,933
+195,cargador y peoneta,933
+196,operario carniceria,932
+197,pollero,932
+198,marinado,933
+199,operario materias primas,932
+200,minero operacion,931
+201,funcion colaborador indus,932
+202,produccion de bodega,933
+203,jornal operario,931
+204,supervisor empaque,932
+205,operia de industrial,932
+206,operarios de produccion,932
+207,ayudante de jamonero,932
+208,oprario,933
+209,minero 1,931
+210,jornal y pintor,931
+211,cargador y despachador,933
+212,pickent manual,933
+213,operario de fabrica,932
+214,estibadores,933
+215,capataz general,931
+216,operador equipos mina,931
+217,gelatera,933
+218,obrero barraca,931
+219,encardo recepcion de acei,933
+220,estibador bodega,933
+221,embarcador,933
+222,ayudante pintin,931
+223,operario mina,931
+224,ayudante minero m2,931
+225,operaria industrial,932
+226,operador de extraccion,931
+227,cargador de combustible,933
+228,operario en triperia,933
+229,segundo oficial,933
+230,supervisor enfierraduras,933
+231,colaborador indust,932
+232,obrero n2,931
+233,operaio de produccion,932
+234,ayudante de urbanizacion,931
+235,operario de deposito,933
+236,jugador de futbol,933
+237,embolsadora de carne,932
+238,operario de carga y desca,933
+239,ayduante obrero,931
+240,oiperario,933
+241,asiste de produccion,932
+242,obrero municipal cargado,933
+243,operaria de piking,933
+244,jugadora de futbol,933
+245,bodeguero perfiero,933
+246,tempopera,932
+247,ayudante prodccion,932
+248,labores de obrero,931
+249,ayudante mineria,931
+250,volante de estruccion,931
+251,jefe de mina,931
+252,aspirante de cubierta,933
+253,cargador estivador,933
+254,operaria de fabrica,932
+255,operria,931
+256,maestro demolicion,931
+257,oprario de produccion,932
+258,guillotinero,932
+259,embolsador,933
+260,capatas b,931
+261,amarrador,933
+262,operrio de produccion,932
+263,m2 tapado y retiro,931
+264,operaria de prodcuccion,932
+265,m horno,932
+266,operaria de desposte,932
+267,operario y peoneta,933
+268,movilizar,933
+269,operariode produccion,932
+270,cargador de cajas,933
+271,jugador de fultbol,933
+272,operario bodeguera,933
+273,trabajador rotativo,933
+274,ayudante de prodcuccion,932
+275,operador de mina,931
+276,operaia produccion,932
+277,encargado cancha practica,933
+278,operario de prodcuccion,932
+279,corchando mangueras,932
+280,yalera,931
+281,certificar y jefe de faen,931
+282,operariop de produccion,932
+283,operador minera,931
+284,perforador,931
+285,manipulador de cuchillos,932
+286,joenal,933
+287,reponedor de patio constr,931
+288,ayudante de tostacion,932
+289,embalador y cargador,933
+290,reponedor patio construcc,933
+291,minero primero,931
+292,ayudante de minera,931
+293,movilizador uno,933
+294,operario carga y descarga,933
+295,area de mantencion,933
+296,oeprario de produccion,932
+297,cargador peoneta,933
+298,volcador,933
+299,amarradora,933
+300,operario produccoon,932
+301,aistente de produccion,932
+302,jefa de packing,932
+303,operador minero mantenedo,931
+304,operaria de producccion,932
+305,barmant,933
+306,operario de bodega gruero,933
+307,jefa de empaque,932
+308,operario de tunel,931
+309,bodeguero y otros,933
+310,temporero produccion,932
+311,operaria de matadero,933
+312,mantencion piscinas,933
+313,barrenera,931
+314,operario barista,933
+315,operario de temporada,932
+316,mano de obra,931
+317,refuerzo de produccion,932
+318,lipieza de vidrio,933
+319,obrero desinfeccion,933
+320,ayudante de minero,931
+321,play out,933
+322,trabajadora de packing,932
+323,jornalero concretero,931
+324,cargador pioneta,933
+325,operaria enp planta,932
+326,vidriero y aseo,933
+327,limpiador de acero,933
+328,operario de lixibiacion,931
+329,pickeador y revisor,933
+330,buzo mariscal,931
+331,huinchero yesero,931
+332,operario en produccion,932
+333,oficial de perforo,931
+334,mecanico en minera,931
+335,operario de matadero,932
+336,ayudante de produccuin,932
+337,operador minero dos,931
+338,destinador area filete,932
+339,jornal excavacion,931
+340,ayudante de relave,933
+341,operaria descarga,933
+342,ayudante de produccion te,932
+343,manipulador de bodega,933
+344,mina ug,931
+345,laminadora de quesos,933
+346,operario de prodiuccion,932
+347,cargador de tiros,931
+348,pantelero cementerio,933
+349,cubridor,932
+350,auxiliar de faena industr,932
+351,sellado,932
+352,ayudante de la planta,932
+353,ayudante en excavacion ob,931
+354,obrero de la construccion,931
+355,operario tronadura,931
+356,operario principiante,932
+357,ayudante d produccion,932
+358,jornal operaria,931
+359,lentora y repartidora,933
+360,capataz de muelle,933
+361,central mina,931
+362,operrio,931
+363,carga y descarga camion,933
+364,obrera textil,932
+365,operario basico,932
+366,inspector minero,931
+367,ayudante de producccion,932
+368,tunelera,931
+369,opraria,932
+370,operaria de riles,933
+371,sale adbison,933
+372,aux linea produccion,932
+373,operaria logistico,933
+374,obrero terminaciones,931
+375,capataz de urbanizacion,931
+376,ayud desarmaduria,932
+377,polvorinero,931
+378,carnicero de matadero,932
+379,operario camanchaca,932
+380,operraio faena,931
+381,ayudante en pintura,931
+382,supervisor minero,931
+383,operario manual,932
+384,ayudante de bahia,933
+385,pikeador,931
+386,abocador,933
+387,estivador de bodegas,933
+388,ayudando de produccion,932
+389,servicio de mina,931
+390,opeardor mina,931
+391,ayudante molienda,932
+392,operarios manufacturas,932
+393,ayudante de faena,933
+394,nivelador,931
+395,operaria e bodega,933
+396,asiste de rreposteria,932
+397,jefe turno mina,931
+398,minero segunda,931
+399,operario de exportaciones,933
+400,cortador en carne,932
+401,area de pos produccion,932
+402,operario de carga de equi,933
+403,maestro subterraneo,931
+404,m2 en mina,931
+405,subencargado de panaderia,932
+406,operario trabajador manua,932
+407,operario planta chancado,931
+408,descargador contenedores,933
+409,embalador cargador,933
+410,operario de sondaje,931
+411,operario jornal,931
+412,operario de prodeccion,932
+413,ayudanted e produccion,932
+414,operario de producccion,932
+415,operaro carga y descarga,933
+416,ayudante marmolero,931
+417,operario base,931
+418,ayudantede produccion,932
+419,operario de soldado,932
+420,chancador,931
+421,capataz oocc,933
+422,sincador,931
+423,transpaletero planta,933
+424,encargado de cuadrillas,931
+425,operario carga y descarg,933
+426,ayud de produccion,932
+427,ayudante maniobra,933
+428,consolidador de pallets,933
+429,ayudante de jefe faena,931
+430,jornal completo,931
+431,cargador ayuda cilindro,933
+432,operaria de producion,932
+433,cargador ayudante,933
+434,mano obra general,931
+435,capataz de mineria,931
+436,seccion parmesano,933
+437,opeararia,931
+438,opertivo de bodega,933
+439,operarioa de produccion,932
+440,toa,932
+441,operario de aeso,933
+442,aux de molienda,932
+443,operario en faena,931
+444,pesaje final,933
+445,reemplazo ordeñador,933
+446,maestro peoneta capataz,933
+447,operaria de pruccion,932
+448,oopearia,933
+449,reparador de pallets,933
+450,descarga y carga,933
+451,operaria multiuso,932
+452,picador,931
+453,capataz minero,931
+454,piquiadora en bodega,933
+455,operaria de bandejas,932
+456,manipulador de carga,933
+457,oprerario,932
+458,desconche,931
+459,despachador mina,931
+460,revolvedor,931
+461,ayudante generador de pla,932
+462,ayudante de producion,932
+463,ayudante de produciion,932
+464,operdaor mina,931
+465,minero mantenedor,931
+466,operario club,933
+467,extraportuaria,933
+468,operaria de pedido,933
+469,ayudante de cabezal,933
+470,operario faenas generales,931
+471,picador a,931
+472,trabajador industrial,932
+473,trabajador de planta,932
+474,picking de embalaje,933
+475,operador serv mina,931
+476,operador scoop interior mina,931
+477,operaro de bodega,933
+478,operario de procuccion,932
+479,demoledor,931
+480,pandero,933
+481,jornal minero,931
+482,ayudante de rodadores,933
+483,perario de produccion,932
+484,operario productivo,932
+485,operador mayor mina,931
+486,operario fabrica de cecin,932
+487,obrero en conservas,932
+488,obrero de suelo,931
+489,opraria de poduccion,932
+490,auxiliar de baldosas,931
+491,operario fabrica,932
+492,obreador de la plasma,932
+493,cargador camion,933
+494,enganche,933
+495,ayudante enfierrrador,931
+496,encargada de entrega,933
+497,operario de procucion,932
+498,mediera,931
+499,pañuelero,933
+500,ooperaria de produccion,932
+501,operador servicios min,931
+502,envalador,932
+503,operario de prudccion,932
+504,manipulador explosivos,931
+505,operrio de bodega,933
+506,buzo supervisor,933
+507,segundo capataz,931
+508,refrectario,931
+509,operaria y manipuladora,932
+510,minero ii,931
+511,encargada perecibles,932
+512,cargador linea produccion,932
+513,cofer y descarga,933
+514,ayudente en mina,931
+515,m2 minero,931
+516,operario de produciion,932
+517,mecanico int mina,931
+518,operaria preparando mate,933
+519,ayudante produccion junio,932
+520,rotisero carnicero,932
+521,mineria m2,931
+522,cuadrilla rueda de moldeo,932
+523,minero perforista,931
+524,bodeguero envasador,932
+525,aculatador,933
+526,operario manufactura,932
+527,preparacion vegetales,932
+528,operariao de produccion,932
+529,opwerario,932
+530,pioneta de tolva,933
+531,fabricacion,932
+532,mina open pit,931
+533,operaria lavado bandeja,932
+534,operaria de planchado,932
+535,operaria aspirante,932
+536,minero operador mantenedo,931
+537,operario de casino,933
+538,asistente de mina,931
+539,obrero de mantencion,933
+540,ayudante de peas,933
+541,opertario de produccion,932
+542,ayudante de enfierradura,931
+543,opewrario,932
+544,lector y repartidor de le,933
+545,operiria,931
+546,obrero logistica,933
+547,asistente en produccion,932
+548,carga camiones,933
+549,mantenedor en mina,931
+550,encargado de congelados,933
+551,operario d produccion,932
+552,oper bodega  cargador,933
+553,lavador de cubas,933
+554,jornal en construccion,931
+555,asitente de produccion,932
+556,supervisora deshuesado,932
+557,maestro 1 de andamios,931
+558,amasijo,932
+559,jefe de desposte,932
+560,sub benente,933
+561,lavador de automovil,933
+562,pony boys,933
+563,cam industria carniga,932
+564,jornal demolicion,931
+565,trabajador obrero,931
+566,peoneta bodega,933
+567,escarpador,931
+568,operario destroce,932
+569,opearrio,932
+570,operario e produccion,932
+571,opararia de produccion,932
+572,operaria general,932
+573,operario empalillado,932
+574,operario carg y descarg,933
+575,congretero,931
+576,minero especialista,931
+577,cocretero,931
+578,operario de cargas,933
+579,runner de produccion,932
+580,descarga y carga de conte,933
+581,cargadora de camion,933
+582,ayudante de tunelero,931
+583,operario descargador,933
+584,peones de carga,933
+585,barrenador,931
+586,cargador de bodega,933
+587,materialero,933
+588,manipuladorea de verduras,933
+589,operario de afabrica,932
+590,trabajo de obra,931
+591,jornal de logistica,933
+592,obero,931
+593,enc contro lcalidad,932
+594,ayudante produccion yunio,932
+595,auxiliar de chancado,932
+596,back coffee,933
+597,op de equipos mineros,931
+598,obrero construccion,931
+599,segundo de bodega,933
+600,ing en mina,931
+601,manipulador productos hid,932
+602,operador de lixiasion,933
+603,operraio despacho,933
+604,ayudante petrolero,931
+605,señalizacion ruta,933
+606,masntencion,932
+607,operario en faenaminto,932
+608,decarga,933
+609,descargador de camiones,933
+610,ayudante de staker,933
+611,maestro minero segundo,931
+612,operario de subproducto,932
+613,jugador de foodball,933
+614,auxiliar de producion,932
+615,m dos minero,931
+616,operario de segregacion,932
+617,ayudante de chancado,931
+618,operario temporal,932
+619,jefe de turno de mina,931
+620,sub jede panaderia,933
+621,peones de la construccion,931
+622,ayudante de cubiertas,933
+623,ayudante gral produccion,932
+624,ayudante armaduria,932
+625,multifuncional produccion,932
+626,minero carpintero,931
+627,operaria de prodccion,932
+628,molino,931
+629,operaria de palets,933
+630,capataz lider,931
+631,despachador de mina,931
+632,operario galponero,931
+633,bodeguero senior,933
+634,operario secundario,932
+635,ayyudante de produccion,932
+636,operador de equipo mina,933
+637,cuadrilla de puente,931
+638,operarrio de cuadrilla,931
+639,obreros,931
+640,cargadorz,933
+641,camara,933
+642,operario de renta,933
+643,ayudante de trozador,932
+644,vidriero limpieza vidrios,933
+645,despeje de camino,931
+646,enfierrador obrero,931
+647,descargadora de acido sul,933
+648,encargada de serv al cl,933
+649,capataz junior,931
+650,chapa,931
+651,ayudante manipulacion ali,933
+652,operario bodega camara fr,933
+653,operario der produccion,932
+654,operaria de bodega de ela,933
+655,enganche//carga nacional,933
+656,noqueador,932
+657,abrero,931
+658,jfe de cuadrilla,931
+659,operario partime,933
+660,reparto en terreno,933
+661,manipuladora alim,933
+662,auxiliar de gasfiter,931
+663,operaria de ohiggins,931
+664,cuarteador,931
+665,operario produccion b,932
+666,ayudante de carga camion,933
+667,consolidador de carga,933
+668,operoario mutifuncional,932
+669,operario de prodduccion,932
+670,obrerta,931
+671,operaria de packink super,932
+672,chancadora,931
+673,ayudante de bloquera,931
+674,eperario,932
+675,ayudante avan de gasfiter,931
+676,apoyo en produccion,932
+677,estibador portuario,933
+678,oeprario de carga y desca,933
+679,ayudante industrial,932
+680,ayduante sondaje,931
+681,operario altillo,932
+682,m2 operario minero,931
+683,estivador de carga,933
+684,logistica carga y descarg,933
+685,pintor y ayudante,931
+686,operario poduccion,932
+687,trabajador de tuneles,931
+688,operaro,932
+689,auxiliar piezzero,932
+690,minero dos,931
+691,operario corta canales,933
+692,operdora mina aprendiz,931
+693,oerario,932
+694,embasado de pan,932
+695,aspirando y lavado autos,933
+696,operario de chancado,931
+697,minero de 1ra,931
+698,servicio mina,931
+699,rotulador,933
+700,mantencion de calles,933
+701,opraruio de matadero,933
+702,ayudante de cuarto frio,933
+703,limpieza diques,933
+704,operario de terreno y tal,931
+705,descargador pioneta,933
+706,ornero,931
+707,operario de productividad,932

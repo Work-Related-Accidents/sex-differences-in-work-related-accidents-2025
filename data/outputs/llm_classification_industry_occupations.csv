@@ -1,0 +1,6141 @@
+0,mecanico,723
+1,trabajador agricola,921
+2,operador de cnc,722
+3,segundo maquina,834
+4,jornal,000
+5,conductor,832
+6,trazador,721
+7,operador,000
+8,tecnico mecanico,723
+9,operdaor planta,000
+10,temporero,921
+11,encargado de riego,921
+12,operador de maq agricola,834
+13,chofer,832
+14,chofer y operador,832
+15,operario de maquinaria,834
+16,encargado maquinaria,834
+17,conductor grua,834
+18,obrero agricola,921
+19,operador de grua,834
+20,operador de maquinaria,834
+21,ayudante mecanico,723
+22,soldador,721
+23,maestro soldador,721
+24,chofer de carga,833
+25,mantencion areas verdes,921
+26,conductor 1530,000
+27,operador maquinaria,834
+28,conductor y peoneta,832
+29,maestro mecanico,723
+30,tecnico laminador,722
+31,mecanico mantencion,723
+32,operador caldera,818
+33,conductor de camion,833
+34,motoserrista,834
+35,bodeguero y chofer,933
+36,operador de maquina,000
+37,operador maquinaria pesad,834
+38,conductor de carga pesada,833
+39,conductor operador,834
+40,mecanico a,723
+41,mantencion de maquinaria,723
+42,operario agricola,921
+43,tripulante de nave,835
+44,condcutor de reparto,832
+45,campero,921
+46,trabajador de temporada,921
+47,operador grua,834
+48,operario maquina,000
+49,operario de planta,000
+50,operador general,000
+51,op de grua,834
+52,operador de maquinas,000
+53,maquinista,831
+54,jardinero,921
+55,operario de caldera,818
+56,conductores de camiones p,833
+57,ductero,000
+58,repartidor,832
+59,selecionador de madera,921
+60,mecanico de cinta,000
+61,operador de maq pesada,834
+62,conductor de retroescabad,834
+63,reparador,723
+64,mantencion de canchas,000
+65,operario taller,722
+66,traspaletero,834
+67,maestro enfierrador,931
+68,operador de maquina pesad,834
+69,tornero,722
+70,movilizador y cargador,933
+71,mecanico tornero,722
+72,empalmero,721
+73,operador de camara de fri,000
+74,conductor de ambulancia,832
+75,conductor estafeta y ope,832
+76,operador terreno secadora,816
+77,mecanico soldador,721
+78,maestro en mantenimiento,000
+79,maestro carrocero,722
+80,operador de plancha,814
+81,control linea,000
+82,operario embalador,932
+83,enzunchador,000
+84,operador aplicador,000
+85,electricista de primera,000
+86,supervisor de buzo,000
+87,maestro pinchador,000
+88,asistente de ruta,000
+89,operador de caldera,818
+90,conductor peoneta,832
+91,desabollador,721
+92,operario traspaleta elect,834
+93,labores de matadero,000
+94,mensajero,832
+95,operador de prensa,814
+96,riger,834
+97,soldador mecanico,721
+98,mecanico planta,723
+99,asistente mecanico,723
+100,ayudante instalador,722
+101,maestro en fierro,721
+102,dj en discoteque,000
+103,vidriero,818
+104,jornalero,921
+105,picking,933
+106,operario de vendimia,921
+107,instalador,000
+108,carrero,832
+109,soldador calificado,721
+110,maestro granallador,812
+111,soldador de hdpe,721
+112,carpintero andamiero,931
+113,mecanico mantenedor,723
+114,mecanico desabollador,721
+115,operador de mini cargadao,834
+116,ayudante de mecanico avan,723
+117,maestro yesero,932
+118,conductor ambulancia,832
+119,operador de televi,000
+120,operador de riles,818
+121,operador empaquedator,932
+122,mecanicos,723
+123,ayudante de soldador,932
+124,operador de huincha,000
+125,motorista,832
+126,apilador electric logisti,933
+127,soldadora,721
+128,soldador tic,721
+129,maestro mantencion,000
+130,supervisor operador tecni,000
+131,cortador perforador,000
+132,tec conductor,832
+133,conductor despachador,833
+134,maestro estuctural,000
+135,carpintero de moldaje,000
+136,operador de maquinaria ag,834
+137,conductor jornal,833
+138,operador y mantencion,000
+139,ayudante de mecanico,723
+140,crew,835
+141,piloto,000
+142,rondin,833
+143,oeprador,000
+144,maestro instalador,000
+145,repartidor lector enel,000
+146,operario aserradero,817
+147,conductor cuartelero,832
+148,chofer de camiones,833
+149,operario de maquina,000
+150,operador de briquetas,818
+151,maestro calderero,721
+152,area mantencion,000
+153,operador de bodega,933
+154,mecanico de mantenimiento,723
+155,operador camion mixer,833
+156,delivery,832
+157,operador de evaporacion,813
+158,conductor y maestro,832
+159,maestro ductero,721
+160,ayudante rectificador,722
+161,maquinista hornero,000
+162,lider de maquina,000
+163,operario cosechero,921
+164,conductor de camion 3 cua,833
+165,inyectorista,813
+166,pickin,933
+167,courrier,832
+168,mecanico de maquinarias,723
+169,maestro armador,721
+170,conductor profesional,833
+171,operador maquinas,818
+172,operador industrial,000
+173,transporte,933
+174,transportista jefe grupo,000
+175,soldador y jornal,721
+176,encargado de maestranza,000
+177,conductor y operador,832
+178,instalador de ventanas,722
+179,ayudante de instalacion,000
+180,operador movil,834
+181,calderero armador,721
+182,volante,000
+183,piloto oficial guardiero,000
+184,operardor maquinaria,834
+185,operador de transportador,933
+186,preparador automotriz,723
+187,gasificador,818
+188,operador suministro electrico,000
+189,operador de sorter central,000
+190,perforista,811
+191,operador bomba,834
+192,operador de central seg,000
+193,auxiliar de camion,932
+194,chofer mecanico,723
+195,conductor forestal,834
+196,chofer y mantencion,832
+197,operador de moldurera,814
+198,conductor ayudant de bode,933
+199,movilizador y chofer,832
+200,faenador,932
+201,operador excavadora,834
+202,operador grua barco,835
+203,operador camion,833
+204,operador de faena,000
+205,chofer capataz,832
+206,operador de planta,000
+207,ito mecanico,723
+208,cortador carnicero,000
+209,transportista,933
+210,armador mancheras,000
+211,conductor de furgon,832
+212,operador de pulpa,817
+213,operador de sondaje,811
+214,matarife,000
+215,operador 3,000
+216,operador de camion,833
+217,tripulante general,000
+218,soleria planta de zapatos,814
+219,operador de equipo,834
+220,chofer descargador,832
+221,operador camion pluma,834
+222,operador de cepilladora,722
+223,soldador d,721
+224,gruero,834
+225,mecanico montajista,723
+226,repartidor motorizado,832
+227,mecanico operador maquina,723
+228,patron de nave menor,835
+229,tripulante de cubierta,835
+230,operario carga y transpor,933
+231,grueso,000
+232,jefe de instalaciones,000
+233,operario de logistica,933
+234,chofer de camion,833
+235,operario de faena,931
+236,mecanico revisor,723
+237,maestro operador,000
+238,chofer pioneta,832
+239,conductor camion,833
+240,operador chipiadora,834
+241,operador y conductor,000
+242,conductor camion cisterna,833
+243,operario movilizador carg,933
+244,op de maquina,000
+245,arriador,921
+246,descargador,933
+247,liniero,721
+248,manipulacion de carga,933
+249,chofer de bus,833
+250,operario de camion pesado,833
+251,asistente de descarga,933
+252,bodeguero peoneta,933
+253,chofer mantencion,000
+254,camionero,833
+255,conductor carro bomba,833
+256,manejo de maquinaria,834
+257,junior motorizado,832
+258,operario maquinaria pesad,834
+259,carguero,933
+260,despalmador,000
+261,operador de sierra huinch,834
+262,opperario de maquinaria,834
+263,supervisor mecanico,000
+264,operador de camaras,000
+265,auxiliar conductor,832
+266,electrico y montaje,000
+267,conductor rampla,833
+268,operador de mantnecion,000
+269,operador de grua horquill,834
+270,auxiliar de camion del as,933
+271,jaradero,000
+272,operador scoop,834
+273,rectificador,722
+274,operador remanufactura,000
+275,gasfiter maestro mayor,000
+276,operador de torre,834
+277,operador frontal,834
+278,maestro m1 carpintero,722
+279,operador tractor,834
+280,jornal paletero,000
+281,maestro asfalto,931
+282,encargado de maquinaria,834
+283,encarpador,721
+284,asistente de linea,000
+285,m1 electrico,000
+286,maestro primera montaje,000
+287,operador de maquiinaria,834
+288,mecanico de servicio,723
+289,pintor automotriz,722
+290,operaria de faena,931
+291,mecanico de primera,723
+292,operador de maquina 2,000
+293,operador grua pluma,834
+294,operador andaniveles,834
+295,jeve de taller,000
+296,ayudante aserradero,921
+297,conductor de faena,832
+298,chofer despachador,833
+299,operador de cuadrilla,834
+300,operario molde,722
+301,inspector de patio,000
+302,operador grua horquilla,834
+303,supervisor de maquinaria,000
+304,maestro pulidor,812
+305,soldador armados,721
+306,encargado maquina,818
+307,operador de bomba,000
+308,operador parquimetro,000
+309,maestro hidraulico,000
+310,operador de patio,933
+311,galponero,000
+312,operador planta,813
+313,bodeguero pioneta,933
+314,ayudante de hojalatero,721
+315,operaror de maquina,000
+316,operador mecanico,723
+317,operadora de maquina,814
+318,ayudante en climatizacion,000
+319,ayudante mecanica,723
+320,operario maquinista,834
+321,chofer auxiliar,832
+322,cargador de cerdo,921
+323,fucionador,812
+324,operador maquina pesada,834
+325,mecanico y chofer,832
+326,operador mantenedor,000
+327,chofer de micro,833
+328,manmtenedor mecanico,723
+329,ayudante en rutas,933
+330,contador de fierro,000
+331,peon de carga,933
+332,operador maquinaria agric,834
+333,conductor y ayudante oper,000
+334,mecaniso caldenero,721
+335,operador de procesos,000
+336,futbolista,000
+337,molinero,816
+338,operador de hornos,818
+339,operario maquina herramie,722
+340,operador de linea,000
+341,buzo basico,000
+342,ayudante de vinificacion,000
+343,mecacino,000
+344,operador de canteadora,818
+345,maestro mayor en armado,000
+346,operador de plegadoras,812
+347,operativo,000
+348,conductor camiones,833
+349,agente rampa,933
+350,ayudante de pozo,811
+351,tripulante de maquina,000
+352,lider mecanico,723
+353,tabiquero metalico,931
+354,chofer y compras,000
+355,operario grua,834
+356,tornero mecanico,722
+357,mecanico especialista,723
+358,jalero,000
+359,operador bobinador,814
+360,sector transito,000
+361,mensajeria,832
+362,conductor ayudante,833
+363,a operador grua,834
+364,pickit,000
+365,conductor de bus,833
+366,operario en grua,834
+367,mecanico lider,723
+368,chofer de operario,832
+369,operador mini cargador,834
+370,mozo de enbalaje,932
+371,trctorista,834
+372,masestro calderero,721
+373,encargado de mantencion,000
+374,operador multifuncional,000
+375,matricero,722
+376,maestro hojalatero,721
+377,conductor ayudante maest,000
+378,calderero,721
+379,operador camion tolba,834
+380,operador equipo pesado,834
+381,operador palnata,000
+382,mecanico de taller,723
+383,buzo mariscador,921
+384,operador de cocedores,816
+385,maestro metales,722
+386,operador de grua orquilla,834
+387,op maquina dimensionador,818
+388,chofer repartidor,832
+389,operador tractocamion,833
+390,conductor de camion tolva,833
+391,maestro gasfitero,000
+392,atendedor de estacion de,000
+393,operador de caseta,000
+394,mecanic maquinaria pesada,723
+395,operador especilista,000
+396,operario de grua,834
+397,maestro soldaje,721
+398,fileteador,000
+399,soldador armador,721
+400,operador 1,000
+401,opeardor mantenedor,000
+402,maestro extructural,000
+403,maestro gafiter,000
+404,chofer de tractor,834
+405,jornal agricola,921
+406,operador de cctv,000
+407,mecanico armado,723
+408,ayudante de talador,921
+409,soldador en estructuras m,721
+410,operativo de bodega,933
+411,operador de terreno,834
+412,operador mixer,818
+413,operador de camara,000
+414,mastro de estructura,721
+415,sopldador,721
+416,ayudante de armador,933
+417,auxiliar de bus,933
+418,ayudante de tornelero,722
+419,maestro montajes estructu,721
+420,yudante mecanico,000
+421,operador de maquinaria pe,834
+422,asistente de instalacion,933
+423,mecanico primera,723
+424,patron de lancha,835
+425,soldador al punto,721
+426,operador de hoxicorte,722
+427,conductor trepartidor,832
+428,mecanico en mantencion,723
+429,operario aquicola,921
+430,lijador,812
+431,operador mixser,816
+432,conductor esach,833
+433,ayudante perforo,811
+434,lider de rampa,933
+435,manipulacion de vehiculos,832
+436,op camara de frio,933
+437,inspector de ruta,000
+438,operador equipo apoyo,000
+439,liberador de productos,000
+440,mecanico de turno,723
+441,ayudante de sondaje,921
+442,operador procesador,814
+443,tripulante general cubier,835
+444,operario de packing,932
+445,peineta bodeguero,933
+446,ayudante de ruta,933
+447,cosechero,921
+448,gsfiteria hidraulica,000
+449,conductor  peoneta,933
+450,jardinero cortador,921
+451,operador bodega,933
+452,conductor y op de autocar,833
+453,auxiliar camion del agua,933
+454,operario de mortalidad,000
+455,operario grua horquilla,834
+456,operador multiple,000
+457,junior preparador de vehi,723
+458,operario de bader,932
+459,macanico mantenedor,723
+460,seleccionador,000
+461,enc equipos industriales,723
+462,armador soldador,721
+463,operador de retiro,000
+464,asistente bus,833
+465,tec maquinaria pesada,834
+466,prefilador,000
+467,operador de pinomatic,818
+468,movilizador de grua,834
+469,operador de altura,000
+470,conductor integral,833
+471,cortador de fierros,722
+472,pistero,000
+473,soldador industrial,721
+474,motorista rider,832
+475,movilizador de cilindro,833
+476,mecanico armador,723
+477,operador gruas puerto,834
+478,chofer ayudante de bodega,933
+479,repartidor delivery,832
+480,operador de mantencion,000
+481,oficial de maquina,834
+482,auxiliar de chofer,832
+483,podadero,921
+484,soldador armado,721
+485,operario de invernadero,921
+486,pelletero,815
+487,chapista calderero,721
+488,op de bomba de hormigon,834
+489,operador nocturno,000
+490,trabajador de packing,932
+491,conductor de camiones,833
+492,repartidor de gas,933
+493,operador tres,000
+494,repartidor conductor,832
+495,maestro tornero,722
+496,peineta de camion,833
+497,pikiador,931
+498,conductor pioneta,833
+499,operario tractorero,834
+500,ayudante de matricero,722
+501,conductor seg ciudadana,832
+502,meanico primera,723
+503,operario de grua orquilla,834
+504,repartidor correspondenci,832
+505,cosechador,921
+506,mantenimiento mecanico,723
+507,ayudante de pintor,932
+508,conductor maestro,000
+509,operario de picking,933
+510,mecanico industrial,723
+511,operadsor de aserradero,817
+512,operador de montacarga,834
+513,operador sala,000
+514,operario despacho,933
+515,jefe chofer repartidor,832
+516,operador apilador electri,834
+517,galvanizador,812
+518,operario de camara de fri,000
+519,ayudante de chofer,933
+520,responsable de operacion,000
+521,operario camara de frio,933
+522,mecanico servicio pesado,723
+523,jefe de choferes,000
+524,mecanico de maquinaria,723
+525,soldador pozo profundo,721
+526,tripulante general de c,835
+527,conductor encargado de b,833
+528,esmerilando,722
+529,operador lavador,815
+530,chofer y tecnico,000
+531,curtidor de cuero,815
+532,operdor grua,834
+533,mestro hidraulico,000
+534,operario de despacho de f,933
+535,ranero,000
+536,chofer de camioneta escol,832
+537,operardor de bodega,933
+538,mecanico de derrocarriles,723
+539,operador hidrocooler,818
+540,conductor de empresa gas,832
+541,soldador l1,721
+542,montajista armador,721
+543,conductor bodeguero,933
+544,mecanico de maquinas,723
+545,auxilar de embalaje,932
+546,ayudante armador,721
+547,ayudante chofer,933
+548,faenero,933
+549,orillador,000
+550,maestro de granallla,000
+551,operador de dron,000
+552,surtidor,933
+553,palanquero,933
+554,asistente de transportes,933
+555,operario logistica,933
+556,maestro emplacador,931
+557,mnotocierrista,000
+558,operario gruas horquilla,834
+559,mecanico electrohidraulic,723
+560,operario de cerdo,921
+561,operadodr maquina,000
+562,operario de conveyer,933
+563,operador maquinaria fore,834
+564,operador segunda,000
+565,operador maquina de corte,814
+566,ayudante cromado,812
+567,conductor furgon,832
+568,maquinaria pesada,834
+569,operador torneria,722
+570,ajustador de moldes,722
+571,operador de tractor,834
+572,enfilador,818
+573,operador perforadora,811
+574,operador mantenedor plant,000
+575,jornal enfierrador,931
+576,operador de maquinaria p,834
+577,motorista repartidor,832
+578,buceador,000
+579,operador de plata,000
+580,tripulante de cabina,000
+581,supervisor de andariveles,000
+582,operador terreno 1,000
+583,oficial de marina,000
+584,tubero,721
+585,mecanico carrozero,723
+586,operador notifc reposici,000
+587,soldador fijo,721
+588,auxiliar de tren y manten,933
+589,operador tecnico bodega,933
+590,ayudante de reparto,933
+591,capitan,000
+592,operario de patio,933
+593,encargado de maquina,818
+594,operario empaque hg,932
+595,ayudante de conductor,933
+596,camara congelado,933
+597,operador de maquinarias,834
+598,mantencion edificios,000
+599,movilizador de cilindros,933
+600,mecanico automotris,723
+601,mecanico general,723
+602,supervisor buzo,000
+603,jornal multifuncional,000
+604,termo formato,000
+605,operador liena procesos,000
+606,manipulador,932
+607,condcutor profesional,832
+608,carga y descarga camiones,933
+609,operador de perforacion,811
+610,patron de barcaza,835
+611,operador de mescla,000
+612,ayudante de pintura,000
+613,tornero fresador,722
+614,ayudante gruas,834
+615,operador trozado,921
+616,chofer polifuncional,832
+617,operario avicola,921
+618,maestro rectificador,722
+619,repartidor de boletas,933
+620,operario grua orquilla,834
+621,mecanico de barredoras,723
+622,ayudante en ruta,933
+623,chofer pioneta y asistent,832
+624,ayudante de mecanica,723
+625,mantencon y operador de m,723
+626,mecanico senior,723
+627,conductor y vendedor,000
+628,cargador envasador,932
+629,chofer de buses,833
+630,conductor internacional,833
+631,asistente de camion,933
+632,operador de euipo rodante,834
+633,encargado de transporte,933
+634,operario crew,000
+635,operador mantenedor 3,000
+636,ayudante de lecheria,921
+637,operario agroindustrial,000
+638,operador del tractor,834
+639,operador auxiliar,000
+640,encargado de termopaneles,000
+641,operador ayudante,000
+642,operario recolector,921
+643,operador de paking,000
+644,conductor vehiculo emerge,832
+645,operador autonomo,000
+646,operario viscerado,932
+647,conductor y mecanico,723
+648,mecanico de estructura,723
+649,supervisor y mantenedor,000
+650,conductor camion recolect,833
+651,conductor supervisor,833
+652,operador de horquilla,834
+653,operador torre distribic,000
+654,operador volante,833
+655,manipulador de madera,921
+656,operador de tolva,933
+657,mecanico hidraulico,723
+658,maquinista dos,831
+659,conductor copec combustib,832
+660,operador de jumbo,811
+661,jornal desimbrador,931
+662,chofer y pioneta,832
+663,motorista de muelle,933
+664,tec soldador,721
+665,conductor ventas terreno,832
+666,movilizador de carga,933
+667,op tractor,834
+668,asistente de bus,833
+669,conductor de vehiculo mun,832
+670,maestri operador,000
+671,mecanico de andarines,723
+672,parking,000
+673,cond grua autocargante,834
+674,conductor de grua,834
+675,movilizador horquillero,834
+676,bombeo de bencinera,000
+677,encargo de las camaras,000
+678,mecanico rigger,723
+679,ayud mecanico,723
+680,bodega y chofer,933
+681,conductor repartidor,832
+682,tecnico operador,000
+683,operador centro distruibu,933
+684,operador cilindrador,812
+685,granallador,812
+686,encargado de aceite y lub,723
+687,mecanico de mantencion,723
+688,operardor,000
+689,ayudante de garzon,000
+690,m1 mecanico,723
+691,operario apilador,933
+692,operador romana,834
+693,ayduante mecanico,723
+694,operador grua orquilla,834
+695,operador polifuncional,000
+696,centro de control,000
+697,chofer senior,833
+698,operario tractorista,834
+699,operador de maquinaria ay,834
+700,operador de packing,818
+701,ayudante hojalatero,722
+702,operador 20 horas,000
+703,operador lavado de mallas,814
+704,operador de maquina panad,816
+705,operador porta contenedor,834
+706,moldajero,721
+707,mantencion mecanica,723
+708,operador de maquinaria fo,834
+709,instalador ventana,721
+710,lixiviador,811
+711,jornadl,000
+712,operador portuario,933
+713,conductor  operador,834
+714,operador excavadora front,834
+715,operador wms,933
+716,operador de sala de maqui,000
+717,op de oxicorte,721
+718,mecanico de maquinaria pe,723
+719,mecanico junior,723
+720,operador cnc,722
+721,ayudante de operador sala,000
+722,op de planta,000
+723,auxiliar torno,722
+724,conductor de grua interno,834
+725,tripulante de maquinas,000
+726,mantenedor planta,723
+727,operario planta,000
+728,moto sierrista,921
+729,ayudante de motosierrista,921
+730,operador de camiones,833
+731,conductor nochero,832
+732,operario de cosecha,921
+733,mecanico y mantencion,723
+734,operario de guillotina,818
+735,mototrista delivery,832
+736,bulcanisador,723
+737,operador moto electrica,832
+738,operario de rampa,933
+739,operador en ruta,000
+740,maestro tubero,000
+741,mantencion semaforos,723
+742,operador de instalaciones,000
+743,bodeguero chofer,933
+744,operador de parking,000
+745,operario de desarme,000
+746,operador composer,000
+747,conductor de camion pesad,833
+748,tecnico de pintura y carp,000
+749,ayudante instalador parab,000
+750,operador bulldozer,834
+751,shaper,722
+752,mecanico mantenimiento,723
+753,chofer operador,833
+754,operador maquina agricola,834
+755,currier,832
+756,peoneta bodeguero,933
+757,agente de rampa,933
+758,operador tronadura,931
+759,encargado de carga,933
+760,operador sala de maquina,818
+761,operador de granalla,812
+762,ayudante vulcanizador,932
+763,chofer bodeguero,933
+764,chofer vendedor,832
+765,courier repartidor,832
+766,tracto camion,833
+767,junior cargador,932
+768,operador moldurera,000
+769,moto cierrista,000
+770,operario de grua y pickin,834
+771,conductor de camion mixer,833
+772,operador de calderas,818
+773,pioneta y bodeguero,933
+774,ayudante de segunda solda,721
+775,canaleros,000
+776,conductor y ayudante,000
+777,cortador de cuero,815
+778,despuntador,000
+779,operador de maquina dos,814
+780,operador de envasado oht,818
+781,maquinista multifunsion,000
+782,mantenedor mecanico,723
+783,operdor de maquinaria,834
+784,operador vertical,000
+785,mecanico c,723
+786,chofer carga y descarga,933
+787,encargado de caldera,818
+788,tripulante nave menor,835
+789,repartidor pioneta,832
+790,consuctor camion,833
+791,preparador de aditivos,813
+792,lector medidores electric,000
+793,chofer y bodega,933
+794,operador rodillo,834
+795,soldador especialista,721
+796,operador jumbo,811
+797,op de estrobos,000
+798,operario peoneta,933
+799,operador avanzado,000
+800,operario rampa,933
+801,chofer ayudante,833
+802,coductor de bus,833
+803,choferbodeguero,833
+804,condiuctor,832
+805,auxiliar de grua,834
+806,embarque producto,933
+807,motorista nave menor,000
+808,supervisor camiones,833
+809,operador de chancado,811
+810,operador conductor,833
+811,conductor de grua interna,834
+812,operativo met,000
+813,conductor motorista,832
+814,operario de camara,000
+815,bodeguero y peoneta,933
+816,tripulante buso,000
+817,operador de retroexcavado,834
+818,opterreno caldera 6,000
+819,cuadrador,000
+820,marinero,835
+821,operador planta tt,000
+822,encargado sala maquina,818
+823,armador estructural,721
+824,ayudante de carpero,931
+825,operador sala de maquinas,818
+826,op planta,000
+827,encargado de instalacion,000
+828,operador de sierra multip,000
+829,operador litzy vision,000
+830,mecanica en mantencion,723
+831,mnecanico mantenedor,723
+832,auxiliar de caldera,818
+833,mecanico b,723
+834,conductor portuario,933
+835,conducto de camiones,833
+836,reflote de boiyas,000
+837,maestro de fierro,721
+838,portuario,933
+839,trincador,835
+840,administrtivo chofer,832
+841,cargador fardos,932
+842,bodequego,933
+843,asistente de carga,933
+844,operador etiquetado,818
+845,maquina,000
+846,movilizador de camiones,833
+847,operativo y gruero,834
+848,op grua horquilla,834
+849,conductor y op tec,000
+850,operador de robot,000
+851,soldador ayudante,721
+852,operario de sierra,817
+853,movilizador portuario,933
+854,desposte,000
+855,operador cargador frontal,834
+856,coductor,832
+857,operario rebobinador,814
+858,despachador movil,000
+859,ayudando de soldador,721
+860,operadior de maquina,000
+861,maestro enfierrado,931
+862,administracion chofer,832
+863,operador cortable,000
+864,encargado de molde,721
+865,operador grua puerto,834
+866,operador de tractocamion,833
+867,mecanico y operador maqui,723
+868,operador elaborador,816
+869,operario de piking,933
+870,chofer maestro carpero,832
+871,trasadir,000
+872,conductor especializado,832
+873,conductor y liniero,833
+874,prensador y separador de,000
+875,separador  movilizador,931
+876,oprador de caldera secado,818
+877,operario a piso,932
+878,cnductor,832
+879,maestro estructura,000
+880,operario de instalador,000
+881,repartidor alimento,832
+882,operador de alcolera,816
+883,mantencion de camaras,723
+884,operador de dinamometro,000
+885,lector y repartidor,000
+886,maestro desabolladura,722
+887,enc seccion neumaticos,932
+888,ayudante termosusion,722
+889,temporera,000
+890,mantencion camiones,723
+891,operador algibe,834
+892,descagarga,933
+893,manejo de gruas,834
+894,operador de servicio,000
+895,operador de carga y desca,933
+896,capataz electrico,000
+897,repartidor en moto,832
+898,operario maquinaria,834
+899,ayudante de bomba,000
+900,futbolista profesional,000
+901,conductor batea,833
+902,conductor tractorista,834
+903,bodeguero conductor,933
+904,operario de logisitica,933
+905,campamentero,000
+906,ayudante conductor,832
+907,ayudante de est metalica,000
+908,operador integral,000
+909,conductor retroescabadora,834
+910,encargado de cerdos,921
+911,cortador de vidrios,000
+912,ayudante de petroleo,000
+913,operador de descarga,933
+914,iluminador,000
+915,operador sadema,000
+916,ejecutiva operadora,000
+917,vidriero en altura,000
+918,transporte material const,933
+919,instalador arquitectonico,000
+920,conductor de camion grua,834
+921,vulcanizador,722
+922,operador mixel,000
+923,operador de bodega y grua,834
+924,maestro aluminero,722
+925,operador traspaleta,834
+926,maestro de termopaneles,000
+927,conductor estafeta,832
+928,mecanico de maqpesada,723
+929,chofer y ayudante,832
+930,operador de proyecccion,818
+931,mantenedor operador a,723
+932,operador de camion pluma,834
+933,conductor de maquinaria,834
+934,ayudante de instalador,000
+935,jefe de maquinaria,834
+936,op calificado vendimia,000
+937,operador matricero,721
+938,tripulante general de cub,835
+939,operador martillo,931
+940,operador de maquinaria li,834
+941,operador de aguas potable,000
+942,auxliar operador,000
+943,reponedor de supermercado,932
+944,carretillero,834
+945,conductor mecanico,723
+946,operador terreno via mas,933
+947,operador cne,000
+948,movilizador y despacho,933
+949,operador de afilador,722
+950,mantencion y sala de maqu,000
+951,driver,832
+952,marino mercante,835
+953,compresorista,000
+954,audante de granel,933
+955,mecanico m1,723
+956,operador de central hidro,818
+957,encargado de acido,813
+958,operador pantalla,000
+959,operador mantenedor calif,000
+960,operario de grua horquill,834
+961,solador mecanico,722
+962,desrragador,000
+963,jornal de patio,000
+964,piloto de embarcacion,835
+965,peoneta recolector jard,921
+966,operador de lavado,815
+967,especificador de maderas,921
+968,preparador de arena,000
+969,chofer  cargador,832
+970,primer oficial de maquina,000
+971,conductor vendedor,000
+972,jefe de turno de pasajero,000
+973,soldador y oxicortador,721
+974,jefe de playa,000
+975,supervisor y chofer,000
+976,ayudante soldador y mecan,721
+977,maestro mayor est metalic,000
+978,operario maestro,000
+979,armador de rodillos,722
+980,jefe mecanico,723
+981,tecnico servicio pesado,000
+982,conductor yale,834
+983,operador experto,000
+984,operador tornos,722
+985,condutor de camion,833
+986,mecanico de bicicleta,723
+987,operador de perforadora,811
+988,mecano de mantencion,723
+989,tornero convencional,722
+990,pulidor en acero,812
+991,operador maquina offset,818
+992,chofer peoneta,000
+993,embalador de paquetes,932
+994,chofer y operario,832
+995,gasfiter sanitario,000
+996,conducto,000
+997,repornedor,000
+998,mecanico aero nautico,723
+999,soldador y m1,721
+1000,operador tractocamion por,833
+1001,maestro estructura metal,721
+1002,operadp yumbo,834
+1003,riggers,721
+1004,supervisor de rampa,933
+1005,marino de cubierta,835
+1006,operador de plataforma,000
+1007,conductor de patrulla,832
+1008,operador excavador,834
+1009,primero oficial de maquin,000
+1010,operario yale,834
+1011,patron de nave,835
+1012,ayudante de carga grua,834
+1013,operador de motobomba,834
+1014,operador de drone,000
+1015,chofer y operador de grua,834
+1016,operador de maquina agric,834
+1017,reparador de pallet,000
+1018,movilizador de maquina,834
+1019,descarge de carga,933
+1020,operador calibrador,722
+1021,terminador pulidor,812
+1022,operador grua orquidea,834
+1023,operador de retroexc,834
+1024,conductor ambulancias,832
+1025,mantenedor electrico,000
+1026,operario fumigador,921
+1027,operador grua h y moviliz,834
+1028,operador descortezador,817
+1029,ayudante de perforo,811
+1030,rider,832
+1031,operario de bodega e inve,933
+1032,maestro electricos,000
+1033,encargado de maquinaria y,000
+1034,operario soldador,721
+1035,transferista,000
+1036,operador de sala,000
+1037,atendedor de bomba,000
+1038,ayudante soldador clase b,721
+1039,m1 y operador de dron,000
+1040,maestro de moldura d goma,000
+1041,mecanico de auto,723
+1042,encapador de camiones,933
+1043,tripulante panguero,000
+1044,tripuolante general de cu,000
+1045,asistente de conductor,000
+1046,andalero,931
+1047,mecanico automotriz,723
+1048,condcutor en ruta,833
+1049,jefe de maquina y mantenc,833
+1050,condcutor  operador,000
+1051,ayudante operador de t,000
+1052,armador de motos,723
+1053,matarife de animales,000
+1054,soldador calderero,721
+1055,auxiliar camion recolecto,933
+1056,operario 2,000
+1057,tractor de acarreo,834
+1058,mantencion y chofer,832
+1059,maestro enfierrador m1,931
+1060,operador de yoma,834
+1061,ayudante de calderia,721
+1062,conductor y bodeguero,933
+1063,mecanico lp,723
+1064,ayudante carnicero,932
+1065,op de maquinaria,834
+1066,operador de soldaje,721
+1067,operador funcional,000
+1068,operario de vinificacion,816
+1069,repartidor soprole,832
+1070,empleador y chofer,833
+1071,operador tratam leche,816
+1072,operado de grua,834
+1073,pioneta camion recolector,933
+1074,auxiliar de camiones,933
+1075,ascensor de servicio,000
+1076,montacarga,834
+1077,peoneta descarga,933
+1078,ayudante molinero,816
+1079,ayudante agricola,921
+1080,operario acuicola,921
+1081,operardor de planta,000
+1082,operador de neumatico,000
+1083,operador de caex,834
+1084,maestro empalmador,721
+1085,conductor logistica,833
+1086,operario encarpe y amarre,000
+1087,conductor furgon escolar,833
+1088,mecanico andamiero,000
+1089,conductor maquinaria pesa,834
+1090,mecanico litio,723
+1091,operador de apoyo frio,000
+1092,ayudanet soldador,721
+1093,operario de tractor,834
+1094,mantenciones,000
+1095,mecanico montajista gruas,000
+1096,piloto rov,000
+1097,maquinista colapsador,000
+1098,operador via,000
+1099,opedador,000
+1100,operativo mec,000
+1101,operador terreno planta t,000
+1102,trabajador temporero,921
+1103,operario paking,932
+1104,pre instalador,000
+1105,maestro de instalaciones,000
+1106,banderillero,000
+1107,operario desarme,932
+1108,conductor carga pesada,833
+1109,operador ws,000
+1110,operador cd,000
+1111,tripulante de camara,000
+1112,operario de enologia,000
+1113,maestro enfierradura,000
+1114,conductor de maquinaria a,834
+1115,ayudante torneria,722
+1116,operador de retroescavado,834
+1117,operador de equipo pesado,834
+1118,chofer grua,834
+1119,empalmador,721
+1120,recepcion de camiones,933
+1121,operario mecanico tornero,722
+1122,capitan de remolqueador,000
+1123,operario patio,000
+1124,carpintero moldaje,931
+1125,chofer bodega,933
+1126,grua horquilla,834
+1127,auxiliar  chofer,832
+1128,operador de corte laser,722
+1129,extruzor,000
+1130,operador picking,933
+1131,entregador,832
+1132,operador oxicorte,721
+1133,movilizador de bodega,933
+1134,soldador montajista,721
+1135,operador de grua pluma,834
+1136,fabricante electronico,000
+1137,armador mecanico,721
+1138,sup de obra y conductor,000
+1139,traslado,933
+1140,operador pluma conductor,834
+1141,conductor liniero,000
+1142,operador armador,000
+1143,plegador,814
+1144,operario grua orquidea,834
+1145,concuctor operador,832
+1146,conductor de moto,832
+1147,maestranza,000
+1148,ope4rador,000
+1149,armador de piezas metalic,721
+1150,asistente de parking,000
+1151,montajista y soldador,721
+1152,operador de maquinas agri,834
+1153,operador prensas,818
+1154,encargado maquina de vidr,818
+1155,operador serv agua potab,818
+1156,armador de paneles,722
+1157,operario de rampla,933
+1158,concuctor,000
+1159,fresador,722
+1160,operador de romana,000
+1161,operador stacker,834
+1162,conductor de seguridad,000
+1163,laminador,812
+1164,conductor de camion de re,833
+1165,ayudante de almazara,000
+1166,operario pistolero,721
+1167,conductor carretera,833
+1168,chofer bus,833
+1169,operador de lavado de cam,000
+1170,operador maquina,000
+1171,operario maquina pesada,834
+1172,bobinador,000
+1173,conductor y coordinador,000
+1174,gte transporte,000
+1175,conductor a 4,832
+1176,capatas,000
+1177,atendedor estacion de serviio,000
+1178,mecanico de maquina is,723
+1179,operador de equipos de pi,000
+1180,manejo grua orquidea,834
+1181,mecanico plano,723
+1182,chofer rutero,833
+1183,lubricador,723
+1184,operario tejedor,815
+1185,conductor radiopatrulla,832
+1186,chofer y peoneta,833
+1187,operador de maqionaria,818
+1188,maestro trazador,000
+1189,señalero,933
+1190,preparador de vehiculo,000
+1191,chofer asistente,832
+1192,operador cama baja,834
+1193,operativo de sala,000
+1194,contraarrastre,000
+1195,colocador de rollos,000
+1196,contramaestres,835
+1197,pioneta de camion,933
+1198,movilizador de galones,933
+1199,operador efluente,000
+1200,conductor ayudante electr,832
+1201,operador de mixer,818
+1202,estrudero,000
+1203,mecanico solador,723
+1204,tripulante gral cubierta,835
+1205,obrero agriocla,921
+1206,operador de cuatrimoto,834
+1207,operador casino,000
+1208,corrector de grua,834
+1209,boguero,933
+1210,conductor camion aljibe,833
+1211,operador de paletizador,818
+1212,mecanico de planta,000
+1213,jefe sala de maquina,000
+1214,junior de bodega,933
+1215,mecanico aprendiz,723
+1216,operadora,000
+1217,operador de planat,000
+1218,mecanico de ruta,723
+1219,desimbrador,931
+1220,operario vendimia,921
+1221,operario de ordeña,921
+1222,conductor y recolector,832
+1223,selecionador,000
+1224,operador de cepillado,812
+1225,maestro de aluminio,722
+1226,operador n3,813
+1227,tornejo,722
+1228,operador parkin,000
+1229,operador caldera alambiq,818
+1230,movilizador frigorifico,933
+1231,armador operario,721
+1232,operador de formacion,831
+1233,operador de fermentacion,813
+1234,operador de maquinas y he,814
+1235,ruteador,000
+1236,soldador cerrajero,721
+1237,operador de filtro,000
+1238,ayudante metalurgico,932
+1239,ayu mecanico y taller,723
+1240,peonetta,000
+1241,operario de muestrera,000
+1242,junior taller,722
+1243,agente de rampla,933
+1244,ayudante soldadura,721
+1245,operador de pivote,000
+1246,encargado de herramientas,722
+1247,condutor,832
+1248,operario de parquimetro,000
+1249,motocerista,832
+1250,motosirrista,832
+1251,labores de jardineria,921
+1252,operador terrestre,000
+1253,chofer y asis bodega,832
+1254,operador molienda,811
+1255,distribuidor envios,933
+1256,mantencion y conductor,832
+1257,segundo maqunista,831
+1258,compactador,834
+1259,encargado de terminacione,000
+1260,conductor de maquinarias,834
+1261,operador de equipos,000
+1262,operador electrico,000
+1263,operadoir grua,834
+1264,despicador manual,932
+1265,op de paking,932
+1266,peoneta de camion,933
+1267,conductor de carga peligr,833
+1268,ojalatero,722
+1269,operador de camion tolva,834
+1270,jefe de instalacion,000
+1271,op bodega,933
+1272,operador de embazado,818
+1273,asistente de maniobra,831
+1274,chofer tecnico,832
+1275,ayudante de perforista,811
+1276,apoyo a operario maquinar,000
+1277,vulcanizador mecanico,723
+1278,operario parcking,000
+1279,maestro linea electrica,000
+1280,clasificador de chapa,721
+1281,preparador y pintor,000
+1282,capataz conductor de lubr,832
+1283,ayudante de camion,933
+1284,operador lasser,723
+1285,encierrador,931
+1286,despacho y operador de pi,000
+1287,operador maq agricola,834
+1288,operador de peaking,000
+1289,picker,933
+1290,ayudante de entrega de ma,933
+1291,maestro de maquina,835
+1292,mecanico produccion,723
+1293,mantencion y reparacion,723
+1294,maquinista de nave menor,000
+1295,conductor independiente,832
+1296,maquinista de grua,834
+1297,tecnico conductor,832
+1298,ayudante mecanico freno,723
+1299,mecanico m2,723
+1300,ayudante de granel,933
+1301,operador 2,000
+1302,controlador de anden,933
+1303,lectura y repartidor,932
+1304,ajustador,722
+1305,operador carta,000
+1306,operador de gruaoperario,834
+1307,operario de maq,000
+1308,fundidor,812
+1309,ayudante monofasico,000
+1310,operador apilador,834
+1311,operador de corrales,000
+1312,tractoreto,834
+1313,marino,835
+1314,cortando de maquina,814
+1315,maestro sellador,000
+1316,conductor minibus,833
+1317,mecanico 3,723
+1318,operario camion pluma,834
+1319,logistica operador bodega,933
+1320,supervisor de instalacion,000
+1321,soldador y tractorista,721
+1322,operador rich,834
+1323,control carga,933
+1324,mecanico integral,723
+1325,mecanico de banco,722
+1326,segundo piloto,833
+1327,op maquina,818
+1328,operado de maquinaria,834
+1329,operador camiom tolva al,833
+1330,ayudante molinera,931
+1331,operador maq pesada,834
+1332,ayudante mecanica industr,723
+1333,piloto 1 oficial,000
+1334,apilador maquinista,834
+1335,ayudante escavador,931
+1336,jefe de sala de maquinas,000
+1337,oficial de cubierta,835
+1338,estiguar,000
+1339,aperario,000
+1340,ayudante de secado,000
+1341,gafiteria,000
+1342,curriel,000
+1343,patron de la embarcacion,000
+1344,sector de mecanizado,722
+1345,carnicero cortador,000
+1346,auxiliar de camioneta,832
+1347,operador de pente de grua,834
+1348,soldador tornerochofer,000
+1349,repartidor materiales,933
+1350,transportista gas,833
+1351,patio grua,834
+1352,yalero y traspaleta elect,000
+1353,conductor de servicio,000
+1354,manipulador de maquina,000
+1355,soldador y polifuncional,721
+1356,operario movilizador,933
+1357,maestro estrusor,814
+1358,descarga de camiones,933
+1359,forjador,722
+1360,operador andarivel,000
+1361,operador de cuero,815
+1362,asistente de perforacione,811
+1363,transportador,933
+1364,maquinista v,831
+1365,instalaciones,000
+1366,oxicortador,721
+1367,maestro maquinista,000
+1368,conductor de camiones art,833
+1369,operador de cargador,834
+1370,oeprador de planta,000
+1371,operador de cierra,816
+1372,conductor y repartidor,832
+1373,mecanico visel,723
+1374,operador de primera,000
+1375,auxiliar palletizador,932
+1376,operario mecanica,723
+1377,transportista ayudante,933
+1378,cargero,933
+1379,auxiliar de camion recole,932
+1380,operador tracto camion,833
+1381,instructor de conduccion,000
+1382,conductor camioneta,832
+1383,auxiliar patio grua,834
+1384,operador mix,814
+1385,conductor de maquinaria p,834
+1386,operador de planta daf,000
+1387,operador de maquinarioa p,000
+1388,paletisaje,933
+1389,operacion de mantencion,000
+1390,operador mantenedor y mej,000
+1391,jefe de caldera,818
+1392,operador de frio,000
+1393,buzo mariscador base,921
+1394,riger mecanico,723
+1395,tripulante gnral,835
+1396,conductor junior,832
+1397,colosero,000
+1398,oprrador maquina astilladora,818
+1399,capataz mecanico,723
+1400,repartidor de pizza,832
+1401,operador de grua telescop,834
+1402,alamcenador,933
+1403,operador de vascula,000
+1404,operativo prevenc perdid,000
+1405,ayuda maestro de caldera,818
+1406,operador de excavadora,834
+1407,operador calderas,818
+1408,operador de zona 3,000
+1409,ayudante de rutas,933
+1410,operario de agua potable,000
+1411,conductor de grua horquil,834
+1412,operario en despacho,933
+1413,conductor bus,833
+1414,operador de tecle,834
+1415,operador politileno,818
+1416,soldador oxigenista,721
+1417,conductor de flota,833
+1418,iluminacion,000
+1419,maestro laminador,812
+1420,op planta almidon,000
+1421,ayudante hidraulico,000
+1422,conduxctor,000
+1423,operador de exclusion,000
+1424,tco mecanico,723
+1425,mecanico operador,723
+1426,ayudante instalaciones,000
+1427,vidriero en altura y base,721
+1428,chfer recaudador,833
+1429,patron de nave y asistent,835
+1430,arriero,000
+1431,electrico mueblista,000
+1432,marino timonel,835
+1433,mecanico c 2,723
+1434,operador de camara fria,933
+1435,obrero calificador,000
+1436,empaquetador y clasifica,932
+1437,operador rea,000
+1438,carpero conductor,832
+1439,conductot tracto camion p,833
+1440,operario seccion aves,932
+1441,mantencion y soldador,721
+1442,operador perforo,811
+1443,ayudante galpon,000
+1444,operarios de camiones,833
+1445,jefe de maquinas,000
+1446,maestro armador de estruc,721
+1447,soldador uno,721
+1448,selecionador de ropa,932
+1449,oxicortista,721
+1450,operario jardin,921
+1451,empaquetador de madera,932
+1452,conductor capachero,833
+1453,junior conductor,832
+1454,ayudante de soldadura,721
+1455,operador tec,000
+1456,maestro estructuras alumi,000
+1457,electricista industrial,000
+1458,clavador manual,932
+1459,operar tractor,834
+1460,operario de maquinas,000
+1461,chofer reparto,832
+1462,operador vial,834
+1463,ayudante de aserradero,921
+1464,vidriero terreno,000
+1465,meanico,723
+1466,maestro calderero casco,721
+1467,auxiliar de molino,931
+1468,operador de gruas moviles,834
+1469,cuartelero conductor,832
+1470,chofer y tecnico de mante,000
+1471,auxiliar de planta termic,000
+1472,obrero temporal,000
+1473,operador electrohidraulic,000
+1474,ayudante transporte,933
+1475,mecanico en herramientas,722
+1476,operario de pozo,811
+1477,operador bombero,000
+1478,aprendiz de soldador,721
+1479,operador titular,000
+1480,operario de oxicorte,721
+1481,operario atendedor,000
+1482,operador estacionamiento,000
+1483,jefe de maquina,835
+1484,ayudante y conductor,832
+1485,mecanico taller y terreno,723
+1486,ayudante metal mecanico,722
+1487,moldero,721
+1488,jefe maquinas,835
+1489,conductora,832
+1490,encargado vehiculos,832
+1491,operador baadel,000
+1492,operador y remplazante,000
+1493,conducto de camion pesado,833
+1494,jefe de motoristas,832
+1495,operado de terreno,834
+1496,maestro de montaje,721
+1497,ordeñador fijo,921
+1498,ayudante de perforador,811
+1499,maestro instalador mueble,000
+1500,soldador y armador,721
+1501,operador puente grua,834
+1502,operador procesos,000
+1503,movilizador de frio,933
+1504,operador de envase,818
+1505,mantencion de maquinarias,723
+1506,lider electrico,000
+1507,extrusor,816
+1508,asistente de sondaje,000
+1509,op mantenedor,000
+1510,operario matencion jaula,000
+1511,hojalatero,721
+1512,piloto rob,000
+1513,pintor de compresor,000
+1514,operaio de mantencion,000
+1515,operaria agricola,921
+1516,ayudante de tubo liso,000
+1517,movilizador vehiculos,933
+1518,ayudante perforacion,811
+1519,chofer jardinero,000
+1520,operario lavador,815
+1521,consuctor y bodega,833
+1522,conductor acarreo,833
+1523,toha operador de patio,933
+1524,operador grua horqulla,834
+1525,operador maquina cnc,722
+1526,armador estructuras metal,721
+1527,ayudante oxicorte,721
+1528,andariveles,000
+1529,carpinterno,000
+1530,operador n1,000
+1531,operario de reparto,933
+1532,chofer carro electrico,832
+1533,limpieza areas verdes,921
+1534,chofer y vendedor,000
+1535,maestro matricero,722
+1536,desembrador,921
+1537,conductor de tracor,834
+1538,capataz de corte,000
+1539,operario de tras paleta,834
+1540,operario de horquilla,834
+1541,lavado y preentrega,000
+1542,chofer camion,833
+1543,mecanico de hdpe,723
+1544,junior despachador,933
+1545,armador hidraulico,722
+1546,operario de terminal,933
+1547,vibradorista,931
+1548,dante perforo,000
+1549,operador polifunicional,000
+1550,palero,931
+1551,operador en bodega,933
+1552,gasfiter y hojalateria,722
+1553,ayudante de rectificador,812
+1554,operario de maquina envas,818
+1555,palitizado,933
+1556,matriceria,722
+1557,conductor de tractor,834
+1558,perador de maquinaria pes,834
+1559,maestro de astillado,921
+1560,operador de andariveles,834
+1561,gasfiter en terreno,723
+1562,manipulador frutal,921
+1563,ayudante carrocero primer,722
+1564,operador gruas,834
+1565,cargador de cerdos,921
+1566,maestro m4ecanico,723
+1567,conductor en terreno,832
+1568,despachador y operario de,000
+1569,chofer de cancha,832
+1570,mecanico y lubricador,723
+1571,encargado tintas,816
+1572,operario sistema,000
+1573,conductor de bombero,833
+1574,maestro segunda calderero,721
+1575,operdor de grua,834
+1576,conductor ggss,000
+1577,operador trilateral,934
+1578,capataz semicalificado,000
+1579,encargado de tolvas,931
+1580,conductor  y descarga,832
+1581,operario de via,933
+1582,operativo de grua,834
+1583,delivery en moto,832
+1584,operado de retroescavador,834
+1585,operadorio taller,000
+1586,soldador electromecanico,721
+1587,carga y descarga de harin,933
+1588,normalizador de linea,000
+1589,lectro repartidor,832
+1590,operativo de carga,933
+1591,chofer operario,832
+1592,operador de fumigacion,921
+1593,operador de inyextora,814
+1594,operador de trineomatico,000
+1595,operador sonda,000
+1596,operador de gruaorquilla,834
+1597,operaciones maquinarias,000
+1598,instalador de muebles,000
+1599,mecanico taller,723
+1600,operativo eic,000
+1601,conductor de ramplas,833
+1602,operario mobilizador,933
+1603,chofer de servicio,832
+1604,jefe instalaciones,000
+1605,termoformado,814
+1606,operacional de terreno,000
+1607,estribero,000
+1608,asistente de molienda,816
+1609,conductor valijero,933
+1610,andaniveles,931
+1611,pormotor rutero,832
+1612,mecanico maquinaria agric,723
+1613,m1 mecanico estrututal,000
+1614,operador de maqui pesada,834
+1615,encargado repaletizage,932
+1616,meca nico,723
+1617,ayudante de hojalateria,722
+1618,operador mesa de corte,814
+1619,armaduria,721
+1620,conductor grua horquilla,834
+1621,operador implementaciones,000
+1622,conductor comunitario,832
+1623,paquetero,932
+1624,operador de maqunaria pes,834
+1625,encargado bomba petroleo,000
+1626,repartidor en ruta,832
+1627,operario area verde,921
+1628,operador de scanner,000
+1629,operador camaras,000
+1630,ayuidante de soldador,721
+1631,conductor alcaldia,832
+1632,soldador arco sumergido,721
+1633,marino nave especiales,835
+1634,operador decarga fronta,834
+1635,meccanico soldador,721
+1636,ayudante de fibra,932
+1637,controlador de andenes,933
+1638,peoneta repartidor,933
+1639,peoneta y bodeguero,933
+1640,peonet camion recolector,933
+1641,maesto molinero,000
+1642,ayudante de caldera,818
+1643,operador monitoreo camara,000
+1644,operador terreno maderas,817
+1645,mecanico conductor en ru,000
+1646,fanguero,000
+1647,conductor operador mant,833
+1648,operador de traslado,933
+1649,supervisor muelle,000
+1650,operador sala de control,000
+1651,reparador de container,723
+1652,operador de robot y encap,000
+1653,capitan y motorista,000
+1654,operador de torno,722
+1655,conductor t1,832
+1656,manteni y instalaciones,722
+1657,conductor despacho,832
+1658,expedicionario,933
+1659,operador quimico,813
+1660,soldador mecanico armador,721
+1661,operador de cabina,000
+1662,armador de ruta,000
+1663,maestro climatizacion,000
+1664,operador apiladora,834
+1665,supervisor de maquinarias,000
+1666,despacho en bodega,933
+1667,tripulante operario,835
+1668,conductor de camion recol,933
+1669,operador de puente grua,834
+1670,operador grua puente,834
+1671,operador motocicleta,832
+1672,oparario de bins,933
+1673,operador de posos solares,000
+1674,soldadura,721
+1675,guinchero,834
+1676,mantenimiento de torre as,000
+1677,conductor camion lechero,833
+1678,conductor alto tonelaje,833
+1679,tripulante de la embarcac,835
+1680,soldador y cortador,721
+1681,cargador de material,933
+1682,conductor de cargas pelig,833
+1683,maestro obras metalicas,722
+1684,ayudante hojaletero,722
+1685,consuctor,000
+1686,instalador muebles,000
+1687,buzo de mar,835
+1688,operardor de unidad,000
+1689,conductor de auto,832
+1690,operador de marcado,000
+1691,coorier,832
+1692,escavador,931
+1693,operador de sellado,818
+1694,operario montacarga,834
+1695,aydante mecanico,723
+1696,oerador tolva,818
+1697,operador despachador,000
+1698,m1 armador mecanico,723
+1699,operador pozo y pozas,811
+1700,conductor de equipos,834
+1701,mecanico aeronautico,723
+1702,operador clasificador,000
+1703,montador mecanico,721
+1704,conductor oeprador,000
+1705,chofer municipal,833
+1706,operador mantenedor c,000
+1707,capitan de una lancha,000
+1708,conductor de buses,833
+1709,operario maquinas,000
+1710,papelero,817
+1711,operador lider,000
+1712,jefe de cubierta,835
+1713,jefe de grua,834
+1714,instalador mueblista,000
+1715,chofer de grua,834
+1716,reparador de tarro,000
+1717,soldador y mantencion,721
+1718,colocador cabezal,721
+1719,chofer conductor,832
+1720,opereadora de grua,834
+1721,operario nave pesca,835
+1722,lector repartido e inspe,000
+1723,electrico mina,000
+1724,soldador hdp,721
+1725,chofer de moto,832
+1726,soldador y bodeguero,721
+1727,conductor y pioneta,933
+1728,operario de ordeñe,921
+1729,chofer mensajero,832
+1730,conductor operario,832
+1731,piloto costero,000
+1732,maestro guillotinero,818
+1733,operador de taller de afi,722
+1734,mecanico d equipo nivel 1,723
+1735,conductor y cargador,933
+1736,operario de banco serrade,814
+1737,ayudante linea avanzado,000
+1738,mecanico mayor,723
+1739,chofer de faena,833
+1740,mecanico soldador industr,721
+1741,peoneta abastible,933
+1742,rodeador y cerquero,921
+1743,chofer de ambulancia,832
+1744,chofer supervisor,833
+1745,operario cango,833
+1746,operario tubero,000
+1747,unidad operativa,000
+1748,operari de grua orquilla,834
+1749,operdor de planta,000
+1750,asistente instalador,000
+1751,conductor cuerpo bomberos,833
+1752,conductor asistente de op,000
+1753,operador de molienda,813
+1754,operativo de ctivos,000
+1755,chfer de furgon,832
+1756,chofer de camion torva,833
+1757,operador de implementacio,000
+1758,conductor samu,832
+1759,peoneta camion,933
+1760,maquinista operario,811
+1761,conductor de planta,000
+1762,jefe de camaras,000
+1763,candiero moledor,000
+1764,volante altillo,000
+1765,operador de tronadura,811
+1766,operario sierrista,921
+1767,coonductor,000
+1768,mecanico lavador de motor,723
+1769,condpuctor,000
+1770,control anden,933
+1771,primer maquinista,831
+1772,operativo de carga y rep,933
+1773,operdor de rototica subma,000
+1774,operador de rodillo liso,834
+1775,conductor de granel,833
+1776,operador rampla,834
+1777,soldador y ayudante de,721
+1778,conductor movil pesaje,933
+1779,operario de romana,000
+1780,operador ep,000
+1781,operario de matriseria,722
+1782,ayudante de instalaciones,000
+1783,trabajaor temporero,921
+1784,operador planta quimica,813
+1785,operador curier,832
+1786,ayudante jornal,000
+1787,trabajador aserradero,817
+1788,ayudante moldurero,932
+1789,operador de prod,000
+1790,operario caldera,818
+1791,operador single,000
+1792,conductor de carga,833
+1793,tripulante maquina,000
+1794,desempalillador,000
+1795,maestro en revestimiento,722
+1796,operario oxicorte,721
+1797,operario de bomba,834
+1798,operador de aguas,000
+1799,operativo perdidas,000
+1800,chofer y encargado,000
+1801,auxiliar de demallador,000
+1802,carrero en supermercado,933
+1803,ayudantye de soldador,721
+1804,operario electricista,000
+1805,chofer y ayudante de bode,000
+1806,conductor micro bus,833
+1807,soldador de primera,721
+1808,piloto de barco,000
+1809,op maquina pulidora,812
+1810,conuctor de grua,834
+1811,obreo agricola,921
+1812,encargardo de mantencion,723
+1813,conductor auxiliar,833
+1814,aisitente de bus,000
+1815,soldador y supervisor,721
+1816,operador de equipo minero,811
+1817,chofer ayudante deliniero,000
+1818,operador de astillador,817
+1819,conductor cargador,832
+1820,cortador de uva,921
+1821,operador gestacion,000
+1822,operador y mantenedor,000
+1823,capitan embarcacion,000
+1824,es crew,835
+1825,patron de embarcacion,835
+1826,auxilar de cristalizacion,813
+1827,operador d grua,834
+1828,op maquinaria pesada,834
+1829,asistente de chofer,932
+1830,operador de agua potable,000
+1831,tractorista operario,834
+1832,operador de proceso,000
+1833,operador maquina citrico,816
+1834,chofer tecnico en montaje,833
+1835,oeprador de sala,000
+1836,oeprador vas,000
+1837,operador de kallfass,818
+1838,conductor de camion carga,833
+1839,trasnportista,933
+1840,tec en maquinarias,000
+1841,operador formadora,814
+1842,ciudador de vehiculo,000
+1843,operador de llenado,818
+1844,transporte chofer,832
+1845,auxiliar operador,000
+1846,chofer administrador,000
+1847,operador de trompo,834
+1848,mecanico y soldador,721
+1849,enguinchador,834
+1850,carrier conductor,833
+1851,cargador de frente,834
+1852,conductor interurbano,833
+1853,control y tempratura,000
+1854,operador treck,834
+1855,operador de globos,000
+1856,operario de area sac,000
+1857,conductor de reparto,832
+1858,conductor y otros,832
+1859,maestro carpinetero,000
+1860,operardor grua horquilla,834
+1861,operador de grua torre,834
+1862,mecanico de packing,723
+1863,barnizador,722
+1864,operador maquinarias,834
+1865,conductor de turismo,832
+1866,reparacion de container,723
+1867,timonel tec,835
+1868,conductor seremi,000
+1869,junior chofer,932
+1870,inyectador de maquina,814
+1871,mecanico esncial,723
+1872,operador de cilindros,834
+1873,operador maquina principa,000
+1874,encargada mantencion,000
+1875,conductor de camiones pe,833
+1876,maestro impresoras,000
+1877,op de parquimetros,000
+1878,enc taller de maquinas,000
+1879,supervisor de carga,000
+1880,operador y otros,000
+1881,operador de trozado,813
+1882,mecanico calderero,721
+1883,operadorde grua,834
+1884,coordinacion de camiones,833
+1885,movilizador de vehiculo,832
+1886,mecanico maestro primera,723
+1887,jornal canquero,931
+1888,cromadora,812
+1889,jornal y ayudante de bode,933
+1890,chofer captaz y ayudante,000
+1891,motobombistas,000
+1892,conductor de camioneta,832
+1893,auxiliar chofer,832
+1894,alineador de auto,723
+1895,enfierrador carpinteria,931
+1896,empalillado,000
+1897,soladador,721
+1898,operador de auto clave,818
+1899,chofer e instalador,832
+1900,operador de sadema,000
+1901,teem operaciones,000
+1902,operario de prolijado,000
+1903,operador de sala de contr,000
+1904,conductor apiladora elect,834
+1905,reparto peoneta,933
+1906,movilizador de barco,835
+1907,mantencion de buses,723
+1908,operador retroescavadora,834
+1909,operador de blobo aerosta,000
+1910,operador sala control,000
+1911,conductor seguridad ciuda,832
+1912,camion pluma,834
+1913,ensacador,932
+1914,operdador,000
+1915,tripulante de nave menor,835
+1916,operador nivel 1,000
+1917,material handler,933
+1918,armador y soldado,721
+1919,operario decargador fron,000
+1920,ayudante de soldador y op,721
+1921,soldador maquinarias,721
+1922,desmadejado de maiz,921
+1923,paleador,931
+1924,o0perador de maquinaria,000
+1925,piloto y jefe operaciones,000
+1926,conductor de camion y otr,833
+1927,operador de secadora,816
+1928,mecanico avanzado,723
+1929,operador maquinaria indus,834
+1930,operador poza y pozos,811
+1931,operador silo,933
+1932,oprador torno,722
+1933,operario de materias prim,000
+1934,despacachador madera,933
+1935,armador de ventanas,721
+1936,maquinista envasado,818
+1937,empleado matriceria,722
+1938,especialista soldador,721
+1939,operador scada,000
+1940,operador horquilla,834
+1941,lavado de contenedores,932
+1942,mecanico montador,723
+1943,operador de fondaje,000
+1944,operador grua torre,834
+1945,operador almacenamiento,933
+1946,mecanico de linea,723
+1947,trasportador,933
+1948,mecanico y electrico,723
+1949,operario de estresora,000
+1950,operador senior,000
+1951,conductor y fiscalizador,000
+1952,ayudante queseria,816
+1953,operador de picking,933
+1954,selador nochero,933
+1955,oerador de maquina,000
+1956,mecaninco industrial,723
+1957,movilizador tracto,834
+1958,operador de rodillo,834
+1959,operario maquina astollad,000
+1960,maestro de armado,000
+1961,operador de liga termica,000
+1962,op grua,834
+1963,operdador vertical,000
+1964,chofer de maquinaria agri,834
+1965,operador hidrolavadora,000
+1966,capitan de nave menor,000
+1967,operario conductor,832
+1968,ayudante de chofer de gra,832
+1969,cuadrilla,000
+1970,peackeador,932
+1971,petisero,921
+1972,operario trafico,000
+1973,repartidor de carta,000
+1974,conductor y envasador,000
+1975,op cargador frontal,834
+1976,maestro frenero,831
+1977,operador de gruas,834
+1978,operador cepilla wuaco,000
+1979,vuklcanizacion,000
+1980,mecanico envasado,000
+1981,mecanico mantecion,723
+1982,encargado perfileria,000
+1983,mecanico y operador,723
+1984,corte y dimension,722
+1985,armador de carroceria cam,721
+1986,operador radio,000
+1987,pillador de pollos,921
+1988,mecanic de planta,723
+1989,operador de maqina sellad,818
+1990,maestro enchapador,722
+1991,maestro armador soldador,721
+1992,operario de frio,000
+1993,operador equipo rov,000
+1994,de camiones,833
+1995,encargo de mantencion,000
+1996,mecanica soldador,721
+1997,patron y conductor,832
+1998,operador torre,834
+1999,mecanico pesado,723
+2000,encargado de mantecion,723
+2001,limpieza maquinaria,000
+2002,ayudante cañonero,931
+2003,ayudante de cañeria,000
+2004,conductor maquinaria,834
+2005,operador y varios,000
+2006,asistente de transporte,933
+2007,movilizador chofer,000
+2008,operador termoformado,818
+2009,mantencion aserradero,000
+2010,operador vaciador,811
+2011,chofer forestal,834
+2012,ensiladora,834
+2013,operador de moldeo,814
+2014,chofer horquillero,834
+2015,manipulador de maquinaria,000
+2016,alimentador astillador,921
+2017,chofer de resguardo,832
+2018,isnpector de muestreo,000
+2019,mecanico operario,723
+2020,operario sala control,818
+2021,maesto instalador de mueb,000
+2022,operador de brazo,834
+2023,conductor de autos,832
+2024,op de grua horquilla,834
+2025,ayudante de motocierrista,921
+2026,operador maq envasado,818
+2027,mecanico carrocero,723
+2028,administrativo conductor,832
+2029,maestro de cañeria,000
+2030,revision mecanica,723
+2031,instalador mecanico,722
+2032,reoartidor,000
+2033,ayudante calderero,721
+2034,ayudante de cargador,933
+2035,conductor ayudante de bod,000
+2036,operador fundidor,812
+2037,conductor asist log en te,832
+2038,transportista y operario,933
+2039,manipulador de huevos,932
+2040,operativo implementacion,000
+2041,palillero,000
+2042,operador sip,000
+2043,carnicero aprendiz,000
+2044,capataz conductor,833
+2045,conductor y jefe patio,833
+2046,operador de 1,000
+2047,operador de electrobomba,818
+2048,ayudante matricero,722
+2049,montajista soldador,721
+2050,monitor pushback,000
+2051,controlador de proceso,000
+2052,gruhero de horquilla,834
+2053,asistente de mecanico,723
+2054,operador de horno,812
+2055,operador apilado,834
+2056,reparador contendores,723
+2057,maestro hojalatero y sold,721
+2058,ordeñador de vaca,921
+2059,operador de retro excavad,834
+2060,ayudante pollero,921
+2061,asistente de pista,000
+2062,repartido de gas,000
+2063,operador de equipo herram,722
+2064,conductor equipos mineros,834
+2065,peackeng mercaderia autos,932
+2066,motorizado,832
+2067,conductor mantenedor,832
+2068,mecanico en freno,723
+2069,opererador,000
+2070,operario de control vehic,000
+2071,boca sierra,000
+2072,ayudante campo,921
+2073,operio conductor,833
+2074,operador de plasma cnc,722
+2075,operador despuntador,000
+2076,ayudante caldelero,721
+2077,operador de madera,817
+2078,vulacanizador,722
+2079,operador senior maquina,818
+2080,ni mecanico,723
+2081,a cargo de maquinaria,834
+2082,oper cilindro,000
+2083,moldeacero,721
+2084,operario de turno,000
+2085,perador de equipo,000
+2086,ayudante de mecanio,722
+2087,auxiliar de campo,921
+2088,operador semi calificado,000
+2089,maestro de guilotina,814
+2090,operario pabellon,932
+2091,operador linea,000
+2092,operador de carga dscarga,933
+2093,operador de sala maquina,000
+2094,operador m2,000
+2095,peoneta y encargado camio,933
+2096,chofer y bodeguero,933
+2097,operador caex,834
+2098,ayudante operador maq,000
+2099,operador de medidores,000
+2100,maestro m soldador,721
+2101,ayudante de reparacion,000
+2102,roto moldeo,814
+2103,mecanido frp,000
+2104,maestro doblador,722
+2105,carniceria,000
+2106,movilisador,000
+2107,operador electrico terren,000
+2108,oper de maquinaria,834
+2109,constructor naval,931
+2110,tecen maquinas de lav,815
+2111,operador en linea,000
+2112,cargador embalador,932
+2113,trabajador de temproada,000
+2114,operativo bodega ii,933
+2115,maneja tractor,834
+2116,operador bomba telescop,834
+2117,operario de yale,834
+2118,conductor de tracto camio,833
+2119,encargado transporte,933
+2120,pintor desabollador,723
+2121,operadore,000
+2122,maestro de estructura met,721
+2123,conductor de traslado,832
+2124,operdor de camion tolva,834
+2125,picar ensacar leña astill,921
+2126,operador banco aserradero,817
+2127,armador y mecanico,723
+2128,soldador hdt,721
+2129,operador de guillotina,818
+2130,chofer y repartidor,832
+2131,operario noche,000
+2132,operador tuberia corrugad,000
+2133,conductor y ayudante mueb,000
+2134,mano de general,000
+2135,operario de frutas y verd,932
+2136,cargador de palett,933
+2137,operador equipos mineros,811
+2138,tornero soldador,721
+2139,preparador vehiculos,723
+2140,ayudnate de soldadura,721
+2141,maestro de gasfiter,000
+2142,pintura electrostatica,722
+2143,envargado de mantencion,000
+2144,conductor carga de petrol,833
+2145,oficiales maquinista en n,831
+2146,operador maquina herramie,722
+2147,operador puente de grua,834
+2148,operaror,000
+2149,operador proceso,000
+2150,grafico e instalador,000
+2151,forrador,000
+2152,operador maestro,000
+2153,marmoledo,000
+2154,maesto enfierrador,931
+2155,conductor y recolector de,000
+2156,maestro pulidor armador,722
+2157,chofer de furgon,832
+2158,operario psicultura,921
+2159,operador equipo,000
+2160,conductor descarga,933
+2161,operador de remoto,000
+2162,auxiliar de carga y desc,933
+2163,conductor chofer,833
+2164,mantencion de grua horqui,723
+2165,motorista mensajero,832
+2166,jefe de operador,000
+2167,asistente de anden,933
+2168,operador combustible,834
+2169,maestro estibador,933
+2170,chofer y tecnico en mante,000
+2171,aspirante a motorista,832
+2172,maetro hojalatero,721
+2173,soldador 6g,721
+2174,operario chipiador,818
+2175,reparador soldador,721
+2176,chofer y enc adq,832
+2177,conductoir,833
+2178,chofer mantencion y otros,000
+2179,operador de maq trata,000
+2180,operador maquinista,834
+2181,conductor de rampla,833
+2182,mecanico de mtto de plant,723
+2183,operario en higiene indus,000
+2184,op de maquinaria pesada,834
+2185,chofer de camioneta,832
+2186,operacional,000
+2187,ayudante de jardin,921
+2188,mecanico lubricador,723
+2189,trabajador portuario,933
+2190,operador area de trozado,818
+2191,bodeguero grua horquilla,834
+2192,operador de una sierra,818
+2193,operador segundo,000
+2194,delevery,000
+2195,cgofer camion forestal,833
+2196,chofer recaudador,832
+2197,maestro de montaje de neu,000
+2198,operador de bobinas,818
+2199,movilizador de carros de,933
+2200,repatidor,832
+2201,operador de motocicleta,832
+2202,desbrozador,921
+2203,ayudante de poda,921
+2204,atendedor bomba combus,000
+2205,hojalateria,721
+2206,operador pouchero,000
+2207,encargado camaras,000
+2208,tripulante de barco,835
+2209,maestro reparador,000
+2210,operador de secado,818
+2211,operador de hincha,000
+2212,maestro torno,722
+2213,operario via,933
+2214,chofer y implementador,000
+2215,mecanico equipo pesado,723
+2216,jefe mecanicos,723
+2217,maestro empalmero,721
+2218,herrero,722
+2219,conductor flota,833
+2220,en camion recolector de b,833
+2221,motorista katamaran,000
+2222,cargador bencina,933
+2223,pioneta sabori,000
+2224,ayudando de grua,834
+2225,gruero apilador,834
+2226,mecanico de carros,723
+2227,clasificador manual,932
+2228,operador camion grua,834
+2229,ayudante perforista,811
+2230,operador maquinario,000
+2231,chofer  operador,832
+2232,lavador y movilizador de,000
+2233,soldador y mantencion bar,721
+2234,op maquinaria,834
+2235,operador de mini escavado,834
+2236,maestro impregnador,000
+2237,primero oficial maquina,835
+2238,operario tornero,722
+2239,operario sala ordeña,921
+2240,extrosor maquinista,818
+2241,tractorista forrajero,834
+2242,soldador e instala letrer,721
+2243,inyector,812
+2244,operador de pluma,834
+2245,operador mantencion,000
+2246,operador de grua horqilla,834
+2247,chofer de transporte pesa,833
+2248,picking congelados,933
+2249,tuberos,722
+2250,mecanico terreno,723
+2251,operario armador,721
+2252,operador cantiadora,834
+2253,operador mantendor 4,000
+2254,supervisor conductor,833
+2255,acampanado,000
+2256,volante alta comercial,000
+2257,mecanico maquinaria pesad,723
+2258,ayudante motorero,831
+2259,peoneta de carga,933
+2260,asisten de cosecha,921
+2261,operativo layout,000
+2262,trabajador temporada,000
+2263,operario lavado de camio,933
+2264,operador plantas b,813
+2265,marino timonero,835
+2266,conductor cargas peligros,833
+2267,encartador de camiones,933
+2268,operario control consumo,000
+2269,operador montacarga,834
+2270,instalador de baterias,723
+2271,gruero estandar,834
+2272,operador maq horizontal,000
+2273,condcutor,000
+2274,operador de rotia,000
+2275,operador de dimensionado,000
+2276,operador de enzunchadora,000
+2277,carneceria,932
+2278,junior y conductor,832
+2279,conductor y varios,000
+2280,conductor guardia,831
+2281,capataz y chofer,832
+2282,operador de prensadora,814
+2283,maestro fierrador,721
+2284,maestro de impresora,000
+2285,operador jefe,000
+2286,auxiliar de trasporte,933
+2287,encargado de pista,933
+2288,maestro calandrador,814
+2289,cofer de reparto,832
+2290,tractorero y gruero,834
+2291,operador de condensacion,000
+2292,mecanico de andaniveles,723
+2293,tecen maquinas y herrami,722
+2294,ayudante caldera,818
+2295,conductor transportista,833
+2296,conductor amb,832
+2297,operador de envalajes,000
+2298,radio control,000
+2299,condunctor,000
+2300,cargador y descarga de ca,933
+2301,operador manual,000
+2302,maestro de revestimiento,000
+2303,produccion y garzon,000
+2304,operario de maleta,933
+2305,operario cd,000
+2306,conductor viajes intenaci,832
+2307,derramador,000
+2308,operador al dia,000
+2309,supervisor de descarga,933
+2310,tecen planta,000
+2311,peon,931
+2312,operador de ca grua,834
+2313,operador planta sx,818
+2314,ayudante solldador,721
+2315,operario y operador horqu,834
+2316,operario de madera,817
+2317,operador de encoladora,818
+2318,operador interno,000
+2319,operados de maquinaria,000
+2320,operardmaquinas,000
+2321,operario gruero,834
+2322,tripulante g de cubierta,835
+2323,operativo de terreno,000
+2324,entrega y retiro de encom,933
+2325,operatio de bodega,933
+2326,jornal electrico,000
+2327,maestro instalador ventan,722
+2328,armador y peoneta,000
+2329,conductor electricista,000
+2330,paletizar,933
+2331,conductor camion pluma,833
+2332,maquinista de tractor,834
+2333,gafiter mantencion,000
+2334,fabricante dpto fabricaci,000
+2335,ayudante de molinero,814
+2336,carniceria cortador,932
+2337,operario mp y transporte,932
+2338,soldador de mantencion,721
+2339,operador frigorifico,000
+2340,operador retroescabadora,834
+2341,operador de maquinarai ag,834
+2342,marino de timonel,835
+2343,carpintero metalico,721
+2344,operador de andamios,931
+2345,mecnico,723
+2346,operador de lavado insitu,000
+2347,operario de esmeril,722
+2348,maestro de gasfiteria,000
+2349,operador cctv,000
+2350,operario estacionamiento,000
+2351,enc de mantencion,723
+2352,conducrtor,000
+2353,enc maquinarias,834
+2354,lector de paletizaje,932
+2355,ayudane electrico,000
+2356,conductor municipal,832
+2357,aperador de planta,000
+2358,movilizardor,000
+2359,mecanico insdutrial,723
+2360,estacionador parquoimetro,000
+2361,operario de cctv,000
+2362,mecanico conductor,833
+2363,conductorrepartidor,832
+2364,bdm operario,000
+2365,operario taller mantencio,000
+2366,operador y mantecion,000
+2367,supervisor conductor admi,000
+2368,conductor mantencion,000
+2369,maestro empalmado,721
+2370,conductor y ayudante meca,832
+2371,op maq perforacion,811
+2372,electricidad m 1,000
+2373,operador satelital,000
+2374,transportista de gas,933
+2375,operador campo,000
+2376,operador de grua i,834
+2377,lavador y movilizador,933
+2378,ayudante operador de cal,000
+2379,operador planta secado,818
+2380,operador de rich,000
+2381,operario de podaas y tala,921
+2382,conductor y reparto,832
+2383,conductor de bus escolar,833
+2384,coordinador de instalacio,000
+2385,operario amara de frio,000
+2386,courier,932
+2387,ayudante de flaquer,000
+2388,operador guillotina,818
+2389,chofer cargador,832
+2390,instalador general,000
+2391,op mov de tambores,818
+2392,mecnico especialista,723
+2393,ayudante mecanico y h,000
+2394,mezclador en caucho,814
+2395,supervisor sala maquinas,000
+2396,operador de escavadora,834
+2397,operador de torres de dis,816
+2398,operador grua portuaria,834
+2399,conductor distribucion,833
+2400,conductor equipo sanitari,000
+2401,lector de medidor de agua,000
+2402,bodeguero y repartidor,933
+2403,ayudante de cubierta,835
+2404,operador picadora dal,814
+2405,operativo bodega,933
+2406,operador superior,000
+2407,maestro despostador,000
+2408,ayudante operador de proc,932
+2409,operador de cargador fron,834
+2410,comandero,000
+2411,instalador de ventana,721
+2412,alineador operario,000
+2413,externo en soltem,000
+2414,ramer,000
+2415,repartidor lector,000
+2416,conductor y maestro solda,000
+2417,junior operador,000
+2418,chofer lavador,832
+2419,operador de grua orquide,834
+2420,electricista y carpintero,000
+2421,operario ordeñador,921
+2422,cargador y repartidor,933
+2423,chofer implementador,832
+2424,plaquero,000
+2425,mecanico de flota,723
+2426,conductor de combustible,833
+2427,ayudante y chofer,832
+2428,operador de planta termic,000
+2429,maestro marmolero,000
+2430,ayudante en camion,933
+2431,vulcanizador industrial,723
+2432,esquiguar,000
+2433,reparador de contenedores,932
+2434,operador de fundicion,812
+2435,abisagrador,000
+2436,almero moldeador,721
+2437,camion recolector,833
+2438,operador de grua y ayudan,834
+2439,coneductor,000
+2440,maestro soldador y muebli,721
+2441,operario encarpado,000
+2442,ayudante de soldaje,721
+2443,operario de muestra,932
+2444,carga y descarga de camio,933
+2445,especializado en llenado,932
+2446,tornerofresador soldado,722
+2447,coordinador de operadores,000
+2448,conductor patrullero,832
+2449,tripulante d cubierta del,835
+2450,operador de maquinac,000
+2451,atomizador,000
+2452,conductor de carretera,833
+2453,aplicador de herbicida,921
+2454,condiuctor de camion,833
+2455,conductor de yale,834
+2456,ayudante de piloto,000
+2457,soldador nivel ii,721
+2458,conductor camion recolec,833
+2459,encargador de buses,833
+2460,operador minicargador,834
+2461,ayudante de campo,921
+2462,operador en terminaciones,818
+2463,operador de maquina indus,000
+2464,operario criadero,921
+2465,aydante de soldador,721
+2466,operador peacking,933
+2467,busos,000
+2468,jefe equipo operador,000
+2469,explosivo,000
+2470,operador de remanofactura,000
+2471,operador de planta de agu,000
+2472,supervisor carga y descar,933
+2473,trasportista,933
+2474,agente rampla,933
+2475,operador de laser,000
+2476,op maq industrial,812
+2477,capataz de cuadrilla,000
+2478,tripulante gral de maquin,000
+2479,operador de carga frontal,834
+2480,operador en terreno,000
+2481,supervision de instalacio,000
+2482,maestro armandor,722
+2483,operador de equipos menor,000
+2484,maestro en obras menores,931
+2485,operador de desmoldeo,814
+2486,operador camara de frio,933
+2487,bodeguero y operador,933
+2488,clasificador madera,921
+2489,mecanico y vulcanizador,723
+2490,conductor de tolva,833
+2491,mecanico diesel,723
+2492,maestro electrico y rigge,000
+2493,ayudante de sierra,921
+2494,operario de aserradero,817
+2495,encargado de taller tract,000
+2496,mecanicco,723
+2497,mantencion soldador,721
+2498,conductor tractor,834
+2499,ayudate camion,000
+2500,ayudante de mecan y sold,721
+2501,operario de pintura,000
+2502,electrico y conductor,000
+2503,operador y mantenedor de,000
+2504,conductor despachos,832
+2505,maniobra de descarga,933
+2506,operador d planta,000
+2507,acerrador,817
+2508,operador especialista,000
+2509,soldador auxiliar,721
+2510,chofer a4,833
+2511,operario de bodega logist,933
+2512,operador de retape,933
+2513,maestro extrusor,814
+2514,repartidor de pan,832
+2515,operador auto clave,818
+2516,area de partes,000
+2517,peoneta descargador,933
+2518,operario instalador,000
+2519,conductor y logistica,933
+2520,mecanico de terreno,723
+2521,operario y conductor,933
+2522,repartidor de comida,832
+2523,asistente reparaciones,723
+2524,operario de centro,000
+2525,reparacion paneles,000
+2526,chofer administrativo,833
+2527,soldador 2g y 4g,721
+2528,chofer de servicios,832
+2529,carnicero y aseo,000
+2530,auxiliar de maquinaria,834
+2531,armador y soldador,721
+2532,estafete,933
+2533,instalador sanitario,000
+2534,chofer capataz de turno,833
+2535,electro control turno,000
+2536,operador river,000
+2537,operador sala de video,000
+2538,soldador y enc mantencion,721
+2539,poneta,000
+2540,ayudante de jornal,000
+2541,operador de bombas,000
+2542,ayudante mecanico avan,723
+2543,pulidor terminador,812
+2544,jefe de mecanico,723
+2545,descarga de cal,933
+2546,operario y mecanico,723
+2547,condutor camion pesado,833
+2548,operador rtg,834
+2549,operario de metalurgica,812
+2550,acomodador de vehiculo,933
+2551,ayudante de repartidor,933
+2552,mecanico base,723
+2553,operador de carga,933
+2554,mecanico chofer,832
+2555,operador perforista,811
+2556,operario de maquinaria pe,000
+2557,conuctor de ambulancia,832
+2558,conductor y auxiliar,832
+2559,conductor y descargador,000
+2560,manutencion y operador,000
+2561,tripulante cubierta,835
+2562,mecanico matricero,722
+2563,conductor de maquina,834
+2564,operador de orquilla,834
+2565,supervisor frigorificos,000
+2566,mestro instalador,000
+2567,operador y auxiliar,000
+2568,operadort,000
+2569,conductor y estafeta,832
+2570,operador de monitereo,000
+2571,panelero madera,000
+2572,embarque,933
+2573,tripulante naves especial,000
+2574,operador de maquina cnc,812
+2575,mecanicio,723
+2576,operario de centrifuga,818
+2577,mecanizado,722
+2578,tripulante genera,835
+2579,cargo crew,000
+2580,soldador mantenedor,721
+2581,operador de rampa,933
+2582,chofer ayudante de bodeg,933
+2583,mecanico ayudante,723
+2584,maestro retro armador,723
+2585,desabollador y pintor aut,723
+2586,montaje mecanico,721
+2587,operador de planta de ac,000
+2588,operario de maquina grua,834
+2589,operador de grua y maquin,834
+2590,movilizador y tractorista,834
+2591,estacionador de vehiculos,933
+2592,lavador de mallas,000
+2593,chofer bodeguero y peone,000
+2594,maestro instaldor,000
+2595,operario de anden,933
+2596,ayudante de bartender,000
+2597,operador de campo,000
+2598,operario de taller,000
+2599,operarador,000
+2600,maestro enfierrador 1,000
+2601,desabollador de vehiculos,723
+2602,operador astillador,817
+2603,cortador y carnicero,000
+2604,operador 03,000
+2605,conductor de compras,000
+2606,mecanico alineador,723
+2607,ayudande soldador,721
+2608,ayudante de cafetero,000
+2609,operario de criadero,921
+2610,tripulante industrial,000
+2611,operador elaboracion,816
+2612,oxicorte,721
+2613,operador alimentador,000
+2614,operacion de riesgo,000
+2615,maestro en hormigones,931
+2616,operario de torno,722
+2617,operador de sierra,814
+2618,operador y alimentador,000
+2619,enc de taller soldadura,721
+2620,operado de maquina,000
+2621,mecanico spci,723
+2622,conductor  auxiliar,832
+2623,patron portuario,933
+2624,encargado de refrigeracio,000
+2625,maestro de marmol,000
+2626,operador pluma camion,834
+2627,soldador pig,721
+2628,operador equipo general,000
+2629,sodador,721
+2630,maestro frenos,831
+2631,conductoer grua horquilla,834
+2632,operario de descarga,933
+2633,machimbradora,000
+2634,conductor grua arrastre,834
+2635,operario de areas verdes,921
+2636,maestro chofer,000
+2637,operador primera,000
+2638,ayudante de gruero,834
+2639,operador de maqu pesada,834
+2640,troquelador,722
+2641,motorista nave motor,835
+2642,chofer ayudante de linea,833
+2643,operador planta hormigon,811
+2644,soldador plancha,721
+2645,operador maquinaria menor,834
+2646,chofer repartidor comprad,832
+2647,conductor traslado de pac,832
+2648,tractorista mecanico,834
+2649,faenador de animales,000
+2650,cuidador horquillero,000
+2651,operador de tereno,000
+2652,ayudante carniceria,000
+2653,montajes carrocerias,721
+2654,operario bencinera,000
+2655,operador patio,834
+2656,operario licencia bv,000
+2657,op de estacion de servic,000
+2658,operario de tractorista,834
+2659,operador punte grua,834
+2660,encargadado vulcanizacion,814
+2661,operador de perecibles,000
+2662,operador chancao,818
+2663,operador met,812
+2664,mantenedor operador,000
+2665,mecanico multiproposito,723
+2666,operario hilanderia,815
+2667,mecanico en maquina,723
+2668,maestro pintor de auto,723
+2669,despachador combustible,000
+2670,operaio de rampla,834
+2671,operario de coscha,921
+2672,ayudante moldajero,931
+2673,ayudante de empalme,721
+2674,operador de peas,000
+2675,operador lixiviacion,811
+2676,operario en mantencion,000
+2677,tornero cnc,722
+2678,peforador,811
+2679,operaor de maquinaria,834
+2680,socio y conductor,832
+2681,chofer camion piso camina,833
+2682,ayudante vidriero,818
+2683,operador dms,000
+2684,operador estacionamientos,000
+2685,operario piking,933
+2686,operario cerdos,921
+2687,ayudante de bodega y peon,933
+2688,segundo maquinista,835
+2689,oficial maquina,834
+2690,operario cnc,722
+2691,operador concentrador,811
+2692,mntencion yequipamiento,000
+2693,mecanico segunda,723
+2694,operador plataforma,000
+2695,operador vms,000
+2696,armandor de estruc metali,721
+2697,operador de volteo,834
+2698,operador de petroleo,000
+2699,tercer oficial de cubiert,835
+2700,tecen control centraliza,000
+2701,operador de puente,834
+2702,maestro soldador armador,721
+2703,repartidor motorista,832
+2704,operador camion tolva,833
+2705,tornero especialista,722
+2706,maestrfo plegador,722
+2707,condcutor maquinaria pesa,834
+2708,operador camara frio,933
+2709,operario de maquinaria ag,834
+2710,ooperador de grua orquill,834
+2711,operario de traspaleta,834
+2712,conductor a4,833
+2713,maestro termo paneles,000
+2714,encargado de combustible,000
+2715,operador taller,723
+2716,ope bodega,933
+2717,montacarga y elevadores,834
+2718,copiloto,000
+2719,operador maquinaria cnc,722
+2720,operador de agua,000
+2721,operador tolva,000
+2722,macero,000
+2723,frezador y armador,722
+2724,mantencion gasfiteria,000
+2725,mecanicos y reparadores d,723
+2726,conductor camion municipa,833
+2727,conductor y asistente,000
+2728,supervisor maquina,000
+2729,movilizador y operador,000
+2730,operador maquinas herrami,722
+2731,gravillado,931
+2732,operario bodega y logisti,933
+2733,movlizador de cilindros,000
+2734,mantencion de gasfiteria,000
+2735,maestro operario,000
+2736,operador tracto,834
+2737,movilador,933
+2738,cxhofer mecanico,723
+2739,operador de equipos miner,811
+2740,trabajos de bodega,933
+2741,bodeguero y gruero,834
+2742,mecanico en antencion,723
+2743,auxiliar de grua y patio,834
+2744,operador tratamientos,000
+2745,ejecutor volante,000
+2746,operador embasador,818
+2747,operador avanzadode corte,000
+2748,pioneta bodeguero,933
+2749,fundidor de cobre,812
+2750,operador camion mixel,834
+2751,conductor y operador maqu,834
+2752,desabollador y pintor,722
+2753,auxiliar en verduleria,921
+2754,cortador fierros,721
+2755,capitan de la embarcacion,000
+2756,operador mquinaria pesada,834
+2757,maestro 1ra armador,721
+2758,cortador pasto,921
+2759,operador de primera line,000
+2760,maestro molinero,000
+2761,ayudnate mecanico,723
+2762,operario de maquina encua,814
+2763,operador multiproposito,000
+2764,operador serrucho,000
+2765,operario parque,000
+2766,bodeguero ayudante,933
+2767,operador fundicion,812
+2768,operador camion algibes,833
+2769,operador de grua horqui,834
+2770,estroero,000
+2771,conuctor,000
+2772,conducto de ambulancia,832
+2773,operador mantenedor 4,000
+2774,operario bus,833
+2775,pintor aeronanautico,000
+2776,operario en linea zona,000
+2777,operario de diatribucion,000
+2778,instaladores de gas,000
+2779,operador de moto cierra,834
+2780,operario de campo,921
+2781,operador b,000
+2782,operador mecanizado,000
+2783,mecanico de avion,723
+2784,peoneta movilizador cilin,933
+2785,laminador y moldeador,721
+2786,op fundidor,812
+2787,operario de patio y ganad,000
+2788,operador cepilladora,722
+2789,manipulador de grua,834
+2790,operador secadores,814
+2791,desgaje conductor,832
+2792,operador base planta,000
+2793,condcutor de mini bus,833
+2794,ascensorista,000
+2795,operador lixidacion,000
+2796,conductor  repartidor,832
+2797,operador esdpecialista,000
+2798,operador de minicargador,834
+2799,conductor alto camionaje,833
+2800,motorista de prevencion,000
+2801,conductor camion articula,833
+2802,opeador de maquina pesada,834
+2803,acomodador de autos,933
+2804,aux conductor ambulancia,832
+2805,soldadorarmador y ayudan,721
+2806,jefe de torre,000
+2807,gruero apliador,834
+2808,supervisor de cargas,933
+2809,operador sancado,000
+2810,mantecio sala de maquina,000
+2811,opearador de maquinaria p,834
+2812,afilador de huincha aserr,722
+2813,operador linea terminacio,818
+2814,mecanino m uno,000
+2815,conductor camion forestal,834
+2816,asistente instalacion,000
+2817,operador en pasteurizacio,816
+2818,hojaletero,722
+2819,ayudante de granalla,932
+2820,ayudante del conductor,933
+2821,tapado y retrio,000
+2822,operador de aserradero,817
+2823,operario en vidrio y,818
+2824,operador tlc,000
+2825,conductor y monitor,000
+2826,enfierradura,931
+2827,jefe sala maquinas,000
+2828,operador planta electrico,000
+2829,ayudante de calderas,818
+2830,operador grua horqilla,834
+2831,tripulante marino mercant,835
+2832,chofer recoleccion de res,833
+2833,tarimero,932
+2834,conducto de bus,833
+2835,toab  tractorista,834
+2836,operario acopio,932
+2837,op transpaleta electrica,834
+2838,ayudante de escuadradora,000
+2839,operador de bocatoma,000
+2840,operador de flotacion,811
+2841,maquinista tractorero,834
+2842,jefe de operadores,000
+2843,operador de aplador,000
+2844,inspector de camino,000
+2845,operario de filo,722
+2846,operador uno,000
+2847,ayudante de camionero,933
+2848,operdor,000
+2849,maestro armador estrc met,721
+2850,conductor de empresa,832
+2851,seleccionador de seco,932
+2852,huinchero,000
+2853,operador de grau,834
+2854,operario reparador,000
+2855,conductor ayudante bodega,933
+2856,especialidad en cañeria,722
+2857,conductpr,000
+2858,conducotor,000
+2859,encargado de tractores,834
+2860,fileteo,000
+2861,operario de camaras,000
+2862,conductor montajista,832
+2863,operador de modulo,000
+2864,operardor mcu,000
+2865,op taller de afilado,722
+2866,operador de camion combus,833
+2867,operador mayor,000
+2868,electrico vulcanizador,000
+2869,conductor aceites lubrica,832
+2870,reponedor en patio constr,932
+2871,conductor de camion leche,833
+2872,almero  moldeador,721
+2873,op de maquina troquelado,818
+2874,balanceador,000
+2875,ayudante molinero de pati,000
+2876,maestro aluminio,722
+2877,herbicida,000
+2878,operador de fluentes,000
+2879,perario de maquinaria agr,834
+2880,conductor  ayudante,832
+2881,aplicador de insecticida,000
+2882,chofer de camion transp,833
+2883,muestrero qco,000
+2884,motorista recolector,933
+2885,operador grua manitou,834
+2886,conductor camion bodega,833
+2887,operario y chofer,000
+2888,chofer flota,833
+2889,conductor de trasctocamio,833
+2890,soldador y mecanico,721
+2891,instalacion,000
+2892,capataz de gasfiteria,000
+2893,mecanico en mantenimiento,723
+2894,operario de almacenamient,933
+2895,controlador de maquinas,000
+2896,operario de plataforma,000
+2897,maestro enyesero,931
+2898,moto boy,832
+2899,chofer asistente bodega,933
+2900,segundo oficial de maquin,835
+2901,operario de transporte,933
+2902,operario de aguas,000
+2903,m1 caldelero estructura,721
+2904,operaciones en rampa,933
+2905,turnero,931
+2906,chofer y jefe de turno,000
+2907,operario de tec baterias,812
+2908,armado y desarmado de cam,933
+2909,supervisor de instalacio,000
+2910,maquinista en entrenamien,831
+2911,cosecha paltas,921
+2912,operario centro distri,933
+2913,soldador 2,721
+2914,maestro conductor,000
+2915,encargada herramientas,722
+2916,repartidor y lector,000
+2917,maquinista especializado,831
+2918,operario de cable,722
+2919,mecanico de mantension,723
+2920,operario de grua y bodega,834
+2921,mecanico instalador,723
+2922,secador,816
+2923,ayudante mecanico industr,723
+2924,conductor de recoleccion,833
+2925,aux camion,832
+2926,chofer camion tolva,833
+2927,operador y otras funcione,000
+2928,operador de grua y bodegu,834
+2929,ayudante tornero,722
+2930,electrico y mecanico,723
+2931,confeccionador de molde,722
+2932,conductor ayudante intala,000
+2933,desconchera,000
+2934,operador de mantecion,000
+2935,concuctor de camion,833
+2936,conductor polifuncional,000
+2937,operador de linea manual,932
+2938,supervisor montajista,000
+2939,jornal chofer,832
+2940,operario prevencion,000
+2941,cargador cerdos,921
+2942,operador de porta contene,834
+2943,asistente parking,933
+2944,ioperador,000
+2945,pintor de moldes,000
+2946,operardor de grua,834
+2947,carnivero,000
+2948,operador perforacion,811
+2949,alimentador de peces,921
+2950,operador compostera,932
+2951,conductor operador camion,833
+2952,soldador mantencion,721
+2953,m1 soldador,721
+2954,operario de peaking,000
+2955,capataz de enfierradura,721
+2956,operador de cantadora,814
+2957,ayudante de refrigeracio,723
+2958,operador de extrusion,814
+2959,maestro calefaccion,000
+2960,vidriero volante,818
+2961,operador de molino,000
+2962,operador chancador,811
+2963,conductor de camion y equ,833
+2964,operardo,000
+2965,ayudante ed chofer,933
+2966,supervisor y conductor,833
+2967,tractorista moto,834
+2968,lavador de piezas motores,000
+2969,marinos,835
+2970,operadoe de grua horquill,834
+2971,operador postar,000
+2972,reparaciones,723
+2973,maestrosoldador,721
+2974,movilizadora,000
+2975,ayudante de calderero,721
+2976,rigger de alta,721
+2977,maquinista equipos mezcla,818
+2978,pioneta de camion recolector de basura,933
+2979,supervisor de operadoras,000
+2980,aparcador,000
+2981,enganchador,000
+2982,ayudante campintero,000
+2983,flexografista,814
+2984,operdaor ayudante,000
+2985,mantencion maquinaria,723
+2986,inspector vulcanizador,000
+2987,operador de maquinarias e,834
+2988,fundicion,812
+2989,operador a granel,933
+2990,mecancio especialista,723
+2991,cepillador,000
+2992,encargado de moto bomba,834
+2993,soldador maestro i,721
+2994,operario reproceso,000
+2995,mecanica,723
+2996,conductor chofer y vende,832
+2997,operador de combustible,000
+2998,opersrio,000
+2999,conductor y administrativ,000
+3000,operador prensa,814
+3001,torre de control,000
+3002,asistente cervecero,816
+3003,operador de drones,000
+3004,junior  motorista,832
+3005,movilizador conductor,832
+3006,mecaniuco de banco,000
+3007,operador de grua oquilla,834
+3008,operador de planta riles,000
+3009,ooperador de maquina,000
+3010,conductor a5,000
+3011,maestro mayor soldador,721
+3012,ejec operaciones aereas,000
+3013,operario maquina de corte,814
+3014,mecanico 4,723
+3015,encargado de repartos,933
+3016,operador gillotina,816
+3017,tripulante grl d cubierta,835
+3018,chofer cortador,832
+3019,operarioo,000
+3020,herramentero,722
+3021,gasfister,000
+3022,mecanico de ascensores,723
+3023,operador polifunsional,000
+3024,ayudante de empalmador av,721
+3025,operador planta tas,813
+3026,carnicero y reponedor,000
+3027,area de secado,814
+3028,ayudante de transporte,933
+3029,auxiliar taller mecanico,723
+3030,coordinador sala maquinas,000
+3031,operador de camion aspirador,834
+3032,operador de gua,000
+3033,operasdor de maquinaria,834
+3034,chofer de maquina pesada,833
+3035,capital o patron de barco,000
+3036,conductor faena,832
+3037,operaria especializada,000
+3038,macanico,723
+3039,operador rtg portuario,834
+3040,repartidor cartero,000
+3041,operador chofer de aeropu,000
+3042,soldador de termufusion,721
+3043,operario de toma estado,000
+3044,carnicero opv,000
+3045,mecanico maquinaria,723
+3046,mecanico de brigada de ca,723
+3047,operador de sala de maq,000
+3048,operador de ptc,000
+3049,tecnico metalurgia,000
+3050,op de retroescabadora,834
+3051,capitan patron,835
+3052,motorista encargado,933
+3053,operador mantenedor 2,000
+3054,operador planta riles,812
+3055,operador de escavadora y,834
+3056,operador alerta temprana,000
+3057,opeario de planta,000
+3058,conductor de camion algib,833
+3059,chofer y taller,000
+3060,capitan de remolcador,000
+3061,operario distribucion,933
+3062,mestro ductero,000
+3063,operador de cama baja,834
+3064,encargado de prefrio,932
+3065,ayudante armador puert,933
+3066,mecanico pleno,723
+3067,operdor de maquina,000
+3068,mecanico gral,723
+3069,inspector guia camino,000
+3070,conductor asistente,933
+3071,ayudante tabiqueria,931
+3072,agente de operacion,000
+3073,chofer de reparto,832
+3074,maquinista nave menor,000
+3075,fletero,933
+3076,repartidor de ruta,832
+3077,operador en jefe,000
+3078,conductor superviso,000
+3079,chofer recolector,833
+3080,ayudante de calefaccion,000
+3081,operador formulador,813
+3082,mantenimiento maquina,723
+3083,jefe istalaciones,000
+3084,operador y movilizador,000
+3085,operdarador,000
+3086,ayudante marquero,000
+3087,aseo maquinas,000
+3088,operador jul,000
+3089,lider de montaje,000
+3090,operador de envasados,818
+3091,peoneta y operario,000
+3092,operador cd nocturno,000
+3093,operario parquimetros,000
+3094,operador de yale,834
+3095,operador linea de pintura,812
+3096,operador calificado,000
+3097,chofercargador,933
+3098,op de cctv,000
+3099,conductor capataz,833
+3100,ayudante calefaccion,000
+3101,desplacador,833
+3102,conductor ayudante de log,933
+3103,arcenalero,000
+3104,ayudante empalmador,721
+3105,mec soldador,721
+3106,operador de equipo rodant,834
+3107,operdor polifuncional,000
+3108,operador bobinadora,814
+3109,opeerador,000
+3110,ayudante en conservacion,000
+3111,chofer  operario,832
+3112,operador de descortezador,817
+3113,operativo cot,000
+3114,conductor y ayudante de b,000
+3115,maestro pulidor de primer,812
+3116,operador de cc tv,000
+3117,cuadrilla de invierno,000
+3118,lanchero,835
+3119,mecanico turno,723
+3120,mecanixo,723
+3121,fundidor de acero,812
+3122,encargado de delivery,832
+3123,operario de tablero,000
+3124,operador camara secado,000
+3125,operador cabina,000
+3126,operario de banco aserrad,817
+3127,operador de maquina ind,818
+3128,chofer  peoneta,833
+3129,movilizador trinca,000
+3130,ovejero,921
+3131,mensajero repartidor,832
+3132,operario servicentro,000
+3133,ayudante cargador,933
+3134,conductor de rondas medic,832
+3135,operador encargado,000
+3136,maestro pintor industrial,000
+3137,maestro arenador,812
+3138,operariomaquina de envas,818
+3139,asistente de frigorifico,000
+3140,tripulante de cubierta ge,835
+3141,peoneta y conductor,832
+3142,conductor y soldador,000
+3143,desollador,921
+3144,encargado de andel,931
+3145,operador de grua y bodega,834
+3146,instalador de accesorios,000
+3147,tens y conductor,000
+3148,solsador,721
+3149,ayudante de hidraulica,000
+3150,operardor de dron,000
+3151,copero arrocero am,000
+3152,maestro jornalero,000
+3153,mantencion y carga de equ,933
+3154,rerpartidor,832
+3155,conductor a,832
+3156,ayudante de intalaciones,000
+3157,operario plataforma,000
+3158,chofer capatas,833
+3159,operador de juntador,000
+3160,repartidor agua,832
+3161,carnicero y repartidor,000
+3162,lector y rapartidor bolet,000
+3163,operario linea 1,000
+3164,operario de puente,834
+3165,operador tornero,722
+3166,embarcado,835
+3167,capataz electricista,000
+3168,operador y encargado,000
+3169,maestro aluminiero,722
+3170,conductor damion,833
+3171,operador ayudante formaci,833
+3172,maestro de est metalicas,722
+3173,operador de planta de lle,000
+3174,operario de fundicion,812
+3175,operario de maqunaria,000
+3176,pañolero nave,933
+3177,maestro montador,721
+3178,mantenedor mecanico a,723
+3179,guia conductor,000
+3180,operario de equipaje,933
+3181,operador equipo servicio,000
+3182,mecanico tipo c,723
+3183,motorista conductor,832
+3184,instalador de cortina met,000
+3185,carnicero roticero,000
+3186,operarario,000
+3187,conductor camion pesado,833
+3188,desabollador de auto,723
+3189,ayudante de torneria,722
+3190,excabador,931
+3191,soldador estructuras,721
+3192,conductor y dueño,832
+3193,mecanico en terreno,723
+3194,oparador,000
+3195,mecanico montajista de gruas torres,834
+3196,mecanico y otros,723
+3197,operario de robot,000
+3198,rigger y ayudante mecanic,000
+3199,operador de maquina de pl,814
+3200,armador de carretilla,932
+3201,descarga y recepcion,933
+3202,carnicer0,000
+3203,mecanico tractorista,723
+3204,conductor de minibus,832
+3205,ayudante perfora,811
+3206,operador de maquina embal,818
+3207,condcutro de camiones,833
+3208,mecanico servicio express,723
+3209,chofer maquina pesada,833
+3210,auxiliar de obrero,932
+3211,opersrio envolce,932
+3212,funcional de carga,933
+3213,conductor operador brigad,000
+3214,operador de sala bateria,000
+3215,mecanio,723
+3216,operador zona 1,000
+3217,operario de equipos movil,834
+3218,encargado matriceria,722
+3219,estafeta conductor,832
+3220,ayudante de huincha,933
+3221,operador equipos empaque,932
+3222,mantenimiento en terreno,000
+3223,operador de patio constru,000
+3224,tens motorista,833
+3225,maesatro enfierrador,931
+3226,tripulante general de cubierta,835
+3227,ayudante de cosecha de ca,921
+3228,carpntero,000
+3229,soldador y carpintero,721
+3230,maerstro instalador,000
+3231,mecanico de mantecion,723
+3232,op puente grua,834
+3233,chofer de maquinaria,834
+3234,operador de tratamiento,000
+3235,maestro electrico primera,000
+3236,operador de grua torres,834
+3237,crewing,835
+3238,operario de avanzada,000
+3239,operador de pozo,811
+3240,bodeguero y pikiador,933
+3241,operario de la maquina de,000
+3242,quesero,816
+3243,operario logisto,933
+3244,operador de candera,818
+3245,entrega productos,832
+3246,auxiliar de horno de cal,818
+3247,ayudabnte enfierrador,721
+3248,acerolista,000
+3249,mecanico sala de maquinas,723
+3250,operador maquina sellador,818
+3251,conductor camion tolva,833
+3252,maestro cañeria,000
+3253,copnductor,000
+3254,operario quimico,813
+3255,ayudante esmerilador,722
+3256,mecanico de bicicletas,723
+3257,soldador b,721
+3258,operario y condcutor,000
+3259,operador mecanico de plan,723
+3260,operador cat,834
+3261,soldador 4g,721
+3262,ayudante ojalatero,722
+3263,mantenedor lider instrume,000
+3264,oficial de partes,000
+3265,operador convertidora,818
+3266,maestro cerrajero,722
+3267,operario madera,817
+3268,operario ventanas termopa,000
+3269,ayudante de gafiteria,000
+3270,chofer ayudante soldador,000
+3271,mecanico mant,723
+3272,copero arrocero,000
+3273,operador de tronzadora,000
+3274,urdidor,815
+3275,operador de buses,833
+3276,supervisor de moldaje,721
+3277,vidriero vertical,000
+3278,carga descarga automovil,932
+3279,mecanico asistente de b,723
+3280,chofer furgon,832
+3281,maquinista de inyeccion,000
+3282,conductor de resguardo,832
+3283,conductor recaudador,832
+3284,encargado chanchilla,000
+3285,comprimidor,811
+3286,repartidor de correpo,933
+3287,despicador,921
+3288,encargado de encarpe,921
+3289,lector de luz,000
+3290,conductor camion combustible,833
+3291,bodeguerochofer pioneta,933
+3292,operario de inyectado,814
+3293,]jornal,000
+3294,operador de rampla,834
+3295,concudctor de camion,833
+3296,maestro instalador de mue,000
+3297,distribudor postal,000
+3298,mecanico pintor,723
+3299,mastro carnicero,000
+3300,mant mecanica y soldadur,721
+3301,soldador operario,721
+3302,maquinista extrusor,814
+3303,operador de funcion,000
+3304,motobomba,000
+3305,operativo multifuncional,000
+3306,ayudante de cabina,000
+3307,reparto,832
+3308,operador de frigorifico,818
+3309,ayudante de pickig,933
+3310,ayudante electrico y rigg,000
+3311,ayudante de ducteria,932
+3312,operador apoyo produccion,000
+3313,operador de pre frio,000
+3314,operario de calibrado,722
+3315,operario nocturno,000
+3316,repartidor y adm,000
+3317,auxiliar de buses,933
+3318,jardinero operario,921
+3319,maestro mayor en montaje,721
+3320,operador de lanchones,835
+3321,tec grua torre,834
+3322,aux de operador,000
+3323,operdor puente grua,834
+3324,cargador de pala mecanica,834
+3325,chofer y mecanico,832
+3326,enc de taller,000
+3327,axiliar de carga,933
+3328,terminador,000
+3329,operador de autoclave,818
+3330,sacador muestras metalica,812
+3331,chofer y ayudanet de bode,933
+3332,operador retroexcavadora,834
+3333,operado de grua oquilla,834
+3334,mecanicoen maquinaria,723
+3335,motoristarepartidor,832
+3336,operador regriguerado,000
+3337,operador prensista,818
+3338,operador planta yodo,813
+3339,obrero forestar,921
+3340,chofer asistente admin,832
+3341,montajista mecanico,722
+3342,corte chapa,721
+3343,cortador de bloques,931
+3344,personal picking,933
+3345,encargado vial,000
+3346,operador simba,811
+3347,maquinista turbo mesclado,000
+3348,opera de descarga,933
+3349,operario en patio,933
+3350,pioneta camion basura,933
+3351,operador etiquetador,818
+3352,especialista en cortador,814
+3353,operario de maquina agric,834
+3354,operador tractores,834
+3355,transporte y veo cuentas,000
+3356,movilizador cilindros,933
+3357,operador tranque,933
+3358,maezstro gasfiter,000
+3359,operador de almacen,933
+3360,conductor y operador de maquinaria forestal,834
+3361,maestro tornero 1,722
+3362,conductor de ambulacia,832
+3363,mecanico andanivel,723
+3364,ayudante de frigorista,723
+3365,operador de mesa de corte,814
+3366,mestro de terminaciones,000
+3367,ayudante operario de bode,933
+3368,operador ed maquinaria,834
+3369,audante de mecanico,723
+3370,ayudante de soladador,721
+3371,conductor y area logistic,933
+3372,operarodro de planta,000
+3373,supervisor de central,000
+3374,encargado linea,000
+3375,repartido,832
+3376,armador de patas,000
+3377,chofer y asistente de bod,832
+3378,desrrozador,921
+3379,conductorpeoneta,832
+3380,conductor de camion combu,833
+3381,despachador de camion,933
+3382,operario funcional,000
+3383,operario de pakin,932
+3384,operador mantenimiento,000
+3385,operador de volvo,834
+3386,ayudante piloto dron,000
+3387,operador a,000
+3388,montajistasoldador,721
+3389,mecanico d,723
+3390,capitan de embarcacion,000
+3391,movilizador en muelle,933
+3392,operador de cinta,933
+3393,conductor rural,832
+3394,mecanico de paking,000
+3395,operaria de inyeccion,814
+3396,operario peaton,000
+3397,conductor de escuela,833
+3398,buzo0,000
+3399,copiloto de camion,833
+3400,operador de grua y planta,834
+3401,operario andariveles,000
+3402,jornal de bodega,933
+3403,obrero de ganado,921
+3404,op maquina pesada,834
+3405,maestro mayor capataz,000
+3406,chofer encargado de compr,832
+3407,jefe maquinaria,834
+3408,operador de globo,000
+3409,operador o preparador,000
+3410,encargado de movil,000
+3411,carnciero,000
+3412,chofer y maestro,000
+3413,carpintero soldador,721
+3414,motorista de nave menor,835
+3415,soldador armadador y oper,721
+3416,buzo de embarcacion,835
+3417,ayudante fresador,722
+3418,marmolero,931
+3419,operario maq pesada,834
+3420,ayudante de caldereria,721
+3421,operador y supervisor,000
+3422,operario de cerdos,921
+3423,mecanico tn2,723
+3424,operador de monta carga,834
+3425,conductor de courier,832
+3426,o pde grua,834
+3427,operario de devolucion,000
+3428,operdor planta,000
+3429,mecanico primero,723
+3430,electrico automotriz,723
+3431,ayudante mecanico soldado,723
+3432,op maq pesada,834
+3433,mecanico dle montaje,723
+3434,promotor de pintura,000
+3435,soldador y gastifer,721
+3436,conductor operador cargas,834
+3437,mantenedor soldador,721
+3438,operador central de m,000
+3439,movilizador de paletizaje,933
+3440,operador de segunda,000
+3441,ayudante mnecanico,723
+3442,movilizador recepcion,000
+3443,inspector  conductor,000
+3444,cuidador de instalaciones,000
+3445,mecanico grua horquilla,723
+3446,ayudante de lubricador,000
+3447,mestro soldador,721
+3448,operador de ruta,833
+3449,operador y mecanico,723
+3450,operador maquinari pesada,834
+3451,oeprador de bodega,933
+3452,operador de bodega despac,933
+3453,operador de lijadora,812
+3454,conductor de horquilla,834
+3455,operario de corte de cabl,000
+3456,aux conductor,832
+3457,aux de camiones,933
+3458,encargado mantenimient,000
+3459,tripulante gemeral,000
+3460,chofer de camion pluma,833
+3461,operador de embalse,000
+3462,conductor jefe serv tec,000
+3463,maestro de maquinna,000
+3464,mecanico de brigada,723
+3465,operador de unidad movil,832
+3466,maestro estruct metalicas,721
+3467,mantencion pista,933
+3468,maestro en frio,000
+3469,lector repartidor luz,000
+3470,mecanico  hidraulico,723
+3471,operador de pulido,812
+3472,jornaleros,921
+3473,maestro caldelero,721
+3474,cargador de camion,933
+3475,chofer maquinaria agricol,834
+3476,chofer de maquina,832
+3477,operario metal,812
+3478,operario de paking mante,932
+3479,enfierradory soldador,721
+3480,operador de demarcacion,000
+3481,operador pallet,834
+3482,chofer excavador,834
+3483,mecanico stanner,000
+3484,operador de turno,818
+3485,patron tripulante,835
+3486,operador grua sts,834
+3487,alistador,000
+3488,soldador maq autom,721
+3489,operario combustible,000
+3490,operador de fabricacion,818
+3491,operario de cortapunzante,814
+3492,conductor maquina pesada,834
+3493,operador amntenedor,000
+3494,operador portacontenedor,834
+3495,operador de maquinas cort,814
+3496,maesto soldador,721
+3497,conduccion,000
+3498,opercion de maquina,000
+3499,instalador de television,000
+3500,op de bomba,834
+3501,operativo prevension perd,000
+3502,operador ceoe,000
+3503,operador en mantencion,000
+3504,operario de funciones,000
+3505,instalador de calefacc c,000
+3506,maestro mayor y soldador,721
+3507,operador de maqsecadora,000
+3508,aplicador de pintura,000
+3509,peon patio,933
+3510,op de camara,000
+3511,ayudanete hojalatero,721
+3512,operador de depuracion,000
+3513,operador en torno,722
+3514,operador muestrero,000
+3515,mantencion 4turno,000
+3516,uornal,000
+3517,conductor camion aseo,833
+3518,operario camara frio,933
+3519,mecanico mantencion plant,723
+3520,operador de maquina corte,814
+3521,maestro hojaletero,722
+3522,operador de retro,834
+3523,esmerilador,812
+3524,operador maquinas de,000
+3525,manipulador de material,933
+3526,operativo de mantencion,000
+3527,operativo preven perdida,000
+3528,mecanico de segunda,723
+3529,operador lacteo,816
+3530,maestro de sierra,834
+3531,operador de linea sx,000
+3532,operador de congelados,000
+3533,operador bvms,000
+3534,operador de frima,000
+3535,operario pesaje,932
+3536,tripulante d cubierta,835
+3537,jefe de taller mecanico,723
+3538,tabillero,000
+3539,bodeguero y carga,933
+3540,operario etiquetado,818
+3541,operador de escuadradora,814
+3542,cargo loader,933
+3543,operador de sala de monit,000
+3544,despachador estacion,933
+3545,controlador de linea,000
+3546,movilizador carga,933
+3547,operador de mantenedor,723
+3548,descargador de muebles,933
+3549,ayudante bodega chofer,933
+3550,auxiliar de dcamion,933
+3551,traspaleteo,933
+3552,conductor tracto camion,833
+3553,manuipulador de madera,817
+3554,conductor de gas,000
+3555,mantencion de senderos,000
+3556,lector medidores,000
+3557,maestro montaje,000
+3558,operador mecanico tornero,722
+3559,operador de estacionamien,000
+3560,encargado maquinas,000
+3561,moto sierrita,834
+3562,macanico de mantencion,723
+3563,condurctor de ambulancia,832
+3564,depachador de aluminio,000
+3565,operador de planta madera,817
+3566,montajista alambrador,721
+3567,navegante,835
+3568,operador prensa cocedores,814
+3569,partidor de nueces,921
+3570,mecanico revisador,723
+3571,operador de maquina herra,722
+3572,encargado instalaciones,000
+3573,moldista de troquelado,722
+3574,obr agricola,921
+3575,auxiliar de curtiumbre,815
+3576,operario liniero,000
+3577,soldador mic,721
+3578,maquinarias,000
+3579,op de cargio,834
+3580,operador monitor camara,000
+3581,ayudante soldador avanzad,721
+3582,operador quintuple,834
+3583,buceo,000
+3584,jefe soldador,721
+3585,caldereria,721
+3586,motorista 2do,832
+3587,cargo de calefaccion,000
+3588,despachador de gas,000
+3589,ayudante frigorista,000
+3590,moto bombitas,000
+3591,chofer multifuncional,832
+3592,chofer de bodega,933
+3593,operario de fierro,721
+3594,mecanico brigada de cambi,723
+3595,encargado motos,832
+3596,moto bombista,834
+3597,despachador cargador y d,933
+3598,maniobras izaje,834
+3599,operario en bencinera,000
+3600,operador de grua horquilla,834
+3601,chofer y ayudante reparto,833
+3602,conductor taxi,832
+3603,capitan de barcasa,000
+3604,conductor de curier,832
+3605,operador de clasificado,000
+3606,mecanico fresador,722
+3607,mecanico b3,723
+3608,conductor decamion,833
+3609,operador de mini cargador,834
+3610,maestro de mantecion,000
+3611,operador de area,000
+3612,terrajador,000
+3613,tranportista,933
+3614,asiste carga y descarga,933
+3615,conductor vigilante,000
+3616,maestro en reparacion,723
+3617,conductor de gria orquill,834
+3618,operario de gillotina,818
+3619,mecanico a2,723
+3620,operador prensa rf2,812
+3621,despachador de central,000
+3622,aspirante tripulante,835
+3623,operador de mesa,000
+3624,conductor y encargado de,832
+3625,operador de mantenimiento,000
+3626,estructuras metalicas,721
+3627,operador apoyo secado,000
+3628,mecanico maquina herramie,722
+3629,operador maquina forestal,834
+3630,operador de terminaciones,000
+3631,asistente camion saker,000
+3632,ayud de soldador,721
+3633,paletizador camara fria,933
+3634,despachador frigorifico,933
+3635,ayudante vidrillero,818
+3636,preparacion de pintura,000
+3637,galvanizacion,812
+3638,conductor camion tolba,833
+3639,jefe playa,000
+3640,operario compost,921
+3641,armador de ventana,722
+3642,desmontaje,931
+3643,mecanico de servicios,723
+3644,mecanico memtenedor,723
+3645,soldador 2da,721
+3646,escarpe,000
+3647,operario de operaciones,000
+3648,extraccion de guano,921
+3649,operario de vehiculo,832
+3650,operador maquina huincha,834
+3651,bodeguero logistica,933
+3652,piloto barco,000
+3653,operador mordurera,000
+3654,desabollador automotriz,722
+3655,chofer de extraccion,833
+3656,operadorio de bodega,933
+3657,operario full pm,000
+3658,maestr pintor industrial,000
+3659,carpintero y chofer,000
+3660,operario en maquinaria,000
+3661,instalador de cortinas,722
+3662,supervisor mecamico,000
+3663,experto en montaje,000
+3664,conductor carro,832
+3665,encargado camara frio,933
+3666,operario traspaleta,834
+3667,operador camion extraccio,833
+3668,operador y soldador,721
+3669,operador de patio envase,818
+3670,encardo de la mantencion,000
+3671,tripulante nave,835
+3672,operario cementerio,000
+3673,jarnal,000
+3674,operador junior,000
+3675,rectifcador de motor,723
+3676,manipulador maderas,817
+3677,ayudate operario grua orq,834
+3678,operario motorista mercan,832
+3679,operador de cc,000
+3680,ayudante de fabrica,932
+3681,lector y repartidor de bo,000
+3682,delivery repartidor,832
+3683,ereparacion y fabricacion,000
+3684,operador torno,722
+3685,operador de pintura,818
+3686,transportista conductor,832
+3687,trasportista de muestras,933
+3688,operador maquina siembra,834
+3689,conductor camion tae,833
+3690,tripulante general de maq,835
+3691,mecanico disel,723
+3692,cosecha de cerezas,921
+3693,operador de celda,000
+3694,conductor equipo pesado,833
+3695,operador carguio,834
+3696,desplagador,000
+3697,ascensorita,000
+3698,jefe aplicacion y maquina,000
+3699,calefaccion,000
+3700,gruero y operario,834
+3701,jefe de soldador,721
+3702,maestro fucionador de fib,000
+3703,operador de pinturas,000
+3704,operario control de envas,818
+3705,ayudante fraccionador,932
+3706,operario productos quimic,813
+3707,chofer tractocamion,833
+3708,tubero de bombas,723
+3709,galvanizador y descolado,812
+3710,repartidor y chofer,832
+3711,operador escavadora,834
+3712,operador dth,000
+3713,conductor de despacho,932
+3714,conductor y mantencion,000
+3715,operados pte grua,834
+3716,operador ap,000
+3717,crew operario,000
+3718,operdaor maquinaria,834
+3719,primer oficial aerbus 320,000
+3720,lider de sellado,000
+3721,repartidor  conductor,832
+3722,aprendiz de aluminio,000
+3723,cortador de banda en reca,814
+3724,operador de camion bomba,834
+3725,chofer y mueblista,000
+3726,reager,000
+3727,valijero,000
+3728,cpataz,000
+3729,chofer bodegero,932
+3730,tornero solador,722
+3731,operarador de maquinaria,834
+3732,trabajador de poda,921
+3733,operario en planta,000
+3734,filero,000
+3735,mecanico de frenos,723
+3736,operador de paletizadora,818
+3737,taller en operacion,000
+3738,operativo  bodega,933
+3739,matarife de faena,000
+3740,mecanico operaciones,723
+3741,operario de telefono,000
+3742,chofer junior,832
+3743,mecanico de area,723
+3744,movilizador de madera,934
+3745,soldador en practica,721
+3746,colab industrial,000
+3747,bodegero peoneta,933
+3748,encargado de los camiones,833
+3749,mecanico de produccion,723
+3750,colaborador de industrial,000
+3751,oparador de prensa,000
+3752,descargador y movilizador,933
+3753,conductor de personal,832
+3754,maestro electrico obra,000
+3755,jede de oficina de cement,000
+3756,mecanico de aviacion,723
+3757,logistica peoneta,933
+3758,operario semi calificado,000
+3759,operador de micro ingredi,000
+3760,operador lixi,000
+3761,operador de grua mordaza,834
+3762,operador de monitoreo,000
+3763,operador de estaca,000
+3764,mecanico de camiones,723
+3765,operador de grua multifun,834
+3766,soldador instalador,721
+3767,matansero,921
+3768,encargado operador,000
+3769,ayudate mecanico,723
+3770,donductor,000
+3771,operacion de lavado,815
+3772,controlador de carga,933
+3773,operador gps,000
+3774,driver repartidor,832
+3775,operador de vaciado,812
+3776,fusion desmoldeo,811
+3777,ayudante de matriceria,722
+3778,metal mecanico,723
+3779,encar de manipul fruta,932
+3780,repartidor deliberi,832
+3781,maestro instalador de adh,000
+3782,repartidor de paquetes,832
+3783,chofer camion plano,833
+3784,agricola  conductor,834
+3785,responsable mecanico,723
+3786,chofer operario bodega,933
+3787,valiador,000
+3788,operario avicola agricola,921
+3789,encargado de vino y barri,000
+3790,vulca,000
+3791,choper,832
+3792,conductor pushba,833
+3793,conductor verificador,832
+3794,despachador y cargador,933
+3795,inspector conductor,000
+3796,armador ventanas,721
+3797,operadores,000
+3798,operador de fabrica,000
+3799,operario dosificacion,000
+3800,aparcador vehiculos,000
+3801,soldador jefe de taller,721
+3802,operario apilador electr,818
+3803,movilizador cilindro,932
+3804,operador tratamiento term,000
+3805,maestro de caucho pvc,000
+3806,conductor grua orquilla,834
+3807,operador de moto,832
+3808,madurador de queso,000
+3809,mecanico de combustion,723
+3810,coordinar de armado,932
+3811,operador escuadradora,814
+3812,maestro pulidos y soldado,722
+3813,operario de cuadratura,000
+3814,ing operador,833
+3815,auxiliar de instalaciones,000
+3816,oficial de maquinas,818
+3817,operador de tubing,000
+3818,chofer y ayudannte,833
+3819,tirador de mesa,000
+3820,mecanico automovil,723
+3821,operador de liquidos,000
+3822,condcutro,000
+3823,obrero jornal,000
+3824,fierradura,000
+3825,operador de planta de alm,000
+3826,soldador matricero,721
+3827,electrico de maquinas,000
+3828,operador maquina junior,000
+3829,descargador de trigo,933
+3830,maestro gasfiter urbaniza,000
+3831,soldador multifuncional,721
+3832,maestro termo panelero,000
+3833,mecanico preventivo,723
+3834,operario de aviacion,000
+3835,operador de circuito cerr,000
+3836,bodeguera,933
+3837,conductor carro de bomber,833
+3838,operador pluma,834
+3839,controlador de frecuencia,000
+3840,operador maquina rectific,722
+3841,opeador de grua horquilla,834
+3842,obrero operador,000
+3843,soldador metalico,721
+3844,operador grua horquillas,834
+3845,operador de listeras,000
+3846,chofer camiones de carga,833
+3847,operador de mantencion la,000
+3848,chofer agricola,834
+3849,volante de maticeria,000
+3850,revicion de embase,000
+3851,descargar camion,933
+3852,asistente soldador,721
+3853,alimentador de salmones,921
+3854,operador de autoplanet,000
+3855,motorista de nave,835
+3856,operador inmobilizador,814
+3857,conductor de camiones y b,833
+3858,ayudante de mecanico mant,723
+3859,operador planta tratamien,000
+3860,op de maquina incadora,834
+3861,chofer apilador,834
+3862,terreno caldera,818
+3863,mantenedor y operador,000
+3864,maestro desimbrador,931
+3865,desbrozado de pasto,921
+3866,jornero,000
+3867,operador de rampas,933
+3868,tornero mecanico m1,722
+3869,operario de jardin,921
+3870,carga y descarga de mercaderias,933
+3871,maestro troquelador,000
+3872,operador horno,818
+3873,operador de maquina de si,000
+3874,encargado de equipos,000
+3875,encargado herramientas,722
+3876,conductor limpiador fos,000
+3877,maquinaria pesada apilado,834
+3878,fierrista,721
+3879,operador arnero,811
+3880,operador de carguio,834
+3881,conductor camion tres cua,833
+3882,tripulante gral de cubier,835
+3883,encargado automotriz,723
+3884,intructora de conduccion,000
+3885,operador mantencion mecan,723
+3886,operario lecheria,816
+3887,extrusador,814
+3888,auxiliar de operador,000
+3889,chofer camion y mecanico,833
+3890,bodeguero y pioneta,933
+3891,bodeguero mantencion,933
+3892,paleo y limpiza canales,931
+3893,ayudante cnc,722
+3894,bodeguero  peoneta,933
+3895,ayudane mecanico,723
+3896,operario control,000
+3897,operaria de maquinaria industrial,723
+3898,chofer produccion mina,933
+3899,supervisor y operador,000
+3900,andaniero,000
+3901,operario de pedidos,933
+3902,operadopr de excavadora,834
+3903,maestro soldadador,721
+3904,laminador certificado bon,812
+3905,conductor camion basura,833
+3906,operador de estaconamient,000
+3907,conductor de camion batea,833
+3908,aplicador de liquido,000
+3909,maquinario,000
+3910,repocicion,000
+3911,encargado de movilizacion,933
+3912,conductor camion articulado,833
+3913,conductor y operario tec,000
+3914,conductor grua horquila,834
+3915,despuntador en linea 2,812
+3916,chofer jornal,833
+3917,caldero,721
+3918,operador de materiales,000
+3919,operario metales,812
+3920,ayudante fundicion,932
+3921,entregas,832
+3922,ayudante de tripulacion,835
+3923,ayudante de mecanicio,723
+3924,maestro armado,722
+3925,ayudante metalico,721
+3926,despachador camiones,933
+3927,operador distribuidor,000
+3928,conductor de camionews,833
+3929,operador base,000
+3930,ayudante electrico md2,000
+3931,operativo prevencion,000
+3932,operador peresibles,000
+3933,operador sala maquina,000
+3934,operador de bedega,933
+3935,mecanico de camion,723
+3936,maquinista linea 1,831
+3937,operador de tracto camion,833
+3938,operador de maquina y ayu,000
+3939,lavador y chofer,000
+3940,operador de ramplas,834
+3941,ayudante de enchapador,722
+3942,lider mecanico perforador,723
+3943,ayudante galponero,921
+3944,bodeguero operacional,933
+3945,ayudante mecanico manteni,723
+3946,operador de estacion mete,000
+3947,conductor y ayudante sold,000
+3948,chofer despachado cobra,832
+3949,operario mantencio,000
+3950,encargado de moldeo,722
+3951,lector de medidor en terr,000
+3952,encargado maquina cnc,722
+3953,operador de grua h,834
+3954,mecanico de mantension ae,723
+3955,granallador y pintor,812
+3956,chofer y apoyo a bodega,933
+3957,operario de rifter,000
+3958,operador pozas,000
+3959,tens de traslado,000
+3960,peoneta reparto,933
+3961,operador de caledera,818
+3962,ayudante chofer instalaci,933
+3963,maestro electrico  terre,000
+3964,operador hidraulico,834
+3965,operador polivalente,000
+3966,operador de laminacion,812
+3967,carterp,000
+3968,operario  de maquinaria,000
+3969,operador de gruas orquill,834
+3970,operador d,000
+3971,conductor de microbuses,833
+3972,bombero de combustible,000
+3973,aseo de cintas,000
+3974,asistente piloto roboth,000
+3975,manipulador de equipo,000
+3976,operador planta de riles,000
+3977,bodeguero y conductor,933
+3978,operador filtro,000
+3979,operario sala de maquinas,818
+3980,supervisor  conductor,832
+3981,perario de faena,000
+3982,chofer inspector,000
+3983,tensador,722
+3984,operario de maquinas impr,000
+3985,internador de carga,933
+3986,tripulante mnm,835
+3987,encargado vehiculo bodega,933
+3988,ayudante en sondaje,811
+3989,operador tuneles,931
+3990,reparacion y montaje,723
+3991,ayundante staquer,000
+3992,operado de grua horquilla,834
+3993,chofer instalador,000
+3994,conductor y operario,000
+3995,ayudante carrocero de 1er,722
+3996,ayudante de granallador,932
+3997,operador dde maquinaria,834
+3998,operario de monitoreo,000
+3999,ayudante de molino,812
+4000,grua uno,834
+4001,electrico de camiones,723
+4002,operado de camara,000
+4003,operador de escraper,834
+4004,operador de transpaleta,834
+4005,planchador y remachador,722
+4006,operario operador de car,834
+4007,opbrero agricola,921
+4008,manipulador de maquinari,000
+4009,transpaletero,834
+4010,embalador 1,932
+4011,chofer camion pluma,833
+4012,instalador reg gas,000
+4013,obrero apicola,921
+4014,transporte y pioneta,933
+4015,operador de redes de agua,000
+4016,tecnico metalurgico,000
+4017,chofer a,832
+4018,atendedor bomba,000
+4019,soldador maestranza,721
+4020,podaor,921
+4021,operador de acerradero,817
+4022,armador ados,722
+4023,maquinista de piso,000
+4024,capachero,931
+4025,conductor y repartidor mercaderia,832
+4026,operario de grua torre,834
+4027,operador de bencinera,000
+4028,administ de instalac fisc,000
+4029,balatas y cambio aceite,723
+4030,surtidor de combustible,933
+4031,escogedor de metales,932
+4032,premecanica,000
+4033,auxiliar camion,833
+4034,corte de material,000
+4035,ayudante soldador hdpe,721
+4036,operario de andarivel,000
+4037,descargador de alimentos,933
+4038,operario de operacion,000
+4039,instalador de metal,722
+4040,aux encarpador y amarrado,931
+4041,tens conductor,832
+4042,operador pala,834
+4043,peoneta ayud carga,933
+4044,jornalero tractorista,834
+4045,maestro electricio,000
+4046,gruero operario,834
+4047,operado de turno,000
+4048,mantencion y herrador,000
+4049,paletizador de avena,932
+4050,chofer de produccion mina,833
+4051,operador cocedores,816
+4052,m 1 electrico,000
+4053,tens arsenalero,723
+4054,eventual movilizador,933
+4055,supe operacion y mantenci,000
+4056,ayudante de aglomerado,932
+4057,operador de gruas y otros,834
+4058,mantenedor hidraulico,723
+4059,conductor corporacion,832
+4060,peon agricola,921
+4061,chofer administrtivo,832
+4062,operador de refrigeracion,000
+4063,bodeguero neumatico,933
+4064,aferrador,721
+4065,chofer maestro,832
+4066,conductor y trabajo vario,000
+4067,maestro termopanel,812
+4068,operador maquina laser,722
+4069,operador packing,932
+4070,operador baja tension,000
+4071,operario de estacionamien,000
+4072,mantenimiento d planta ap,000
+4073,segundo operador,000
+4074,chofer tractor,834
+4075,operario maquina impresor,814
+4076,conductor senior,832
+4077,obrero de maquinarias,932
+4078,operario macro insumos,000
+4079,encargado sala de armado,000
+4080,chofer vehiculos instituc,832
+4081,hidraulico,000
+4082,podador de kiwis,921
+4083,maestro soldador pulidor,721
+4084,operador tinas macerado,816
+4085,terminacion y guillotiner,818
+4086,operador de concentrador,811
+4087,operario areas verdes,921
+4088,capitan motorista,000
+4089,operador andariveles,834
+4090,tco correa transportadora,931
+4091,carniceria produccion,816
+4092,operativo planta,000
+4093,mant alumbrado publico,723
+4094,operador instrumental,000
+4095,supervisor e instalador,000
+4096,operador de telesky,834
+4097,maestro en yeso,932
+4098,operador dumper,834
+4099,operador de retro escabad,834
+4100,encargado en la molienda,818
+4101,tornero caucho,814
+4102,operador de maquina y mae,814
+4103,operador de grua maderera,834
+4104,ayudante en poliuretano,932
+4105,operador de radio,000
+4106,tripulante gnral cubierta,835
+4107,operador de escabadora,834
+4108,operador mutifunsional,000
+4109,onductor,000
+4110,operador de cladera,818
+4111,operacion general,000
+4112,conductor de transporte,833
+4113,operario mecanico,723
+4114,ayudante de camion grua,833
+4115,operador de murocortina,000
+4116,soldador reparador,721
+4117,ayudante metalurgica,000
+4118,inspector medidores,000
+4119,operario de secadora guan,815
+4120,maestro segunda estuctura metalica,721
+4121,cambiador de moldes,812
+4122,carnicero y rotisero,000
+4123,gafiter y electromecanico,000
+4124,operador rampa,933
+4125,operador de llenadora,818
+4126,capataz de maestranza,000
+4127,encargado de electricidad,000
+4128,pulido,812
+4129,tripu7lante de cabina,000
+4130,conductor asistente pati,000
+4131,oerpador de fabricacion,814
+4132,operador de transporte,933
+4133,electricista automotriz,723
+4134,gargador y despachador,933
+4135,tripulante de reflote,000
+4136,roler,000
+4137,operador camion tolda,833
+4138,junior motorista,832
+4139,operador sistema tratamiento aguas servidas,000
+4140,mallero,000
+4141,repartidor postal,933
+4142,carguero de cemento,933
+4143,ayud mecanico y solda,721
+4144,soltador,721
+4145,encargado vulcanizacion,814
+4146,auxiliar soldador,931
+4147,maestro 1 electricista,000
+4148,operario gruas,834
+4149,chofer cargador y descar,833
+4150,operador de lavanderia,815
+4151,chofer y supervisor,000
+4152,peoneta ayudante chofer,933
+4153,cargados de cerdos,921
+4154,operario maniquinaria,000
+4155,conductor de grua horqui,834
+4156,mantencion palas y perfor,723
+4157,opretroescavadora,834
+4158,supervior mecanico,722
+4159,conductor tramites,832
+4160,distribuidor de gas,000
+4161,apilador reach,834
+4162,chofer estafeta,832
+4163,chofer tractorero,834
+4164,operador de riles y ayuda,000
+4165,mantancion mecanica,723
+4166,operario especializado se,000
+4167,mestro armador,721
+4168,operario caballo,000
+4169,jornal de arroz,921
+4170,bodeguero tres,933
+4171,tripulante de carga,835
+4172,operario cerradero,817
+4173,logistica jornal,933
+4174,ayudante perforador,811
+4175,flotacion,000
+4176,respartidor,832
+4177,operador tecnico maquina,000
+4178,maestro mayor montajista,000
+4179,dool keeper encarg herra,000
+4180,operario de central,000
+4181,operario moldurera,814
+4182,operador equipos d,000
+4183,motorista rescatista,832
+4184,maquinista 1,831
+4185,operador y mantenedor equ,000
+4186,operador de bomba th,834
+4187,maestro mantecion,000
+4188,alarmado y etiquetado,818
+4189,armador calderero,721
+4190,operador multifuncion,000
+4191,operativo de bodga,933
+4192,auxde camion,832
+4193,movilizador de vehiculos,932
+4194,maestro in stalador,000
+4195,conductor y guardia,000
+4196,oerador de patio,933
+4197,conduce,000
+4198,encargado mantencion maqu,000
+4199,conductor cama baja,833
+4200,operar de maquinas,000
+4201,jugador de futbol prof,000
+4202,manipulador especializado,000
+4203,maquinista señor,831
+4204,operador de camion grua,834
+4205,supervisor de vaciado,000
+4206,ayudante en caldera,818
+4207,operador e maquina,000
+4208,operador en maquinaria,834
+4209,cortador de vidrio,818
+4210,operador mantecion,000
+4211,capataz de malla,000
+4212,enfierador,722
+4213,manejo de grua orquilla,834
+4214,operador congelado,000
+4215,movilizador de autos,832
+4216,operario de moldaje,722
+4217,auxiliar de aserradero,921
+4218,manipulador de cilindros,000
+4219,preparardor de pintura,000
+4220,operador reactorista,000
+4221,operador de muestras,000
+4222,operador concentrado,000
+4223,operador maquinas is,000
+4224,instalador de mueble,000
+4225,operador tipo 1,000
+4226,ayudante instalador vidri,933
+4227,obrero agricultura,921
+4228,repartiodor motorista,832
+4229,soldador planta,721
+4230,armador de palet,932
+4231,acopio de fardo,921
+4232,preparador de autos,723
+4233,tripilante de cubierta,835
+4234,ayudante capataz,000
+4235,operador de camaras de se,000
+4236,descarga de camion,933
+4237,pioneta y gruero,834
+4238,maestro de resortes,000
+4239,op fundicion,812
+4240,operador de planta agua p,000
+4241,expendidor gasolina,000
+4242,mecanico estructura,723
+4243,conductor de maq pesada,834
+4244,maestro soldadore,721
+4245,instalador y conductor,832
+4246,operador bodeguero,933
+4247,instalador aire acondicio,723
+4248,operador envasadora queso,816
+4249,maestro pulidor y soldado,722
+4250,operativo de fugas,000
+4251,electrico m2,000
+4252,operario de bodega enolog,933
+4253,mecanico segundo,723
+4254,soldador montador,721
+4255,operador recolector,000
+4256,encargado de reparto,832
+4257,operario de conveyor,933
+4258,operador preenvase,000
+4259,reparador de pieza,723
+4260,conductores de camiones f,833
+4261,auxiliar de silo,933
+4262,tecnico especialista grua,834
+4263,maestro carpintero enfier,000
+4264,gruero montajista,834
+4265,jornal de transporte,933
+4266,encargado de reparaciones,723
+4267,operador de hidrolavadora,000
+4268,maestro de maquina conver,000
+4269,op carga frontal,834
+4270,operador de sala de bater,818
+4271,operador de maquinarias p,818
+4272,operador apoyor,000
+4273,motorista de tramite,832
+4274,soldar,721
+4275,pioneta soldador,721
+4276,operario con centrista,000
+4277,operador de maquina moldu,812
+4278,operador de piso,000
+4279,repartidor y conductor,832
+4280,ayudante empalme,721
+4281,colocero,000
+4282,operario de mesa,000
+4283,operador de carro huincha,834
+4284,consuctor de bus,833
+4285,encardo de mantencion,000
+4286,concuctor auxiliar,000
+4287,conductor de cama baja,833
+4288,guincha 1,834
+4289,movilizador y capataz,000
+4290,operador liniero,000
+4291,operador cargador,834
+4292,saldador,721
+4293,chofer de glp,833
+4294,junior peoneta,933
+4295,conductor vehiculo,832
+4296,operador planta piloto,000
+4297,dueño y conductor,832
+4298,driver conductor,832
+4299,operador de torno cnc,722
+4300,operador full time,000
+4301,mecanico polifuncional,723
+4302,ayudante reparto,933
+4303,operario parquimetro,000
+4304,ayudante termofusion,722
+4305,asistente transporte,933
+4306,operario de camion,833
+4307,opeador der procesos,000
+4308,operario de pulido,812
+4309,conductor de maquinas,834
+4310,maestro primera calderero,721
+4311,operaciones de poste,000
+4312,mecanico soldado,723
+4313,maestro galvanizador,812
+4314,petrolero,000
+4315,tripulante y cubierta,835
+4316,operario maquinarias,000
+4317,operador de th,000
+4318,maestro desabollador,722
+4319,maestro maquina,000
+4320,chofer mantenedor,000
+4321,mantenedor de maquinaria,723
+4322,operador de oxicorte,722
+4323,conductor movilizador,933
+4324,operador planta 3,000
+4325,maestro en montaje,721
+4326,recaudador transbordador,000
+4327,lavamovil,000
+4328,piloto helicoptero,000
+4329,motorista municipal,832
+4330,operador embazado,818
+4331,op camion aljibe,833
+4332,conductor paz ciudadana,000
+4333,maestro enfierraodr,000
+4334,ayudante de retificado,722
+4335,operador de maquina multi,000
+4336,reparacion de maquinaria,723
+4337,chofer de camion a4,833
+4338,aseador de maquinas,000
+4339,crew master,000
+4340,mecanico full service,723
+4341,preparador pintura,000
+4342,conductor van,832
+4343,supervisor instalaciones,000
+4344,quebrador,931
+4345,conductor pioneta multif,833
+4346,operario carga,933
+4347,capataz cyp,000
+4348,op de maquinaria agricol,834
+4349,mestro extrusor,814
+4350,soldador en maestranza,721
+4351,motorista am,832
+4352,operador maquina cantiadora,814
+4353,operario de anclaje,000
+4354,operario armado,000
+4355,maestro fierrero,721
+4356,coordinador de central,000
+4357,jornal concretero,931
+4358,operador cuadrilla,034
+4359,logistica de patio,933
+4360,repartidfor de gas,832
+4361,ayudante de tapiceria,000
+4362,trabajo en grua,834
+4363,electrico operador,000
+4364,mecanico especialista c,723
+4365,conductor repartos,832
+4366,repartidor en terreno,832
+4367,conductor de patio,933
+4368,de vehiculo emergencia,832
+4369,maestro cañonero,000
+4370,conductor buses,833
+4371,operador maquina multiple,818
+4372,sobrecargo,000
+4373,patulla ski,000
+4374,conductor lechero,832
+4375,soldador y vulcanizador,721
+4376,operador de impresion,818
+4377,soldador calific,721
+4378,ayudante aserradoer,921
+4379,operador de extruson,814
+4380,maestro instalador grafic,000
+4381,operador de gruas en frig,834
+4382,mestro mecanico,723
+4383,operador metalmecanico,812
+4384,batea supelente,000
+4385,maestro en estruc alumini,721
+4386,operador planta riler,000
+4387,recolector chofer,933
+4388,operador de piking,933
+4389,operario dimensionador,000
+4390,trabajador de areas verde,921
+4391,operador motoniveladora,834
+4392,ayudante linero,721
+4393,operario de maquina cnc,722
+4394,operador partidor,000
+4395,auxiliar de camion rec,926
+4396,operario de lectura,000
+4397,conductor mini cargador,834
+4398,operador aguas y relaves,000
+4399,cinductor cortador,000
+4400,vialidad,000
+4401,conducto de reparto,832
+4402,inspector de grua,834
+4403,mantencion reparto,000
+4404,operario y tripulante,835
+4405,mecanico 2,723
+4406,operario sala,932
+4407,conductor cuaterlo,000
+4408,armador de contenedor,932
+4409,chofer y operario planta,000
+4410,terrero celulosa,817
+4411,encargado de vehiculos,000
+4412,lider operario,000
+4413,operador se grua,834
+4414,armardo de ventana,722
+4415,oeprador de grua,834
+4416,operador maquina frontal,834
+4417,mecanico en maquinaria,723
+4418,sordador,721
+4419,operador cctb,000
+4420,especialista en maquinas,000
+4421,operador y mnt de planta,000
+4422,auxiliar de reforestacion,921
+4423,tomador de maquinas,000
+4424,cochero,000
+4425,operario ganaderia,921
+4426,operador movilizador,834
+4427,operador tranvesal,000
+4428,carga y descarga de aceit,933
+4429,operador aserradero,817
+4430,chofer de ruta,833
+4431,operario de astillador,921
+4432,operador programador cnc,722
+4433,inspector fiscal de pesaj,000
+4434,montacarguista,834
+4435,operador terreno caldera,818
+4436,operardor de herramienta,000
+4437,operador de finger,000
+4438,operacion y mantencion,000
+4439,operario maquinaria linea,818
+4440,operador part time,000
+4441,operador picket,000
+4442,chofer transporte,833
+4443,ayudante de pvc,000
+4444,maestro intalador,000
+4445,maestro ensierrador,722
+4446,conductor del camion,833
+4447,mecamico,000
+4448,mantencion maquinaria pes,723
+4449,pintor soldador,721
+4450,operador maquina inyector,814
+4451,enfardador,000
+4452,trabajo en conformado,000
+4453,engarcada de talleres,000
+4454,ayudante de mecanico sold,723
+4455,buzo conercial,000
+4456,operador embasado,818
+4457,auxiliar de huincha,000
+4458,encargado de maquinario,834
+4459,personal de transporte,933
+4460,mm cañerias,722
+4461,control carga i,933
+4462,operadores de maquinas,000
+4463,operario peaking,000
+4464,ayudante de mec,723
+4465,aviador,000
+4466,conductor de camion artic,833
+4467,fabricador de ventanas,722
+4468,patron nave,835
+4469,operador de tulones,000
+4470,chofer y descarga,833
+4471,moldeador y armero,721
+4472,cortador de caucho,814
+4473,operador grua horq,834
+4474,soldador tornero,721
+4475,subcristor de vehiculos,832
+4476,operador de parque,000
+4477,ayudante mecanizador,000
+4478,operario vial,931
+4479,soldador jefe obra,721
+4480,conductor e inspector,000
+4481,mecanico tornero hidrauli,722
+4482,mantendor mecanico,723
+4483,ayudante de moblista,932
+4484,operador de pretroquel,818
+4485,ayudante hidraulica,000
+4486,montador de estructuras m,721
+4487,copiloto avion,000
+4488,operador de roboschot,000
+4489,chofer de seguridad,832
+4490,chofer camiones,833
+4491,operario medidor de agua,000
+4492,operrio de maquina,000
+4493,tecmaquinaria y camiones,833
+4494,maquinista auxiliar,831
+4495,operador de mecanica,722
+4496,conductor de bomberos,832
+4497,operador ceramica y fierr,818
+4498,maestro faenador,000
+4499,maestro termopaneles,000
+4500,peoneta de bodega,933
+4501,conduct de grua orquilla,834
+4502,maestro montaje terreno,721
+4503,operario en acopio,933
+4504,operador t,000
+4505,conductor vehiculo fiscal,832
+4506,op maq y conductor,834
+4507,oeprador tlc,000
+4508,instalador y montaje,721
+4509,transporte pioneta,933
+4510,piletero steward,000
+4511,operador ded bodega,933
+4512,maestro descarguero,933
+4513,nochero cargador,933
+4514,refinador,000
+4515,especialista de vidrios,812
+4516,operatrivo de carga,933
+4517,ayudante de astillador,933
+4518,operario de maquina y her,818
+4519,ojala,000
+4520,reeger,000
+4521,buzo agua,000
+4522,obrero de grus orquilla y,834
+4523,corredor,000
+4524,conductor clinico,000
+4525,oprador de sellado,000
+4526,ayudante operador caldera,818
+4527,pioneta y conductor,933
+4528,apoyo operador del vaciad,000
+4529,encargado a mentenimiento,723
+4530,pintor de automovil,723
+4531,maestro primera maquinas,722
+4532,operador de calcinado,811
+4533,aux chofer,832
+4534,operadora maquinaria,834
+4535,cableador tubular,721
+4536,n1 mecnico,723
+4537,operador mo,834
+4538,operario de silos,933
+4539,planta incubadora,000
+4540,pañolero de mecanico,000
+4541,conductor fiscal,000
+4542,operador solter,000
+4543,movilizador eventual,000
+4544,maestro fresador,722
+4545,operador de central,000
+4546,m1 encierrador,000
+4547,mantencion maquina pesada,723
+4548,operador planta de arena,818
+4549,envasador repartidor ca,932
+4550,lider de maquinas,000
+4551,empleado transporte,933
+4552,operador de estrogo,000
+4553,peoneta conductor,832
+4554,pintor de automoviles,722
+4555,operador de grua horq,834
+4556,conducto camion,833
+4557,enca de camara,000
+4558,plastificador de madera,817
+4559,estiba,933
+4560,soldadador,721
+4561,operador de extrucion,814
+4562,encargado de grua,834
+4563,asistente operador vms,000
+4564,operario de terminaciones,000
+4565,encargado taller soldadur,721
+4566,operador de bomba estacio,834
+4567,ayudante caldeleria,721
+4568,conduct0r camiones,833
+4569,ayudante descortezador,921
+4570,operario proyecto cyber d,000
+4571,ayudante de poduccion,932
+4572,conductor de bus de pasaj,833
+4573,operario traspaletero,834
+4574,operador de trefila,812
+4575,operador terreno blanqueo,818
+4576,eviserado,921
+4577,manipulador de quimicos,813
+4578,mondajero,000
+4579,ayudante de moldaje,932
+4580,mecanico reviso,723
+4581,operador en bomba de beni,000
+4582,operario de paletizado,000
+4583,regulador de flujo,000
+4584,tirador de cabezal,722
+4585,sdoldador,721
+4586,conduuctor,000
+4587,cartorista,000
+4588,chofer y recolector basur,933
+4589,operador de gestor continuo,000
+4590,chofer de grua orquilla,834
+4591,mantenion areas verdes,921
+4592,cargar charing,000
+4593,operador neumatica,834
+4594,auxilir de camion,933
+4595,operador de reempaque,932
+4596,jefe de soldadura,721
+4597,operativo de reposicion,933
+4598,operador de reacciones,813
+4599,picking operario logistic,933
+4600,opreador de grua,834
+4601,ayudante matrizero,923
+4602,chofer maquinaria,834
+4603,oficial marina mercante,835
+4604,condgruas camion,834
+4605,operario corrales,921
+4606,conductor de camion tolba,833
+4607,estibador de bodega,933
+4608,operador 2 y grua,834
+4609,operario mantecion,000
+4610,conductor camion recole,833
+4611,operario camion recolecto,833
+4612,soldador operador,721
+4613,maestro soldador lider,721
+4614,tecnico metalico,000
+4615,asistente camion algibe,833
+4616,cond grua,834
+4617,petisero y chofer de cami,933
+4618,debastador,722
+4619,mov de vehiculos,832
+4620,movilizador de cajas,933
+4621,oiperativo,000
+4622,conductor de fabrica,933
+4623,operario maestranza,000
+4624,segundo oficial maquina,835
+4625,maestro de carga,933
+4626,operador  maquina agric,834
+4627,sala de control,000
+4628,mantencion y taller,723
+4629,repartidor y operario,932
+4630,cnductor de camion,833
+4631,chofer gruero y ayudante,000
+4632,operador multiplanta,818
+4633,chofer microbus,833
+4634,operador de vertical,000
+4635,chofer maestro en ventan,000
+4636,pioneta camion tolba,933
+4637,asistente control de cali,000
+4638,operador bms,000
+4639,operadio,000
+4640,jefe de faena de conducto,000
+4641,maestro montajes,721
+4642,chofer y auxiliar de carg,933
+4643,montaje neumatico,932
+4644,transportista de material,933
+4645,operario de craga,000
+4646,encargado de wood,000
+4647,reoaertidor,000
+4648,operador volante de calde,000
+4649,empacador,932
+4650,galvanizado y descolgado,812
+4651,conductor y gasfiter ayud,000
+4652,operario en via,933
+4653,piking de bodega,933
+4654,buzo marino basico,000
+4655,encargado de armaduria,722
+4656,tripulante genral de maqu,835
+4657,electrico y montajista,721
+4658,operador termo panel,000
+4659,electrico y fibra de vidr,000
+4660,reparador de moldes,722
+4661,enchunzador,000
+4662,instalador de sopertes gr,000
+4663,descargar camiones,933
+4664,encarpador de camiones,000
+4665,operativo de euipajes,000
+4666,armador de estructura met,721
+4667,operativo en ruta,933
+4668,soldador maestro,721
+4669,gasfiter mantencion,000
+4670,supervisor de intalacione,000
+4671,operario de cargo,000
+4672,vidrero,818
+4673,ope ayudante de maquinari,000
+4674,sistente de bus,833
+4675,operador grus horquilla,834
+4676,operadior de maquinaria,834
+4677,alimentador de cables,722
+4678,operador de maquinaria jo,834
+4679,mantencion cancha de golf,921
+4680,soldador caldelero1120,721
+4681,ayudante cables,721
+4682,cortador ayudante,932
+4683,mecanico industrial plant,723
+4684,tarjador portuario,933
+4685,mecanico de scooter,723
+4686,ensacadot,932
+4687,instalador de butacas,000
+4688,cortador de fierro,722
+4689,mecanico de precision,722
+4690,operador gruas horquilla,834
+4691,ayuidante mecanico,723
+4692,operario de palteizaje,000
+4693,operador terreno refineri,812
+4694,abastecedor de carro,933
+4695,enc camaras de frio,933
+4696,cortador de carnes,816
+4697,operador de bulldoze,834
+4698,adamiero,000
+4699,conductor rescatista,000
+4700,montecarga,834
+4701,onductor carro de bomba,832
+4702,operador single 1,000
+4703,operario pintor,000
+4704,operador de tracto,834
+4705,maquinista y soldador,721
+4706,operario servicios genera,000
+4707,operario fundicion,812
+4708,electrico mecanico treine,000
+4709,pesquera,921
+4710,mecanico en mantecion,723
+4711,maestro soldadura,721
+4712,cablerista electrico,000
+4713,conductor xcamion,833
+4714,soldador y varios,721
+4715,conductor de unidad blind,833
+4716,eniferrador,000
+4717,operador de maquina guinc,834
+4718,conducto urban y pioneta,832
+4719,operador portruck,834
+4720,conductor de camion de ca,833
+4721,operador de multiple,000
+4722,operario hornato,000
+4723,operador llenado cilindro,818
+4724,ayudante operador litio,000
+4725,seleccionador de almendra,932
+4726,obrero agricola y chofer,921
+4727,doblador de tubos,722
+4728,trazador cortador perfora,000
+4729,conductor y armador,833
+4730,conductor mixer,833
+4731,maestro primera soldador,721
+4732,cargador descargador y t,933
+4733,conductor de operaciones,000
+4734,lector de medidores de ag,000
+4735,bodeguero y maneja grua h,834
+4736,petiseros,000
+4737,mantenedor plata,000
+4738,asistente chofer,832
+4739,chofer de flota,833
+4740,maquinsta,831
+4741,ayudante de sonaje,000
+4742,lavado de moldes,812
+4743,operador de optimizador,000
+4744,operador de grua liviana,834
+4745,aoperador de audiovisual,000
+4746,instructor de conducir,000
+4747,operador de singles facer,814
+4748,op laminador,812
+4749,operador pope,817
+4750,chofer ayudante bodega,933
+4751,operdaor grua,834
+4752,supervisor de pista,000
+4753,operdor de maquina pesada,834
+4754,operador findios,000
+4755,movilizador de mercaderia,933
+4756,coductor maqforestales,834
+4757,chofer operrario,832
+4758,asistente de piscicultura,921
+4759,soldador tig,721
+4760,maestro mayor enfierrado,931
+4761,mecanico  soldador,721
+4762,instalador verticalista,000
+4763,repropesos plasticos,814
+4764,junior moto,832
+4765,tripulante y operador rob,000
+4766,auxiliar grua y patio,834
+4767,operario y aplicador,000
+4768,ayduante de operador de m,000
+4769,encarpado,000
+4770,ayudante de tornero,722
+4771,operador de despaletizado,818
+4772,m2 mecanico,723
+4773,peoneta cargador,933
+4774,soldador junior,721
+4775,asistente de chofer grane,000
+4776,encargado de alineacion,723
+4777,empaque de tabla,932
+4778,operario recepcion bodega,933
+4779,manejo grua horquilla,834
+4780,ayudante area caldera,818
+4781,maestro de maquina cepill,000
+4782,operaro grua,834
+4783,despachador bencina,933
+4784,operario sala de bomba,000
+4785,operador de carro,832
+4786,aux agropecuario,921
+4787,encarpado de camiones,933
+4788,operadro de grua,834
+4789,asistente de picking,932
+4790,mecanico montajes,723
+4791,carpintero d emoldaje,000
+4792,operador de estudios,000
+4793,tecnico conductor logisti,833
+4794,operario de vas,000
+4795,encargado de maquinaria a,834
+4796,riger montaje,721
+4797,jornal reparto material,933
+4798,metalizador,812
+4799,conductor de carroza,832
+4800,ayudnate aserradero,921
+4801,tripulante de marina,835
+4802,soldador 4,721
+4803,conductor armador,832
+4804,operador isla,000
+4805,ayudante de ojalateria,000
+4806,desponchador,723
+4807,opreador de grua horquill,834
+4808,operador central alarma,000
+4809,despachador gruero,834
+4810,operario especializado bo,000
+4811,operario equipo,000
+4812,conducrtor operador,000
+4813,aplicador herbicida,921
+4814,maestro soldador oxicort,721
+4815,conductor de bus interpro,833
+4816,operario en logistica,933
+4817,operador de laminadora,812
+4818,ayunte,000
+4819,operario de bodegachofer,933
+4820,bodeguero y pasillero,933
+4821,operador avanzado 6,000
+4822,tractorero op agricola,834
+4823,ayudante de cartero,000
+4824,ayudante ruta,933
+4825,suoervisor operador tra,000
+4826,conductor movil samu,833
+4827,motociorrista,832
+4828,encargado centro de armad,000
+4829,repartidor de corresponde,832
+4830,capataz de montaje,721
+4831,conductor y supervisor de,000
+4832,operador de apilador elec,834
+4833,jornal cango,000
+4834,operacion de linea,000
+4835,señalero de grua pluma,834
+4836,preparador de picking,933
+4837,operador de estaker,000
+4838,operador de video,000
+4839,operador de mixel,000
+4840,ayudante afilado,722
+4841,patron de navegacion,835
+4842,moestreador,932
+4843,operario sorter,000
+4844,ayudante mecanico y de vu,000
+4845,opreador de maquina,000
+4846,crew operador,834
+4847,operador de traspaleta,933
+4848,ayudante descortezado,921
+4849,operador abastecimiento,933
+4850,operador del area,000
+4851,operador de anda nivel,834
+4852,mantenedor sala de contro,000
+4853,operario inhouse,000
+4854,matarife halal,000
+4855,supervisor de montaje,000
+4856,comductor,000
+4857,operador de lgv,832
+4858,operario delinea de inyec,814
+4859,operario taller automotri,723
+4860,operador traspaleta elect,834
+4861,conductor y descarga,933
+4862,operario hojalateria,721
+4863,maestro operador planta,000
+4864,maestro segunda soldador,721
+4865,brigadista conductor,832
+4866,operador quimico metalurg,813
+4867,operdor de compresadores,818
+4868,operador de otawa,000
+4869,chofer y hago aseo,832
+4870,encargado de operacion,000
+4871,op de maquinaria y solda,721
+4872,opersdor,000
+4873,conductor carga peligrosa,833
+4874,soldador y chofer,721
+4875,maestro de fib de vidrio,000
+4876,asistente de calefaccion,000
+4877,axuliar de corrales,000
+4878,operario m2,000
+4879,supervisor de op de grua,834
+4880,chofer y auxiliar,832
+4881,conductor  publicidad,000
+4882,mecanico de maquina,723
+4883,receptor de naves,000
+4884,palillador,000
+4885,operador de camion aljibe,833
+4886,operador encoladora,814
+4887,operador de eqminero,811
+4888,maquinista de barco,000
+4889,traslado pactes,933
+4890,jornal bodeguero,933
+4891,chofer pioneta bodeguero,832
+4892,operador menor,000
+4893,bodeguero pionera,933
+4894,marinero de maniobras,835
+4895,conductor inspector,000
+4896,oeprador de mantenimiento,000
+4897,operador de unidad,000
+4898,rutero,933
+4899,conducctor,832
+4900,traslado de moviliarios,933
+4901,encargado de vehiculo,832
+4902,operador indrustrial,000
+4903,bodegero y empaque,932
+4904,operador linea cepillado,818
+4905,chofer repartido,832
+4906,jefe de camion,833
+4907,operador camara,000
+4908,obrero maderero,921
+4909,conductor e infraestructu,000
+4910,gasfiter del parque,000
+4911,auxiliar de packing,932
+4912,chofer de transporte,833
+4913,equipos moviles,834
+4914,instructor de manejo,000
+4915,operador maquinaria p,834
+4916,conducrtor peoneta,833
+4917,operario maquianria,834
+4918,pulidor de acero,812
+4919,axuliar de camion,933
+4920,maestro de aserradero,817
+4921,operario de dron,000
+4922,sierrador,000
+4923,stacking control puerto,933
+4924,encargado de termomacerac,000
+4925,supervisor de mecanica,000
+4926,distribuidor conductor,832
+4927,sooldador,721
+4928,reparador de termo,723
+4929,repaetidor conductor,832
+4930,conductor troncal,833
+4931,conductyor escabador,000
+4932,instalador de gas medicin,000
+4933,operador seniors,000
+4934,maestro guillotina,814
+4935,ayudante de fibra de vidr,932
+4936,fiscalizador transporte,000
+4937,fiscalizador en ruta,000
+4938,matenedor mecanico,723
+4939,ribetiador,000
+4940,maestro instalador chofer,832
+4941,despartador,000
+4942,operador grua y tracto,834
+4943,meatro mantencion,000
+4944,motoboy,832
+4945,chfer maquinaria ottawa,000
+4946,maquinas y herramientas,722
+4947,despachador de patio,933
+4948,intalador y repacion,000
+4949,operador mecanica pesa,000
+4950,operador riles,000
+4951,colagero,000
+4952,mecanico m 1,723
+4953,operador mecanico modular,000
+4954,soldador de planta,721
+4955,operador robot empresa,000
+4956,arriadero,921
+4957,conductor de logistica,933
+4958,reparto boletas agua,933
+4959,preparador aditivo,000
+4960,captador de vehiculos,000
+4961,maquinista extruccion,000
+4962,operario de tubbing,000
+4963,auxilar de camion,933
+4964,opearario maquinaria,000
+4965,asistente de torno,722
+4966,operario revestimiento,812
+4967,maestro bonder,000
+4968,operaripo de cortre,000
+4969,conductores,832
+4970,conductor traslado pacien,832
+4971,operadpr de grua,834
+4972,operador orquilla,834
+4973,operario movilizado,000
+4974,conductor depto salud,000
+4975,bodeguero en camara de fr,933
+4976,opeador sala de maquinas,818
+4977,operario fibra,000
+4978,maquillador d ehormigon,000
+4979,moldeo,721
+4980,coductor bus,833
+4981,encar super de maquinari,834
+4982,operador de retrocargador,834
+4983,operador segregador,000
+4984,motorista 2,832
+4985,jefe de turno operario,000
+4986,soldador estructurista,721
+4987,mecanico de moto,723
+4988,mecanico nivel 1,723
+4989,operario camara,000
+4990,operador 1 pasteurizacion,816
+4991,operador de embasado,818
+4992,operador de piloto,000
+4993,transporte de material,933
+4994,conductor en mina,933
+4995,maestro terminador,000
+4996,operario de bodega polifu,933
+4997,transportita fruta,933
+4998,operador de avanzado,000
+4999,operador de centro de sev,000
+5000,cortador de planchas,722
+5001,chofer y descargador,833
+5002,ayudante de cortina metal,000
+5003,conductor de vehiculo,832
+5004,grubero,931
+5005,mecanico dpto mantencion,723
+5006,conductor de camion basur,833
+5007,mantenedor soldadador,721
+5008,operador en maquina,818
+5009,conductor tolva,833
+5010,operador full,000
+5011,chofer transversal,000
+5012,bodeguero repartidor,933
+5013,operado planta,812
+5014,operador parking,000
+5015,tripulante embarcado,835
+5016,operador prefrio,000
+5017,mecanico sondaje,000
+5018,transportistas de camion,833
+5019,maestro torneria,722
+5020,mecanico jr,723
+5021,operador de pesaje,000
+5022,conductor y supervisor,000
+5023,asistente operador grua,834
+5024,operarod mini cargador,834
+5025,ayudante riego,921
+5026,opwrador de grua horquila,834
+5027,armador y despachador,000
+5028,operador de muestreo,000
+5029,chofer mantenedor d,832
+5030,encargado de mañol,000
+5031,operador camion minero,833
+5032,chofer y ayudante maestro,000
+5033,encargado moldeo,812
+5034,opoerador mantencion,000
+5035,mecanico en refrigeracion,723
+5036,operador de equipo movil,834
+5037,operador e grua,834
+5038,operario de hojalateria,721
+5039,operario grua orquillea,834
+5040,trefinado,722
+5041,moviizador,000
+5042,condutor vehiculo emergen,832
+5043,mecanico clase c,723
+5044,movilizador senior,000
+5045,operdaor,000
+5046,maestro desabollador y pi,722
+5047,operario de poda,921
+5048,reapartidor,832
+5049,tractorero y ayudante,834
+5050,dimensionado de tableros,814
+5051,movilizador de trinca,933
+5052,tratctorero,834
+5053,operraio soldador,721
+5054,aprendiz de bartender,000
+5055,desaboyador,721
+5056,remachador,722
+5057,modelista para fund,722
+5058,trabajador de paking,932
+5059,opera maquinaria industri,818
+5060,reponedor area contruc,931
+5061,opreador de grua mordaza,834
+5062,operaria maquina,000
+5063,operador de producto,000
+5064,operador de finguer,000
+5065,operador de bombas estaci,000
+5066,operador sala bateria,000
+5067,supervisor de intalacion,000
+5068,embalaldor,932
+5069,operario lider de cuadril,000
+5070,enfriadera,000
+5071,conductor reparto,832
+5072,jugador futbol,000
+5073,controlador de patio,933
+5074,soldador y operador,721
+5075,dessramador,921
+5076,mantencion de vehiculos,723
+5077,chofer y operador camion,833
+5078,operadora treine area mec,000
+5079,maestro parabrisas,723
+5080,grurero orquilla,834
+5081,romanero frigorifico,933
+5082,supervisor de maquinas,000
+5083,jefe electrico y de poda,000
+5084,mecanico ayudante taller,723
+5085,operdor de guillotina,817
+5086,ayudante avicola,921
+5087,soldador mig,721
+5088,operador mixto,000
+5089,especialista en satinado,814
+5090,maestro elctrico,000
+5091,operador de productos,000
+5092,tractorista de equipaje,933
+5093,opereador,000
+5094,operador fic,000
+5095,podador agricola,921
+5096,armador de metal,721
+5097,soldero mecanico,721
+5098,operador de planta solare,000
+5099,ayudante en aserradero,921
+5100,operador de grua electric,834
+5101,secado de madera,817
+5102,auxiliar de patio y grua,834
+5103,encargado maquinaria prod,818
+5104,trefilador de soldadura,722
+5105,operador grua liviana,834
+5106,oficial electrico,000
+5107,operario operacion,000
+5108,buzo faena,000
+5109,cargo laouder,000
+5110,pintor de auto,723
+5111,conductor de camion torva,833
+5112,operador de equipos movil,834
+5113,operario tractor,834
+5114,operador osr,000
+5115,jefe de carro,831
+5116,oeprario crew,000
+5117,conductor de rescate,000
+5118,electrico liniero mtibt,000
+5119,conductor brigadista,000
+5120,maestro en gasfiteria,000
+5121,cargar y despachador,933
+5122,mecanico maestro mayor,723
+5123,soldadura y mecanica,721
+5124,conductor operador maquin,834
+5125,operador supervisor,000
+5126,conductor operador grua,834
+5127,operarivo layout,000
+5128,operarioa de bodega,933
+5129,operador jugador,000
+5130,met operacional,000
+5131,auxiliar de corrales,921
+5132,agente portuario,000
+5133,operador de galpones,000
+5134,mozo de linea,933
+5135,traccionador,933
+5136,obrero de cancha,000
+5137,aluminiero,722
+5138,jefe repartidor,000
+5139,operador pdu,000
+5140,maquinista tractorista,834
+5141,pintor y desabollador,723
+5142,armador de vehiculo,932
+5143,ayudante de montado,932
+5144,tornero y soldador,721
+5145,operariod e bodega,933
+5146,preinstalador,000
+5147,operador row,000
+5148,encinchador,000
+5149,astillero,000
+5150,operario de cementerio,000
+5151,maestro carpint aluminio,000
+5152,armado y sldadura,721
+5153,ayudante de tintas,000
+5154,maestro caldeleria,721
+5155,moldaje,721
+5156,traspaletero electrico,834
+5157,aluminero,000
+5158,operador de picking frio,933
+5159,ayudante demecanico,723
+5160,operador de tuner prefrio,000
+5161,tens pabellon,000
+5162,operario de maquina pesad,834
+5163,soldador de segunda,721
+5164,maestro maticero,722
+5165,operador de maffing,000
+5166,operario apicola,921
+5167,operador de maquinaria ro,834
+5168,operador de oerquilla,834
+5169,mecanico toldador,723
+5170,operador de maqupesada,834
+5171,operador de trns combusti,000
+5172,operador de grua estibado,834
+5173,maquinista y jefe linea,831
+5174,conductor clase a,833
+5175,operario de rile,000
+5176,traspalellero,933
+5177,conductor y otras cosas d,000
+5178,ayudante mecanico y lubri,723
+5179,conductor tractores,834
+5180,ayudante de ensacado,932
+5181,junios conductor,832
+5182,jefe de desobolladura,723
+5183,conductor de buses de pas,833
+5184,pitonero de camion,933
+5185,ayudante de macanico,723
+5186,jornal avanzado,000
+5187,operador de terrreno,000
+5188,encargado de maquinas,818
+5189,chofer y despachador,832
+5190,operador de filtros,818
+5191,gruero polifuncional,834
+5192,operador maquinarias meno,000
+5193,conductor y jornal,000
+5194,motorista patrullero,832
+5195,temporeros,921
+5196,operador de punto,000
+5197,traspaletero elctrico,834
+5198,recaudador de peaje,000
+5199,operador equipos,000
+5200,instalador de antena,000
+5201,hardos,000
+5202,opeerador de grua,834
+5203,mecanico n3,723
+5204,operador de alimentador,000
+5205,encargado congelados,932
+5206,lavado quimico de culata,723
+5207,operario camion mixer,834
+5208,inspector vehicular,000
+5209,estafeta motorista,832
+5210,auxiliar operaciones fundicion,812
+5211,operario de maquinaira,000
+5212,operador de maquina y aux,000
+5213,operativo de repuestos,000
+5214,cosecha de paltas,921
+5215,patron embarcacion,835
+5216,operador de maquina paking,000
+5217,ayudante de cierra,000
+5218,controlador de trafico,000
+5219,supervisor de equipos m,000
+5220,peoneta y cargador,933
+5221,mecanico v,723
+5222,operador de caldera y man,818
+5223,maestro descarga,933
+5224,matador,000
+5225,op de linea,000
+5226,bodegueroconductor,933
+5227,operador piking,933
+5228,operador de cancha,000
+5229,maestro de termo panel,000
+5230,aculatador de camiones,933
+5231,encargad descarga de cami,933
+5232,operador trabajo vertical,000
+5233,canguero picador,931
+5234,operador sondaje,811
+5235,ayudnate de sondaje,811
+5236,operador de segregacion,000
+5237,sub jefe de barra,000
+5238,chofer camion cecinas,833
+5239,huinchador,931
+5240,grua orquilla,834
+5241,conductor vehiculo carga,833
+5242,ope maquinaria pesada,834
+5243,operador linea principal,000
+5244,operativo en bodega,933
+5245,operador prevencion perdi,000
+5246,operaror de maquina cnc,722
+5247,ayudante granalla,932
+5248,operario recauchaje,814
+5249,armador e instalador,721
+5250,ayudante carroceria,722
+5251,axuliar camion,933
+5252,maquina y herramientas,722
+5253,clasificado de madera,817
+5254,operador maquina enfardad,814
+5255,soldador avanzado,721
+5256,prensista senior,814
+5257,vidrio en ruta,811
+5258,ayuda gasfiter,000
+5259,motorista de andanivel,833
+5260,electrico en minas,000
+5261,operador de central termi,000
+5262,recorredor,000
+5263,maestro pulido,722
+5264,ordenador de grua,834
+5265,operador de hidro cooler,814
+5266,inspector de turno 5x2,000
+5267,maestro eletrico,000
+5268,operario salmonera,921
+5269,conductor y ayudante logi,000
+5270,peonera,921
+5271,operador huinchero,834
+5272,operador de presas,000
+5273,operador de bateria,000
+5274,maestro instalador de pis,000
+5275,asistente soldadura,721
+5276,chofer y logistica,832
+5277,retificador motor,723
+5278,operador terreno erco,000
+5279,ayudante mecanico y condu,723
+5280,maestro de moldaje,931
+5281,operador terreno dicor,000
+5282,perario de frigorificos,000
+5283,maestro instalador pvc y,000
+5284,ayudnate hidraulico,000
+5285,conductor ventas reparto,832
+5286,ayudante camion,933
+5287,operador de camara guardi,000
+5288,operador mini escavador,834
+5289,ayudante de camion algiber,933
+5290,operarip varios,000
+5291,ayudante mantenedor mecan,723
+5292,mastro carpintero,000
+5293,operardor de aserradero,817
+5294,mecanico jefe,723
+5295,operario despachador,933
+5296,movilizadores 1,933
+5297,operador de grua orquidea,834
+5298,operador de revestimiento,812
+5299,conductor de funicular,832
+5300,ayudante de moldeador,721
+5301,pioneta de reparto,832
+5302,pulidor y pintor,812
+5303,ayudante de planta termic,000
+5304,jefe de sala area de maqu,000
+5305,operario de barco,835
+5306,teccino de instalaciones,723
+5307,mecanico de linea rapida,723
+5308,opertario,000
+5309,soldador en taller,721
+5310,cantero,931
+5311,ayudante de ducto,000
+5312,operario de fundo,921
+5313,ayud mecanico auto,723
+5314,pioneta ayudante de ruta,933
+5315,pionete,931
+5316,descargador de lanchas,933
+5317,operador plc,000
+5318,conductor de carro,832
+5319,ayudante mec,723
+5320,conductor de camion barre,833
+5321,recaudador de buses,000
+5322,auxiliar de soldador,721
+5323,encargado de barricas,932
+5324,monitor operacional,000
+5325,armador  soldador,721
+5326,encargado de soldadura,721
+5327,maquinista inyectorista,814
+5328,soldadura y mantencion,721
+5329,operador casamezcla,000
+5330,ayudant en refrigeracion,723
+5331,mecanico de jornada,723
+5332,carpintero en seguridad,000
+5333,movilizador de frigorific,000
+5334,entrega de muebkes,000
+5335,operador de barredora,933
+5336,operador congelados,814
+5337,chofer de maq pesada,834
+5338,mecanico de helicopteros,723
+5339,lavador elevador camione,933
+5340,maestro armador de segund,000
+5341,encargado taller y mecani,723
+5342,operador de neumaticos,000
+5343,chofer ambulancia,832
+5344,operador kaes,000
+5345,operador del centro i,000
+5346,operador de zona estanque,000
+5347,obrero tractorista,834
+5348,operario mantencion mecan,723
+5349,operador d egrua,834
+5350,repartidor de domino pizza,832
+5351,mecanico de motos,723
+5352,ayundante soldador,721
+5353,conductor y rescatista,000
+5354,operarios planta piloto,812
+5355,maestro mayor montaje,721
+5356,plantero mecanico,000
+5357,operador de grua hoquilla,834
+5358,mantenciones y acondicion,000
+5359,maestro de hormigones,931
+5360,jefe de mecanizado,000
+5361,operario de equipos,000
+5362,operador bodega y peoneta,933
+5363,verificador de carga,933
+5364,operardor de maquinas,000
+5365,opmantenedor,000
+5366,conductor instalador,000
+5367,operador de generacion,000
+5368,conductor de camiones cer,833
+5369,operario aseo maquinas,000
+5370,operador sal de maquina,818
+5371,andaribelista,834
+5372,repondor de ruta,933
+5373,cortador de marmol,000
+5374,operario bodega y grua,834
+5375,maquinista segundo,831
+5376,operativo especialista,000
+5377,tecnico de costura,000
+5378,maestro arm soldador,721
+5379,operador 1 y ayudante,000
+5380,opoerador de productos es,000
+5381,operario de quimico,813
+5382,soldador mecanico industr,721
+5383,tecnico e instalaciones,000
+5384,encargado equipo rodante,833
+5385,operador de maquinaria pesada,834
+5386,operario paquimetro,000
+5387,trabajador de cuadrilla,921
+5388,operador transportista,933
+5389,preparador de autos nuevo,723
+5390,ayudante guardaparque,000
+5391,movilizador a bordo,835
+5392,oprador de turno,000
+5393,palitazador en frio,000
+5394,operador salsero,000
+5395,ayudante operador terreno,934
+5396,jefe de estacion,000
+5397,operador lavanderia,815
+5398,armador de cargas,933
+5399,capitan de barco,000
+5400,operador mestranza,000
+5401,ayudante en tuberia,000
+5402,operador especializado,000
+5403,lavador de componente,815
+5404,auxiliar automotriz,723
+5405,operador cortadora,814
+5406,peoneta  bodeguero,933
+5407,oeprador camion,833
+5408,riego degnificado,000
+5409,repartidor peoneta,933
+5410,operador ceos,000
+5411,logistica operario,933
+5412,maestro de maqquina,000
+5413,mecanico zona caliente,723
+5414,conductor de micro bus,833
+5415,cuidador de maquinaria,000
+5416,aspirante a tripulante,000
+5417,operario de maestranza,000
+5418,condcutor de camion,833
+5419,manipulador de grua orqui,834
+5420,maestro cañerias,000
+5421,condujctor,832
+5422,toda pega en aserradero,921
+5423,mensajero motorizado,832
+5424,cargador frontal,834
+5425,preparadaor de pedido,933
+5426,operarios de operaciones,000
+5427,ayudante mecanizado,000
+5428,instalador climatizacion,000
+5429,empleado mezclero,813
+5430,operario campero,921
+5431,jefe hornero,812
+5432,operador muestrera,000
+5433,mezclador de piuntura,000
+5434,operador logista,933
+5435,repartidor motoboy,832
+5436,chofer de camiones tolva,833
+5437,maestro segunda montaje,000
+5438,operario de resortera,000
+5439,encargado de nave,835
+5440,asistente de obras civile,931
+5441,yalero y operario,000
+5442,operador aglomerador,818
+5443,operador de mezcla,813
+5444,lavado de maquinaria,000
+5445,operario extrusion,814
+5446,conductor seguridad,000
+5447,auxiliar de autos,000
+5448,operario jornalero,000
+5449,operario de maqquinaria,818
+5450,operador empaquetador,932
+5451,operador inst mantencion,000
+5452,flejador,932
+5453,encargado culatas,723
+5454,oiperador de servicio,000
+5455,oficial verificador alarm,000
+5456,operador b tronadura,000
+5457,consuctor y peoneta,000
+5458,operador de retroescav,834
+5459,maestro de pvc,722
+5460,op maquinista,831
+5461,operarioa gricola,921
+5462,ayudante ganadero,921
+5463,operador muldurera,814
+5464,estructurara,721
+5465,ayudante elctrico,000
+5466,grua horquillero,834
+5467,operario camion recolect,833
+5468,maestro de frenos,000
+5469,operario bodega y grua ho,834
+5470,soldador m1,721
+5471,climatizador,000
+5472,procesando maiz,816
+5473,cortador jardinero,921
+5474,encargado de laminado,812
+5475,conductor de tracto batea,833
+5476,tomero sc,000
+5477,operador maquinaria livia,834
+5478,carga trasera,933
+5479,operador de retroescabado,834
+5480,conductor e instalador,000
+5481,jefe ensacado,000
+5482,conductor auxiliar e ins,000
+5483,operario de carrusel,000
+5484,maestro cortador y chofer,000
+5485,conductor camion mantencion,832
+5486,mecanico de bici,723
+5487,mecanico c1,723
+5488,operador de tunel mantenc,000
+5489,operario de laminacion,812
+5490,operador de maquina 341,000
+5491,soldador y conductor,721
+5492,operador de embolsado,932
+5493,operador maquinaria pesada,834
+5494,intercambiador de bateria,000
+5495,operador grua hidraulica,834
+5496,operador de bomba de hormigon,834
+5497,operario de area,000
+5498,operador de vaciador,812
+5499,electrico semicalificado,000
+5500,marinero factoria,835
+5501,encargado de tubo liso,000
+5502,conductor con colaboracio,832
+5503,chofer y ayudante de obra,832
+5504,conductor y andamierop,000
+5505,maestro metalugico,000
+5506,ayudante de centro mecani,000
+5507,trazador de lineas,000
+5508,operador maquina control,000
+5509,operador carga aeropuerto,933
+5510,jornal pitonero,931
+5511,soldador torchador,721
+5512,soldador estructura,721
+5513,maestro metalico,722
+5514,doblador de fierro,722
+5515,conductor mercanico,000
+5516,operador dos,000
+5517,condusctor,000
+5518,mantencion canchas golf,921
+5519,armador de vehiculos,932
+5520,insector de cuero,000
+5521,metalico,000
+5522,manipulador de mercaderia,932
+5523,operador mantencion plaza,921
+5524,mantenedor horno,812
+5525,escogedor de metal,812
+5526,operador de perno convens,000
+5527,soldador montaje,721
+5528,electricistas,000
+5529,operador de escridel rape,000
+5530,arsenalera,000
+5531,mecanico de proceso,000
+5532,tecnico peoneta,000
+5533,operador de medidor,000
+5534,conductor soporte informa,000
+5535,operador de grua rescate,834
+5536,tractorisa,834
+5537,c0onductor,832
+5538,operador de grua y patio,834
+5539,operador de equipo y terr,834
+5540,chofer de despacho,832
+5541,piloto robot submarino,000
+5542,ayudante molino,932
+5543,chofer retroexcavadora,834
+5544,maestro varillero,931
+5545,operador mantenedor calde,733
+5546,operador de skider,834
+5547,operador de camion mixer,834
+5548,control molde,812
+5549,operador de trat y vapora,000
+5550,maestro 1 soldador hdpe,721
+5551,conductor ruta,832
+5552,operardor de maquina,000
+5553,conductor  vendedor,000
+5554,piloto de polo,000
+5555,operador carro huincha,834
+5556,metalurgia,000
+5557,montador estructuras metalicas,721
+5558,chofer mantenimiento,000
+5559,jornal de obra,931
+5560,operador productos termin,814
+5561,crew member,835
+5562,operador de maq indust,818
+5563,operario de cerdos lavad,921
+5564,peoneta camion repartidor,933
+5565,conductor y ventas,000
+5566,conductor cuarteleto,833
+5567,dueño empresa conductor,000
+5568,chofer y areas verdes,832
+5569,operador planta 1,818
+5570,aperador grua,834
+5571,maestro primera en montaj,721
+5572,encargado sala de bombas,818
+5573,mantenedor de grua torre,834
+5574,electrico montajes,721
+5575,conducto rampla,834
+5576,conductor furgon paciente,832
+5577,operario antencion,000
+5578,asociado manipulador,932
+5579,operador de planta 2,000
+5580,repartidor despachador,832
+5581,armador e intalador,723
+5582,mecanico supervisor,723
+5583,auxiliar de vegetales,921
+5584,operador en planta en fri,000
+5585,entrega de pedidos,832
+5586,operario en piscicultura,921
+5587,conductor asistente de bodega,933
+5588,operador de bascula,000
+5589,capataz de aislacion,000
+5590,operador de maquina prens,814
+5591,jefe maquina,834
+5592,m1 aislacion,723
+5593,operador atm,000
+5594,ayudante de instalacion v,000
+5595,maestro estucturas metali,721
+5596,chofer logistico,833
+5597,cortador cabezas pescado,921
+5598,operador bomba hormigon,834
+5599,muestrero c,000
+5600,operardor de frio,000
+5601,volante de aglomerado,000
+5602,jornal m2,000
+5603,aprendiz cepilladora,722
+5604,m1 ailacion,000
+5605,empaquero,932
+5606,ote operativo,000
+5607,transtorista,000
+5608,operarador de maquina,000
+5609,operario cosecha,921
+5610,operario de pesaje,000
+5611,operario area logistica,933
+5612,despacho de camiones,933
+5613,instructor manejo clase b,832
+5614,operador agua alta presio,000
+5615,chofer operador de camiones,833
+5616,operador comprimidor,818
+5617,coordinador de paletizado,932
+5618,ing en metalurgia,000
+5619,lmaestro de montaje,000
+5620,mestro 1 enfierrador,721
+5621,ayudante flexografia,000
+5622,en cargado movilizacion,933
+5623,picador y tornero,000
+5624,conductor multiservicio,832
+5625,ayudante de queseria,816
+5626,obrero y operador de maqu,000
+5627,inspector motorista,832
+5628,operador de neumateca,000
+5629,ayudante de carniceria,932
+5630,manipulador de verduras,921
+5631,mecanico c 3,723
+5632,asistente de rampa,933
+5633,operador de rod,834
+5634,auxiliar de mecanico,723
+5635,conductor operador maqui,834
+5636,descargador de uva,921
+5637,primer oficial maquinas,835
+5638,operario de maquinarias,000
+5639,operario piscicultura,921
+5640,operador 1 de planta,000
+5641,cargador de chanchos,000
+5642,operador de inspeccion,000
+5643,operaciones aereas,000
+5644,trabajador de pesebreras,000
+5645,ayudante muldurera,000
+5646,soldador hp,721
+5647,maquinaria y aplicaciones,000
+5648,operador alto tonelaje,834
+5649,tracto camion portuario,833
+5650,operador planta almidon y,816
+5651,operador gura horquilla,834
+5652,ayudante de vaciado,932
+5653,operador de maq de herra,722
+5654,conductor camiones pesado,833
+5655,mecanico maquinas herrami,722
+5656,conductor transporte esco,832
+5657,operador despachador gru,834
+5658,ayudante liniero electric,000
+5659,chofer ayudante instalado,832
+5660,operador de ccctv,000
+5661,operador mantenedor de pl,000
+5662,operador de grua manipula,834
+5663,cinductor,000
+5664,controlador de patio bus,833
+5665,control comando industria,000
+5666,reparto a clientes,832
+5667,corrugador,814
+5668,moldajista,722
+5669,ayusante mecanico,723
+5670,operador motobombista,834
+5671,ayudante y soldador,721
+5672,operador osvl,000
+5673,operador de linea 7,000
+5674,operador trafico de vara,933
+5675,cargador y envasado,932
+5676,operario calificador,932
+5677,aprendiz mecanica,723
+5678,operario de vaciado,812
+5679,apoyo mecanico,000
+5680,op de grua integral,834
+5681,apoyo de chofer,832
+5682,operador de maquina pesa,818
+5683,mecanico textil,815
+5684,operador de caldera y sec,818
+5685,operador de maqunaria,834
+5686,ayudante de caucho,814
+5687,pioneta de camion r,933
+5688,maestro de maquinas,000
+5689,operador de roboshet,000
+5690,supervisor de camiones,000
+5691,operario avicultor,921
+5692,soldador y otros,721
+5693,integrante de cuadrilla,931
+5694,operador de maquina singu,000
+5695,licencias de conducier,000
+5696,operador oge,834
+5697,cartero cdp,000
+5698,liniero operador,000
+5699,roadeador,000
+5700,petiseco,000
+5701,repartidor  bodeguero,933
+5702,operador tracto camion po,833
+5703,chofer asistencia,832
+5704,operador de apilador,834
+5705,operador a planta,812
+5706,reaprtidor,832
+5707,mecanico tornero convenci,722
+5708,operador de packimg,814
+5709,operario en bomba de benc,834
+5710,despachador de camiones,933
+5711,operador de reaccion,813
+5712,operador grua mordaza,834
+5713,encargado de cnc,722
+5714,operario de maquinas indu,814
+5715,chofer del colegio,832
+5716,montaje de bombas,722
+5717,operador de remanufactura,000
+5718,conductor en ruta,833
+5719,maestro soladador,721
+5720,canductor,000
+5721,operador de mantenedor el,000
+5722,operador consolidado,000
+5723,peoneto,931
+5724,operador de lacer,722
+5725,asistente piloto,000
+5726,preoperador,000
+5727,operativo de patio,933
+5728,operador maquina industri,812
+5729,chofer camion explosivos,833
+5730,operario motorista,834
+5731,fabricacion de paneles,000
+5732,operador de cango,834
+5733,operador y chofer,833
+5734,operador monitoreo,000
+5735,ribetero,000
+5736,maquinista en altura,834
+5737,operador equipos pesados,834
+5738,tecnico carrocero,721
+5739,conductor de camion repar,000
+5740,tripulante flota,835
+5741,operario de molde,812
+5742,operario de herramienta,722
+5743,soldador senior,721
+5744,operador de despliege,000
+5745,operarioa de criadero,921
+5746,soldador plegador,721
+5747,repartidor de botellones,832
+5748,ayudante del gasfiter,000
+5749,enguinchado,000
+5750,reponedor trabajo en terr,933
+5751,operario laser,000
+5752,moldajes,931
+5753,operario recubrimiento,812
+5754,cocechero de mariscos,921
+5755,ayudante arreglador de ca,000
+5756,ottawero,000
+5757,jjornal,000
+5758,guardavias,000
+5759,operador licidacion c,000
+5760,operador de aditivo,000
+5761,jefe instalacion sanitari,000
+5762,ayudante mecanico a,723
+5763,armardor reparador,723
+5764,cortador de cristales,000
+5765,operdor de maquina dimens,818
+5766,dispachador,000
+5767,conducor cargas peligrosa,833
+5768,operador tilt hoist,834
+5769,conductor acomodador,000
+5770,conductor de ambulancias,832
+5771,chofer y operario de bode,832
+5772,oparador grua,834
+5773,operario en rampa,933
+5774,auxiliar fundicion,812
+5775,tractotero,834
+5776,asistente mecanico hidrli,723
+5777,construcciones metalicas,721
+5778,pillador de pollo,921
+5779,opertador,000
+5780,maestro de guillotina,814
+5781,tractorista de rampla,834
+5782,tornero en metal,721
+5783,operador de sala control,000
+5784,ayudante de tolba,000
+5785,supervisor servicio motor,723
+5786,ayudante de campero,921
+5787,coordinador de carga,933
+5788,operador maquina de herra,722
+5789,chofer de mantencion,832
+5790,operador de abastecimient,000
+5791,cartero repartidor,933
+5792,gruero y ayudante bodega,834
+5793,maestro de soldador,722
+5794,acomodador de madera,933
+5795,chofer y jefe de montaje,000
+5796,delivery terreno,832
+5797,pintor colorista automotr,000
+5798,operador brigadista,000
+5799,limpieza de maquinas,000
+5800,mantenedor mecanico en pl,723
+5801,mecanico bicicleta,723
+5802,operador planta molienda,812
+5803,atendedor de gasolinera,000
+5804,operador de bomba telesco,834
+5805,barnizador multifuncional,000
+5806,linero,000
+5807,op grua orquilla,834
+5808,capataz chofer cuadrilla,832
+5809,paletizador camara de fri,933
+5810,encargado de esqueleteria,000
+5811,operador de grua  bodegu,834
+5812,armador de ventanas pvc,932
+5813,movilizador transpaleta,933
+5814,operrador produccion,000
+5815,bodeguero y mantencion,933
+5816,chofer peonetta,833
+5817,operador de pelletizadora,818
+5818,conductor vehiculo pesad,833
+5819,dimensionador madera,934
+5820,mecanio de mantencion,723
+5821,mantenedor y op,000
+5822,operador de maquinarioa,834
+5823,encargado de cuarto frio,933
+5824,cargador despachador pa,933
+5825,operario de maquinaria in,000
+5826,operador precortado,000
+5827,chofer de marchandicing,832
+5828,condutor camion,833
+5829,electromecanico de turno,723
+5830,operador 2 reparacion,723
+5831,operador de vaines,000
+5832,op de camiones mixx,833
+5833,operador sala baterias,000
+5834,operador de isla,000
+5835,operador de grua moldasa,834
+5836,operador de planta riler,000
+5837,planta hormigonero,818
+5838,operacion y mantencion de,000
+5839,asistente de bomba bencin,000
+5840,operador minicargador fro,834
+5841,tarjador naves,835
+5842,chfofer,000
+5843,operador telescopio,000
+5844,operador transeferenci,000
+5845,operador maquina triple,814
+5846,rectificador de cilindros,722
+5847,conductor de camion de ba,833
+5848,operador trafico,000
+5849,mantencion en mecanica,723
+5850,traba de bodega de vino,933
+5851,repartidor mercaderia,832
+5852,operario de material grue,834
+5853,asistente de perforacion,811
+5854,cargo combustible,933
+5855,conductos,000
+5856,operativo prevension de p,000
+5857,operador y capataz,000
+5858,operario de agua,000
+5859,mwcanico,000
+5860,fitter mecanico reparado,723
+5861,movedor de cilindro,933
+5862,obrero cancha,000
+5863,operario modulo peces,921
+5864,repartidor terreno,832
+5865,operativo de bodega  des,933
+5866,opeador de grua,834
+5867,operador de alcantarillad,000
+5868,operador mantendor,000
+5869,operador de monta,834
+5870,operador de caseta de rie,000
+5871,operador de fin de linea,000
+5872,operador de riach,834
+5873,operador planta osmosis i,000
+5874,operador maqiuina aserrio,817
+5875,peajista,000
+5876,chofer  bodeguero,933
+5877,mantenedor procesos mecanico,722
+5878,concretero pulidor,932
+5879,operador de especialidade,000
+5880,operador grua mantencion,834
+5881,mecanico autonomo,723
+5882,jefe de nave,835
+5883,maquinista indust,000
+5884,operador de planta indust,000
+5885,mecanico dos,723
+5886,operador de tape automati,818
+5887,operador antenas,000
+5888,ayudante armado es metal,721
+5889,operario espacializado,000
+5890,operador mquinaria,834
+5891,operario de parque,000
+5892,operador hazmnat,000
+5893,gruero de patio,834
+5894,valijero peoneta,933
+5895,tecnico chofer,832
+5896,operador th,000
+5897,operador centro mecanizad,722
+5898,perador,000
+5899,metalizado,812
+5900,instalador de soprtes,000
+5901,mecanico de mantencion mina,723
+5902,mecanico y maestro obras,000
+5903,operador de seleccion,000
+5904,ayudante de cepillado,000
+5905,maestro en metalurgica,000
+5906,intalador,000
+5907,operador maquina is,000
+5908,operador de terrerno,834
+5909,soldador y ayudante mecan,721
+5910,operador de chipiador,834
+5911,tripulante cubierta gener,835
+5912,operario de huincha,932
+5913,op de excavadora,834
+5914,ojalatero en taller,721
+5915,operador centro control,000
+5916,operador maq multiple,000
+5917,soldador armad,721
+5918,condcutor trans escolar,833
+5919,op de punta calificado,000
+5920,tripulante guinchero,834
+5921,conductor de la seremi,000
+5922,operador de impresora,000
+5923,ayudante en torneria,722
+5924,operador mantenedor 1,000
+5925,sldador,721
+5926,operado de planta cal y c,813
+5927,maestro de torneria,722
+5928,ayunte de mecanico,723
+5929,encargado de turno envasa,000
+5930,maquinsita de soplado,818
+5931,mortorista,832
+5932,maestro metalizado,812
+5933,chofer y cargador,832
+5934,operador orillador,814
+5935,tec aplicador chofer,000
+5936,operador y conductor de v,833
+5937,operaor de maquinas,000
+5938,seleccionador de madera,921
+5939,conductor y bodega,933
+5940,operativo de parquimetro,933
+5941,operario convelyor,000
+5942,conductor  junior,832
+5943,segundo marino,835
+5944,efierrador,721
+5945,operador tractorista,834
+5946,maestro operador 2 y ayud,000
+5947,operario sala de control,000
+5948,operador motacarga,834
+5949,instalador de piso,000
+5950,mecanico montagista,723
+5951,jornal coasechero,921
+5952,operario de mentencion,000
+5953,soldador de 1ra,721
+5954,operador de retroexcabado,834
+5955,chofer de grua y camiones,834
+5956,ayudante de laminador,812
+5957,operador de labado,000
+5958,maestro en termo paneles,000
+5959,cortador de material,000
+5960,condutor y mantencion,000
+5961,asistente de bus y estafe,833
+5962,conductor regional,833
+5963,mecanico tornero soldador,722
+5964,operador maquinas y herra,000
+5965,operador doble backe,818
+5966,m 18:30 ecanico soldador,721
+5967,mecanico de trenes,723
+5968,oprador de grua,834
+5969,mantenedor maquinaria pes,723
+5970,operador planta termica,818
+5971,operador de robochop,000
+5972,piloto de ros,000
+5973,operario de combustible,000
+5974,operador lavado bins,814
+5975,operador centro,000
+5976,operador terminal,000
+5977,operador general de mant,000
+5978,operador apr,000
+5979,maestro perforador,811
+5980,jefe de maquinarias,000
+5981,chofer secretario,000
+5982,operador dos aguas,000
+5983,operador maquina de lavad,815
+5984,operador mantenedor grua,834
+5985,operario tdh,000
+5986,brigadista mantenedor,000
+5987,operador de maquinario,834
+5988,manejo de vehiculos fisca,000
+5989,lector medidores agua,000
+5990,conductor de servicios,000
+5991,ayudante en mecanico,723
+5992,piloto de arco pesquero,000
+5993,operador mecanico de grua,834
+5994,carga y despcarga operari,933
+5995,operador recepcion y desp,933
+5996,conductor trabajador agr,834
+5997,ayudante picking,933
+5998,conductor de movil,832
+5999,jardinero mantenedor,921
+6000,mecanico disel senior,723
+6001,conduictor grua horquilla,834
+6002,operador de gruas orquilla,834
+6003,oeprador de maquina,000
+6004,fabricador de ventana,721
+6005,operador de gas,000
+6006,mantenedor de turno,723
+6007,operador camaras frigori,000
+6008,maestro liniero capataz,722
+6009,mecanico grua,723
+6010,operador de andarivel,834
+6011,operador huincha,933
+6012,rigger operario de maquin,834
+6013,chofer bodeguera,833
+6014,jornal de temporada,921
+6015,conductor aeropuerto,832
+6016,termo fucionador,000
+6017,carrir repartidor,832
+6018,mantencion y soldadura,721
+6019,conductor aeropuertario,833
+6020,operador equipo rodante,834
+6021,operador de trineumatico,834
+6022,operador de voltaje m1,000
+6023,operador terine,000
+6024,encargada de instalacione,000
+6025,tornero matricero,722
+6026,encargado envasado,932
+6027,multioperador maquinaria,000
+6028,jornal en terreno,000
+6029,operario manteamiento,000
+6030,jornal operador,000
+6031,tornero 4,722
+6032,conductor pratullero,832
+6033,operdor de caldera,818
+6034,operador estaker,834
+6035,chofer de carga pesada,833
+6036,operador de camion at,833
+6037,piloto dron,000
+6038,chofer o pioneta,832
+6039,enzuchador,000
+6040,ayduante liniero,721
+6041,mecanico de maq agr,723
+6042,jefe de tractores,834
+6043,instalador de muebles y c,000
+6044,operador centro de contro,000
+6045,mecanico y reparadores,723
+6046,operador equipo mecanizad,834
+6047,operador q,000
+6048,operador de bodega enolog,933
+6049,soldador estructurero,721
+6050,operario maq selladora,818
+6051,tenss arsenalero,000
+6052,conductor camiones art,833
+6053,instalador de ventalnas,932
+6054,auxiliar agropecuario,921
+6055,chofer de riesgos,000
+6056,operador msa,000
+6057,operador de maquinas de j,000
+6058,ayudante cintas impresa,932
+6059,operador mantende planta,000
+6060,operador planta de agua,000
+6061,recuperador  mecanico,723
+6062,torneria soldaura,721
+6063,operador sala maquinas,818
+6064,mecanico jefe taller,723
+6065,asistente operador de vms,000
+6066,chofer operario de bodega,933
+6067,operario trafilacion,812
+6068,seguridad motorista,832
+6069,jardinero chofer,000
+6070,limpiador de cerdo,921
+6071,operador starker,000
+6072,maestro de esmerilado,722
+6073,mecanico soldador indust,721
+6074,conductor de transp comb,833
+6075,op camion alto tonelaje,833
+6076,operario alta mar,835
+6077,mecanico de equipos,723
+6078,operdaor caex,834
+6079,ayudante e produccion,932
+6080,repartidor y compra,832
+6081,chiofer,000
+6082,rectificador de vielas,722
+6083,encargado taller mecanico,723
+6084,ayudante de pilotera,931
+6085,operador planta tach,818
+6086,soldador multiple,721
+6087,operario calibrador,722
+6088,operador autoclave manten,814
+6089,operario operaciones,000
+6090,operador rollero,000
+6091,ayudante en mecanica idus,723
+6092,operario de gruas,834
+6093,trabajdor de maquinaria a,834
+6094,operador scott,000
+6095,conductor en carretera,833
+6096,conductor venta,832
+6097,operador temporal,000
+6098,motorista preventivo,832
+6099,conductor y pedidos,832
+6100,cargador de leña,933
+6101,jornal cangero,931
+6102,operador de robochot,000
+6103,corredor de carro,832
+6104,operador de embolso,818
+6105,caldelero naval,721
+6106,encargado oxicorte,721
+6107,operario chofer,832
+6108,operarador de astillador,817
+6109,encargado de refilado,814
+6110,operador de valvulas o bo,000
+6111,montajista estructural,721
+6112,operador de andaribel,834
+6113,operario del centro,000
+6114,coordinar de instalacion,000
+6115,operador de bms,000
+6116,desarmador de autos,723
+6117,mantencion chofer,832
+6118,programador de maquinas,000
+6119,auydante de operador,000
+6120,colorista  op maquinas,812
+6121,reponedro chofer,832
+6122,operario de godega,933
+6123,operador autoclave,818
+6124,armador de camaras frigor,721
+6125,conductor tl,832
+6126,pioneta y embalador,932
+6127,movimiento de tierra,834
+6128,operador frigorista,000
+6129,operario fundidor,812
+6130,conductor de sondaje,000
+6131,operario de sala de maqui,000
+6132,operador rigger,834
+6133,cortador de laminas,000
+6134,soldador enrierrador,721
+6135,conductor  tens,832
+6136,despachador y pioneta,933
+6137,operador de idro labadora,000
+6138,bodeguero y conductor de,933
+6139,supervisor intalaciones,000
+6140,asistente de aserradero,921
